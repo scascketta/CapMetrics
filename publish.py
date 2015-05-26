@@ -143,13 +143,12 @@ def _process_trips(trips):
             if not trip.missing_shape:
                 pos['dist_traveled'], prev_pt_seq, decreased = metrics.calc_dist_traveled(pos, trip.shape_points, trip.dist_between_pts, prev_pt_seq, prev_dist_traveled)
                 prev_dist_traveled = pos['dist_traveled']
+                if decreased:
+                    total_errors += 1
             else:
                 pos['dist_traveled'] = -1
 
             processed.append(pos)
-
-            if decreased:
-                total_errors += 1
 
     return processed, total_errors
 
