@@ -7,7 +7,7 @@ The captured vehicle location data for each day is made available the next day u
 
 ## How the data is collected
 
-CapMetro publishes all of the instanteous vehicle positions on their data portal [here](https://data.texas.gov/Capital-Metro/Capital-Metro-Veh-Loc-pb/i5qp-g5fd). I continously capture the live vehicle positions, store it in a database, and publish it the next day.
+CapMetro publishes all of the instantaneous vehicle positions on their data portal [here](https://data.texas.gov/Capital-Metro/Capital-Metro-Veh-Loc-pb/i5qp-g5fd). I continously capture the live vehicle positions, store it in a database, and publish it the next day.
 
 ## Data Format
 At the moment, only [vehicle positions](https://developers.google.com/transit/gtfs-realtime/reference#VehiclePosition) are recorded.
