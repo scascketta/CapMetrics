@@ -15,6 +15,7 @@ GTFS_DB = os.path.join('/tmp', 'capmetro_gtfs_data.db')
 
 
 class Config(dict):
+
     """Config-like dict object, borrowed from Flask."""
 
     def __init__(self, root_path, defaults=None):
@@ -87,10 +88,10 @@ def _load_config():
 LOGGER = _setup_logging()
 
 
-def _fetch_gtfs_data():
-    gtfs_url = 'https://data.texas.gov/download/r4v4-vz24/application/zip'
+def _fetch_gtfs_data(gtfs_url):
     res = requests.get(gtfs_url, stream=True)
-    assert res.ok, 'problem fetching data. status_code={}'.format(res.status_code)
+    assert res.ok, 'problem fetching data. status_code={}'.format(
+        res.status_code)
 
     with open(GTFS_DOWNLOAD_FILE, 'wb') as f:
         for chunk in res.iter_content(1024):
@@ -98,12 +99,12 @@ def _fetch_gtfs_data():
     LOGGER.info('saved to {}'.format(GTFS_DOWNLOAD_FILE))
 
 
-def load_gtfs_data(cache=False):
+def load_gtfs_data(gtfs_url, cache=False):
     if cache and os.path.isfile(GTFS_DB):
         LOGGER.info('Using cached GTFS data at: {}'.format(GTFS_DB))
         return
 
-    _fetch_gtfs_data()
+    _fetch_gtfs_data(gtfs_url)
 
     database_load(
         filename=GTFS_DOWNLOAD_FILE,
@@ -116,4 +117,5 @@ def load_gtfs_data(cache=False):
 
 
 if __name__ == '__main__':
-    load_gtfs_data()
+    fetch_url = 'https://data.texas.gov/download/r4v4-vz24/application/zip'
+    load_gtfs_data(fetch_url)
