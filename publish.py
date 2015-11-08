@@ -105,5 +105,5 @@ def save_range_vehicle_positions(sqlite_conn, start, end):
 
 
 if __name__ == '__main__':
-    utils.load_gtfs_data(cache=True)
+    utils.load_gtfs_data()
     save_vehicle_positions()

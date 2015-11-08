@@ -12,7 +12,7 @@ from gtfsdb.api import database_load
 PY2 = sys.version_info[0] == 2
 GTFS_DOWNLOAD_FILE = os.path.join('/tmp', 'capmetro_gtfs.zip')
 GTFS_DB = os.path.join('/tmp', 'capmetro_gtfs_data.db')
-
+FETCH_URL = 'https://data.texas.gov/download/r4v4-vz24/application/zip'
 
 class Config(dict):
 
@@ -99,7 +99,7 @@ def _fetch_gtfs_data(gtfs_url):
     LOGGER.info('saved to {}'.format(GTFS_DOWNLOAD_FILE))
 
 
-def load_gtfs_data(gtfs_url='https://data.texas.gov/download/r4v4-vz24/application/zip', cache=False):
+def load_gtfs_data(gtfs_url=FETCH_URL, cache=False):
     if cache and os.path.isfile(GTFS_DB):
         LOGGER.info('Using cached GTFS data at: {}'.format(GTFS_DB))
         return
@@ -117,4 +117,4 @@ def load_gtfs_data(gtfs_url='https://data.texas.gov/download/r4v4-vz24/applicati
 
 
 if __name__ == '__main__':
-    load_gtfs_data()
+    load_gtfs_data(FETCH_URL)
