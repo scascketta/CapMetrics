@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+import argparse
 import sqlite3
 import datetime
 import subprocess
@@ -16,7 +17,7 @@ CONFIG = utils._load_config()
 
 POSITION_DTYPES = {
     'vehicle_id': np.str,
-    'timestamp': np.uint64,
+    'timestamp': np.str,
     'speed': np.float,
     'route_id': np.str,
     'trip_id': np.str,
@@ -62,7 +63,7 @@ def process_positions(positions):
     return positions
 
 
-def get_positions(date=None):
+def get_positions(db_path, date=None):
     # Fetch vehicle positions for the date (in local time)
     if date is None:
         date = arrow.now()
@@ -75,7 +76,7 @@ def get_positions(date=None):
 
     path = '/tmp/output.csv'
 
-    args = ['capmetricsd', 'get', '/Users/sean/code/golang/src/github.com/scascketta/capmetricsd/capmetricsd.boltdb', path, str(day_before.timestamp), str(date.timestamp)]
+    args = ['capmetricsd', 'get', db_path, path, str(day_before.timestamp), str(date.timestamp)]
     code = subprocess.call(args)
     if int(code) != 0:
         raise Exception('Error getting data from capmetricsd: {}'.format(' '.join(args)))
@@ -83,27 +84,32 @@ def get_positions(date=None):
     return pd.read_csv(path, dtype=POSITION_DTYPES)
 
 
-def save_vehicle_positions(date=None):
-    positions = get_positions(date)
+def save_vehicle_positions(db_path, output, date=None):
+    positions = get_positions(db_path, date)
     positions = process_positions(positions)
 
     if date is None:
         date = arrow.now().replace(days=-1)
 
     day = date.strftime('%Y-%m-%d')
-    positions.to_csv('{}{}.csv'.format(OUTPUT_PATH, day), index=False)
+    positions.to_csv('{}{}.csv'.format(output, day), index=False)
 
 
-def save_range_vehicle_positions(sqlite_conn, start, end):
+def save_range_vehicle_positions(db_path, output, start, end):
     num_days = (end - start).days + 1
     datelist = [end - datetime.timedelta(days=offset) for offset in range(num_days)]
 
     LOGGER.info('Saving data from {} to {}.'.format(start.isoformat(), end.isoformat()))
     for date in reversed(datelist):
         LOGGER.info('Saving data for {}'.format(date.isoformat()))
-        save_vehicle_positions(sqlite_conn, date)
+        save_vehicle_positions(db_path, output, date)
 
 
 if __name__ == '__main__':
-    utils.load_gtfs_data()
-    save_vehicle_positions()
+    parser = argparse.ArgumentParser(description='Grab CapMetrics data from BoltDB and write it as a CSV file.')
+    parser.add_argument('-d', '--db', required=True, type=str, help='Path to a BoltDB database.')
+    parser.add_argument('-O', '--output', type=str, default=OUTPUT_PATH, help='File to write data to.')
+    args = parser.parse_args()
+
+    utils.load_gtfs_data(cache=True)
+    save_vehicle_positions(args.db, args.output)
