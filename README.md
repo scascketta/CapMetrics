@@ -21,6 +21,6 @@ Here's what their data looks like:
 | lon | longitude of vehicle when position was recorded | [Position](https://developers.google.com/transit/gtfs-realtime/reference#Position) |
 | lat | latitude of vehicle when position was recorded | [Position](https://developers.google.com/transit/gtfs-realtime/reference#Position) |
 | route_id | ID of the route the vehicle is assigned to | [TripDescriptor](https://developers.google.com/transit/gtfs-realtime/reference#TripDescriptor) |
-| timestamp | Moment at which the vehicle's position was measured | [VehiclePosition](https://developers.google.com/transit/gtfs-realtime/reference#VehiclePosition) |
+| timestamp | Moment at which the vehicle's position was measured in the ISO 8601 format. | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) |
 | trip_id | Refers to a trip from the GTFS feed | [TripDescriptor](https://developers.google.com/transit/gtfs-realtime/reference#TripDescriptor) |
-| dist_traveled | The distance (in miles) traveled by the vehicle along the shape of the current trip. If the shape for the trip is not available, this will be set to -1. This metric is not provided by CapMetro, so I calculate it as best I can (see the [code](https://github.com/scascketta/capmetrics/blob/5225ecf417fa641fbc4c65bb0d12986f534dd00f/metrics.py#L89-L101)). | N/A |
+| dist_traveled **DEPRECATED after 2015-09-30** | The distance (in miles) traveled by the vehicle along the shape of the current trip. If the shape for the trip is not available, this will be set to -1. This metric is not provided by CapMetro, so I calculate it as best I can (see the [code](https://github.com/scascketta/capmetrics/blob/5225ecf417fa641fbc4c65bb0d12986f534dd00f/metrics.py#L89-L101)). | N/A |
