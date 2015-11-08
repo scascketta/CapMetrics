@@ -99,7 +99,7 @@ def _fetch_gtfs_data(gtfs_url):
     LOGGER.info('saved to {}'.format(GTFS_DOWNLOAD_FILE))
 
 
-def load_gtfs_data(gtfs_url, cache=False):
+def load_gtfs_data(gtfs_url='https://data.texas.gov/download/r4v4-vz24/application/zip', cache=False):
     if cache and os.path.isfile(GTFS_DB):
         LOGGER.info('Using cached GTFS data at: {}'.format(GTFS_DB))
         return
@@ -117,5 +117,4 @@ def load_gtfs_data(gtfs_url, cache=False):
 
 
 if __name__ == '__main__':
-    fetch_url = 'https://data.texas.gov/download/r4v4-vz24/application/zip'
-    load_gtfs_data(fetch_url)
+    load_gtfs_data()
