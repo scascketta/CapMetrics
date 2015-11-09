@@ -18,8 +18,8 @@ Here's what their data looks like:
 | --- | --- | --- |
 | vehicle_id | ID of the transit vehicle | [VehicleDescriptor](https://developers.google.com/transit/gtfs-realtime/reference#VehicleDescriptor) |
 | speed | speed of the vehicle when position was recorded | [Position](https://developers.google.com/transit/gtfs-realtime/reference#Position) |
-| lon | longitude of vehicle when position was recorded | [Position](https://developers.google.com/transit/gtfs-realtime/reference#Position) |
-| lat | latitude of vehicle when position was recorded | [Position](https://developers.google.com/transit/gtfs-realtime/reference#Position) |
+| longitude | longitude of vehicle when position was recorded | [Position](https://developers.google.com/transit/gtfs-realtime/reference#Position) |
+| latitude | latitude of vehicle when position was recorded | [Position](https://developers.google.com/transit/gtfs-realtime/reference#Position) |
 | route_id | ID of the route the vehicle is assigned to | [TripDescriptor](https://developers.google.com/transit/gtfs-realtime/reference#TripDescriptor) |
 | timestamp | Moment at which the vehicle's position was measured in the ISO 8601 format. | [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) |
 | trip_id | Refers to a trip from the GTFS feed | [TripDescriptor](https://developers.google.com/transit/gtfs-realtime/reference#TripDescriptor) |
