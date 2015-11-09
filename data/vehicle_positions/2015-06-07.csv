@@ -1,4 +1,4 @@
-vehicle_id,dist_traveled,speed,lon,route_id,trip_headsign,timestamp,lat,trip_id
+vehicle_id,dist_traveled,speed,longitude,route_id,trip_headsign,timestamp,latitude,trip_id
 8907,-1,0,-97.7912,3,,2015-06-07T08:15:59-05:00,30.163252,1432793
 8907,-1,0,-97.7912,3,,2015-06-07T08:17:48-05:00,30.163252,1432793
 8907,-1,0,-97.79123,3,,2015-06-07T08:19:48-05:00,30.163225,1432793
