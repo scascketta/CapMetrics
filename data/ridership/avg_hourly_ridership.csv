@@ -1,0 +1,2905 @@
+ridership,route_id,route_name,route_type,service_period,day
+42.0,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Spring 2012,weekday
+38.0,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Summer 2012,weekday
+41.9,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Fall 2012,weekday
+40.5,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Spring 2013,weekday
+38.3,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Summer 2013,weekday
+37.0,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Fall 2013,weekday
+46.8,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Spring 2014,weekday
+37.7,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Summer 2014,weekday
+36.3,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Fall 2014,weekday
+33.6,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Spring 2015,weekday
+32.5,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Summer 2015,weekday
+30.2,2,2-ROSEWOOD,Local,Spring 2012,weekday
+29.9,2,2-ROSEWOOD,Local,Summer 2012,weekday
+32.6,2,2-ROSEWOOD,Local,Fall 2012,weekday
+29.2,2,2-ROSEWOOD,Local,Spring 2013,weekday
+29.2,2,2-ROSEWOOD,Local,Summer 2013,weekday
+29.7,2,2-ROSEWOOD,Local,Fall 2013,weekday
+27.6,2,2-ROSEWOOD,Local,Spring 2014,weekday
+25.8,2,2-ROSEWOOD,Local,Summer 2014,weekday
+27.4,2,2-ROSEWOOD,Local,Fall 2014,weekday
+23.2,2,2-ROSEWOOD,Local,Spring 2015,weekday
+22.7,2,2-ROSEWOOD,Local,Summer 2015,weekday
+31.3,3,3-BURNET/MANCHACA,Local,Spring 2012,weekday
+30.3,3,3-BURNET/MANCHACA,Local,Summer 2012,weekday
+32.8,3,3-BURNET/MANCHACA,Local,Fall 2012,weekday
+32.9,3,3-BURNET/MANCHACA,Local,Spring 2013,weekday
+30.7,3,3-BURNET/MANCHACA,Local,Summer 2013,weekday
+33.4,3,3-BURNET/MANCHACA,Local,Fall 2013,weekday
+33.4,3,3-BURNET/MANCHACA,Local,Spring 2014,weekday
+30.9,3,3-BURNET/MANCHACA,Local,Summer 2014,weekday
+30.5,3,3-BURNET/MANCHACA,Local,Fall 2014,weekday
+29.4,3,3-BURNET/MANCHACA,Local,Spring 2015,weekday
+28.3,3,3-BURNET/MANCHACA,Local,Summer 2015,weekday
+25.7,4,4-MONTOPOLIS,Local,Spring 2012,weekday
+27.3,4,4-MONTOPOLIS,Local,Summer 2012,weekday
+27.2,4,4-MONTOPOLIS,Local,Fall 2012,weekday
+25.3,4,4-MONTOPOLIS,Local,Spring 2013,weekday
+26.9,4,4-MONTOPOLIS,Local,Summer 2013,weekday
+24.7,4,4-MONTOPOLIS,Local,Fall 2013,weekday
+27.8,4,4-MONTOPOLIS,Local,Spring 2014,weekday
+25.7,4,4-MONTOPOLIS,Local,Summer 2014,weekday
+24.1,4,4-MONTOPOLIS,Local,Fall 2014,weekday
+22.7,4,4-MONTOPOLIS,Local,Spring 2015,weekday
+22.4,4,4-MONTOPOLIS,Local,Summer 2015,weekday
+22.3,5,5-WOODROW/SOUTH 5TH,Local,Spring 2012,weekday
+20.9,5,5-WOODROW/SOUTH 5TH,Local,Summer 2012,weekday
+25.2,5,5-WOODROW/SOUTH 5TH,Local,Fall 2012,weekday
+23.3,5,5-WOODROW/SOUTH 5TH,Local,Spring 2013,weekday
+21.6,5,5-WOODROW/SOUTH 5TH,Local,Summer 2013,weekday
+23.3,5,5-WOODROW/SOUTH 5TH,Local,Fall 2013,weekday
+24.4,5,5-WOODROW/SOUTH 5TH,Local,Spring 2014,weekday
+21.9,5,5-WOODROW/SOUTH 5TH,Local,Summer 2014,weekday
+22.4,5,5-WOODROW/SOUTH 5TH,Local,Fall 2014,weekday
+20.1,5,5-WOODROW/SOUTH 5TH,Local,Spring 2015,weekday
+19.2,5,5-WOODROW/SOUTH 5TH,Local,Summer 2015,weekday
+22.7,6,6-EAST 12TH,Local,Spring 2012,weekday
+21.2,6,6-EAST 12TH,Local,Summer 2012,weekday
+20.5,6,6-EAST 12TH,Local,Fall 2012,weekday
+21.0,6,6-EAST 12TH,Local,Spring 2013,weekday
+23.5,6,6-EAST 12TH,Local,Summer 2013,weekday
+22.0,6,6-EAST 12TH,Local,Fall 2013,weekday
+20.5,6,6-EAST 12TH,Local,Spring 2014,weekday
+20.2,6,6-EAST 12TH,Local,Summer 2014,weekday
+21.0,6,6-EAST 12TH,Local,Fall 2014,weekday
+16.1,6,6-EAST 12TH,Local,Spring 2015,weekday
+19.0,6,6-EAST 12TH,Local,Summer 2015,weekday
+39.1,7,7-DUVAL / DOVE SPRINGS,Local,Spring 2012,weekday
+34.9,7,7-DUVAL / DOVE SPRINGS,Local,Summer 2012,weekday
+40.3,7,7-DUVAL / DOVE SPRINGS,Local,Fall 2012,weekday
+38.9,7,7-DUVAL / DOVE SPRINGS,Local,Spring 2013,weekday
+35.5,7,7-DUVAL / DOVE SPRINGS,Local,Summer 2013,weekday
+37.1,7,7-DUVAL / DOVE SPRINGS,Local,Fall 2013,weekday
+35.7,7,7-DUVAL / DOVE SPRINGS,Local,Spring 2014,weekday
+34.4,7,7-DUVAL / DOVE SPRINGS,Local,Summer 2014,weekday
+37.4,7,7-DUVAL / DOVE SPRINGS,Local,Fall 2014,weekday
+33.2,7,7-DUVAL / DOVE SPRINGS,Local,Spring 2015,weekday
+26.8,7,7-DUVAL / DOVE SPRINGS,Local,Summer 2015,weekday
+33.2,10,10-SOUTH 1ST/RED RIVER,Local,Spring 2012,weekday
+31.8,10,10-SOUTH 1ST/RED RIVER,Local,Summer 2012,weekday
+33.1,10,10-SOUTH 1ST/RED RIVER,Local,Fall 2012,weekday
+32.1,10,10-SOUTH 1ST/RED RIVER,Local,Spring 2013,weekday
+30.9,10,10-SOUTH 1ST/RED RIVER,Local,Summer 2013,weekday
+32.2,10,10-SOUTH 1ST/RED RIVER,Local,Fall 2013,weekday
+33.0,10,10-SOUTH 1ST/RED RIVER,Local,Spring 2014,weekday
+32.7,10,10-SOUTH 1ST/RED RIVER,Local,Summer 2014,weekday
+33.3,10,10-SOUTH 1ST/RED RIVER,Local,Fall 2014,weekday
+30.0,10,10-SOUTH 1ST/RED RIVER,Local,Spring 2015,weekday
+28.5,10,10-SOUTH 1ST/RED RIVER,Local,Summer 2015,weekday
+31.2,17,17-CESAR CHAVEZ,Local,Spring 2012,weekday
+30.6,17,17-CESAR CHAVEZ,Local,Summer 2012,weekday
+32.6,17,17-CESAR CHAVEZ,Local,Fall 2012,weekday
+29.3,17,17-CESAR CHAVEZ,Local,Spring 2013,weekday
+30.5,17,17-CESAR CHAVEZ,Local,Summer 2013,weekday
+30.0,17,17-CESAR CHAVEZ,Local,Fall 2013,weekday
+27.1,17,17-CESAR CHAVEZ,Local,Spring 2014,weekday
+31.0,17,17-CESAR CHAVEZ,Local,Summer 2014,weekday
+32.5,17,17-CESAR CHAVEZ,Local,Fall 2014,weekday
+29.6,17,17-CESAR CHAVEZ,Local,Spring 2015,weekday
+30.9,17,17-CESAR CHAVEZ,Local,Summer 2015,weekday
+20.3,18,18-MARTIN LUTHER KING,Local,Spring 2012,weekday
+17.7,18,18-MARTIN LUTHER KING,Local,Summer 2012,weekday
+20.4,18,18-MARTIN LUTHER KING,Local,Fall 2012,weekday
+22.1,18,18-MARTIN LUTHER KING,Local,Spring 2013,weekday
+18.8,18,18-MARTIN LUTHER KING,Local,Summer 2013,weekday
+22.5,18,18-MARTIN LUTHER KING,Local,Fall 2013,weekday
+22.2,18,18-MARTIN LUTHER KING,Local,Spring 2014,weekday
+17.7,18,18-MARTIN LUTHER KING,Local,Summer 2014,weekday
+23.8,18,18-MARTIN LUTHER KING,Local,Fall 2014,weekday
+21.5,18,18-MARTIN LUTHER KING,Local,Spring 2015,weekday
+18.2,18,18-MARTIN LUTHER KING,Local,Summer 2015,weekday
+18.1,19,19-BULL CREEK,Local,Spring 2012,weekday
+18.1,19,19-BULL CREEK,Local,Summer 2012,weekday
+19.5,19,19-BULL CREEK,Local,Fall 2012,weekday
+17.3,19,19-BULL CREEK,Local,Spring 2013,weekday
+15.9,19,19-BULL CREEK,Local,Summer 2013,weekday
+19.9,19,19-BULL CREEK,Local,Fall 2013,weekday
+15.8,19,19-BULL CREEK,Local,Spring 2014,weekday
+16.8,19,19-BULL CREEK,Local,Summer 2014,weekday
+18.8,19,19-BULL CREEK,Local,Fall 2014,weekday
+15.8,19,19-BULL CREEK,Local,Spring 2015,weekday
+15.7,19,19-BULL CREEK,Local,Summer 2015,weekday
+37.0,20,20-MANOR RD/RIVERSIDE,Local,Spring 2012,weekday
+36.1,20,20-MANOR RD/RIVERSIDE,Local,Summer 2012,weekday
+40.9,20,20-MANOR RD/RIVERSIDE,Local,Fall 2012,weekday
+37.8,20,20-MANOR RD/RIVERSIDE,Local,Spring 2013,weekday
+35.1,20,20-MANOR RD/RIVERSIDE,Local,Summer 2013,weekday
+34.5,20,20-MANOR RD/RIVERSIDE,Local,Fall 2013,weekday
+32.2,20,20-MANOR RD/RIVERSIDE,Local,Spring 2014,weekday
+33.4,20,20-MANOR RD/RIVERSIDE,Local,Summer 2014,weekday
+34.0,20,20-MANOR RD/RIVERSIDE,Local,Fall 2014,weekday
+30.9,20,20-MANOR RD/RIVERSIDE,Local,Spring 2015,weekday
+27.3,20,20-MANOR RD/RIVERSIDE,Local,Summer 2015,weekday
+18.9,21,21-EXPOSITION,Local,Spring 2012,weekday
+17.9,21,21-EXPOSITION,Local,Summer 2012,weekday
+20.9,21,21-EXPOSITION,Local,Fall 2012,weekday
+17.5,21,21-EXPOSITION,Local,Spring 2013,weekday
+17.1,21,21-EXPOSITION,Local,Summer 2013,weekday
+18.2,21,21-EXPOSITION,Local,Fall 2013,weekday
+17.9,21,21-EXPOSITION,Local,Spring 2014,weekday
+16.6,21,21-EXPOSITION,Local,Summer 2014,weekday
+17.1,21,21-EXPOSITION,Local,Fall 2014,weekday
+15.4,21,21-EXPOSITION,Local,Spring 2015,weekday
+14.5,21,21-EXPOSITION,Local,Summer 2015,weekday
+18.2,22,22-CHICON,Local,Spring 2012,weekday
+16.2,22,22-CHICON,Local,Summer 2012,weekday
+19.5,22,22-CHICON,Local,Fall 2012,weekday
+17.9,22,22-CHICON,Local,Spring 2013,weekday
+16.5,22,22-CHICON,Local,Summer 2013,weekday
+19.1,22,22-CHICON,Local,Fall 2013,weekday
+18.8,22,22-CHICON,Local,Spring 2014,weekday
+16.8,22,22-CHICON,Local,Summer 2014,weekday
+16.9,22,22-CHICON,Local,Fall 2014,weekday
+15.1,22,22-CHICON,Local,Spring 2015,weekday
+14.3,22,22-CHICON,Local,Summer 2015,weekday
+20.6,30,30-BARTON CREEK SQ,Local,Spring 2012,weekday
+22.8,30,30-BARTON CREEK SQ,Local,Summer 2012,weekday
+21.3,30,30-BARTON CREEK SQ,Local,Fall 2012,weekday
+19.9,30,30-BARTON CREEK SQ,Local,Spring 2013,weekday
+23.5,30,30-BARTON CREEK SQ,Local,Summer 2013,weekday
+20.7,30,30-BARTON CREEK SQ,Local,Fall 2013,weekday
+20.4,30,30-BARTON CREEK SQ,Local,Spring 2014,weekday
+21.7,30,30-BARTON CREEK SQ,Local,Summer 2014,weekday
+19.4,30,30-BARTON CREEK SQ,Local,Fall 2014,weekday
+18.2,30,30-BARTON CREEK SQ,Local,Spring 2015,weekday
+21.1,30,30-BARTON CREEK SQ,Local,Summer 2015,weekday
+26.4,37,37-COLONY PARK/WINDSOR PARK,Local,Spring 2012,weekday
+26.0,37,37-COLONY PARK/WINDSOR PARK,Local,Summer 2012,weekday
+29.1,37,37-COLONY PARK/WINDSOR PARK,Local,Fall 2012,weekday
+29.5,37,37-COLONY PARK/WINDSOR PARK,Local,Spring 2013,weekday
+27.0,37,37-COLONY PARK/WINDSOR PARK,Local,Summer 2013,weekday
+29.2,37,37-COLONY PARK/WINDSOR PARK,Local,Fall 2013,weekday
+27.8,37,37-COLONY PARK/WINDSOR PARK,Local,Spring 2014,weekday
+25.5,37,37-COLONY PARK/WINDSOR PARK,Local,Summer 2014,weekday
+28.3,37,37-COLONY PARK/WINDSOR PARK,Local,Fall 2014,weekday
+24.3,37,37-COLONY PARK/WINDSOR PARK,Local,Spring 2015,weekday
+23.7,37,37-COLONY PARK/WINDSOR PARK,Local,Summer 2015,weekday
+13.6,100,100-AIRPORT FLYER,Limited/Flyer,Spring 2012,weekday
+15.2,100,100-AIRPORT FLYER,Limited/Flyer,Summer 2012,weekday
+18.0,100,100-AIRPORT FLYER,Limited/Flyer,Fall 2012,weekday
+20.2,100,100-AIRPORT FLYER,Limited/Flyer,Spring 2013,weekday
+18.5,100,100-AIRPORT FLYER,Limited/Flyer,Summer 2013,weekday
+20.4,100,100-AIRPORT FLYER,Limited/Flyer,Fall 2013,weekday
+18.4,100,100-AIRPORT FLYER,Limited/Flyer,Spring 2014,weekday
+15.1,100,100-AIRPORT FLYER,Limited/Flyer,Summer 2014,weekday
+15.5,100,100-AIRPORT FLYER,Limited/Flyer,Fall 2014,weekday
+16.8,100,100-AIRPORT FLYER,Limited/Flyer,Spring 2015,weekday
+15.8,100,100-AIRPORT FLYER,Limited/Flyer,Summer 2015,weekday
+31.1,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Spring 2012,weekday
+28.3,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Summer 2012,weekday
+31.7,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Fall 2012,weekday
+30.9,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Spring 2013,weekday
+27.5,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Summer 2013,weekday
+29.2,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Fall 2013,weekday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Spring 2014,weekday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Summer 2014,weekday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Fall 2014,weekday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Spring 2015,weekday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Summer 2015,weekday
+20.2,103,103-MANCHACA FLYER,Limited/Flyer,Spring 2012,weekday
+16.5,103,103-MANCHACA FLYER,Limited/Flyer,Summer 2012,weekday
+19.1,103,103-MANCHACA FLYER,Limited/Flyer,Fall 2012,weekday
+21.8,103,103-MANCHACA FLYER,Limited/Flyer,Spring 2013,weekday
+21.5,103,103-MANCHACA FLYER,Limited/Flyer,Summer 2013,weekday
+21.0,103,103-MANCHACA FLYER,Limited/Flyer,Fall 2013,weekday
+19.0,103,103-MANCHACA FLYER,Limited/Flyer,Spring 2014,weekday
+18.7,103,103-MANCHACA FLYER,Limited/Flyer,Summer 2014,weekday
+9.4,103,103-MANCHACA FLYER,Limited/Flyer,Fall 2014,weekday
+6.7,103,103-MANCHACA FLYER,Limited/Flyer,Spring 2015,weekday
+6.2,103,103-MANCHACA FLYER,Limited/Flyer,Summer 2015,weekday
+20.5,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Spring 2012,weekday
+20.0,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Summer 2012,weekday
+25.7,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Fall 2012,weekday
+26.2,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Spring 2013,weekday
+24.6,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Summer 2013,weekday
+20.3,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Fall 2013,weekday
+26.4,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Spring 2014,weekday
+23.8,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Summer 2014,weekday
+20.6,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Fall 2014,weekday
+16.5,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Spring 2015,weekday
+16.2,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Summer 2015,weekday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Spring 2012,weekday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Summer 2012,weekday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Fall 2012,weekday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Spring 2013,weekday
+16.9,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Summer 2013,weekday
+17.4,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Fall 2013,weekday
+18.9,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Spring 2014,weekday
+19.3,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Summer 2014,weekday
+20.1,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Fall 2014,weekday
+16.3,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Spring 2015,weekday
+14.6,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Summer 2015,weekday
+5.3,122,122-FOUR POINTS LIMITED,Limited/Flyer,Spring 2012,weekday
+5.3,122,122-FOUR POINTS LIMITED,Limited/Flyer,Summer 2012,weekday
+5.3,122,122-FOUR POINTS LIMITED,Limited/Flyer,Fall 2012,weekday
+5.3,122,122-FOUR POINTS LIMITED,Limited/Flyer,Spring 2013,weekday
+4.8,122,122-FOUR POINTS LIMITED,Limited/Flyer,Summer 2013,weekday
+5.7,122,122-FOUR POINTS LIMITED,Limited/Flyer,Fall 2013,weekday
+7.3,122,122-FOUR POINTS LIMITED,Limited/Flyer,Spring 2014,weekday
+6.7,122,122-FOUR POINTS LIMITED,Limited/Flyer,Summer 2014,weekday
+5.4,122,122-FOUR POINTS LIMITED,Limited/Flyer,Fall 2014,weekday
+4.8,122,122-FOUR POINTS LIMITED,Limited/Flyer,Spring 2015,weekday
+3.8,122,122-FOUR POINTS LIMITED,Limited/Flyer,Summer 2015,weekday
+16.5,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Spring 2012,weekday
+18.5,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Summer 2012,weekday
+29.3,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Fall 2012,weekday
+30.0,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Spring 2013,weekday
+23.8,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Summer 2013,weekday
+21.0,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Fall 2013,weekday
+18.2,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Spring 2014,weekday
+25.0,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Summer 2014,weekday
+15.3,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Fall 2014,weekday
+12.3,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Spring 2015,weekday
+12.7,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Summer 2015,weekday
+4.9,135,135-DELL LIMITED,Limited/Flyer,Spring 2012,weekday
+4.9,135,135-DELL LIMITED,Limited/Flyer,Summer 2012,weekday
+4.9,135,135-DELL LIMITED,Limited/Flyer,Fall 2012,weekday
+4.9,135,135-DELL LIMITED,Limited/Flyer,Spring 2013,weekday
+5.2,135,135-DELL LIMITED,Limited/Flyer,Summer 2013,weekday
+5.4,135,135-DELL LIMITED,Limited/Flyer,Fall 2013,weekday
+5.0,135,135-DELL LIMITED,Limited/Flyer,Spring 2014,weekday
+3.7,135,135-DELL LIMITED,Limited/Flyer,Summer 2014,weekday
+7.6,135,135-DELL LIMITED,Limited/Flyer,Fall 2014,weekday
+4.5,135,135-DELL LIMITED,Limited/Flyer,Spring 2015,weekday
+6.5,135,135-DELL LIMITED,Limited/Flyer,Summer 2015,weekday
+27.6,142,142-METRIC FLYER,Limited/Flyer,Spring 2012,weekday
+18.6,142,142-METRIC FLYER,Limited/Flyer,Summer 2012,weekday
+27.0,142,142-METRIC FLYER,Limited/Flyer,Fall 2012,weekday
+20.5,142,142-METRIC FLYER,Limited/Flyer,Spring 2013,weekday
+17.8,142,142-METRIC FLYER,Limited/Flyer,Summer 2013,weekday
+27.4,142,142-METRIC FLYER,Limited/Flyer,Fall 2013,weekday
+19.6,142,142-METRIC FLYER,Limited/Flyer,Spring 2014,weekday
+16.0,142,142-METRIC FLYER,Limited/Flyer,Summer 2014,weekday
+11.0,142,142-METRIC FLYER,Limited/Flyer,Fall 2014,weekday
+10.2,142,142-METRIC FLYER,Limited/Flyer,Spring 2015,weekday
+11.7,142,142-METRIC FLYER,Limited/Flyer,Summer 2015,weekday
+18.8,171,171-OAK HILL FLYER,Limited/Flyer,Spring 2012,weekday
+17.6,171,171-OAK HILL FLYER,Limited/Flyer,Summer 2012,weekday
+19.5,171,171-OAK HILL FLYER,Limited/Flyer,Fall 2012,weekday
+20.4,171,171-OAK HILL FLYER,Limited/Flyer,Spring 2013,weekday
+19.7,171,171-OAK HILL FLYER,Limited/Flyer,Summer 2013,weekday
+17.1,171,171-OAK HILL FLYER,Limited/Flyer,Fall 2013,weekday
+13.5,171,171-OAK HILL FLYER,Limited/Flyer,Spring 2014,weekday
+12.4,171,171-OAK HILL FLYER,Limited/Flyer,Summer 2014,weekday
+11.9,171,171-OAK HILL FLYER,Limited/Flyer,Fall 2014,weekday
+12.8,171,171-OAK HILL FLYER,Limited/Flyer,Spring 2015,weekday
+11.7,171,171-OAK HILL FLYER,Limited/Flyer,Summer 2015,weekday
+20.5,201,201-SOUTHPARK MEADOWS,Feeder,Spring 2012,weekday
+14.7,201,201-SOUTHPARK MEADOWS,Feeder,Summer 2012,weekday
+20.2,201,201-SOUTHPARK MEADOWS,Feeder,Fall 2012,weekday
+19.9,201,201-SOUTHPARK MEADOWS,Feeder,Spring 2013,weekday
+15.5,201,201-SOUTHPARK MEADOWS,Feeder,Summer 2013,weekday
+19.5,201,201-SOUTHPARK MEADOWS,Feeder,Fall 2013,weekday
+26.0,201,201-SOUTHPARK MEADOWS,Feeder,Spring 2014,weekday
+16.3,201,201-SOUTHPARK MEADOWS,Feeder,Summer 2014,weekday
+18.1,201,201-SOUTHPARK MEADOWS,Feeder,Fall 2014,weekday
+18.5,201,201-SOUTHPARK MEADOWS,Feeder,Spring 2015,weekday
+13.6,201,201-SOUTHPARK MEADOWS,Feeder,Summer 2015,weekday
+3.6,214,214-LAGO VISTA FLEX,Feeder,Spring 2012,weekday
+3.3,214,214-LAGO VISTA FLEX,Feeder,Summer 2012,weekday
+4.4,214,214-LAGO VISTA FLEX,Feeder,Fall 2012,weekday
+4.4,214,214-LAGO VISTA FLEX,Feeder,Spring 2013,weekday
+3.6,214,214-LAGO VISTA FLEX,Feeder,Summer 2013,weekday
+4.5,214,214-LAGO VISTA FLEX,Feeder,Fall 2013,weekday
+3.8,214,214-LAGO VISTA FLEX,Feeder,Spring 2014,weekday
+3.2,214,214-LAGO VISTA FLEX,Feeder,Summer 2014,weekday
+3.9,214,214-LAGO VISTA FLEX,Feeder,Fall 2014,weekday
+3.4,214,214-LAGO VISTA FLEX,Feeder,Spring 2015,weekday
+2.5,214,214-LAGO VISTA FLEX,Feeder,Summer 2015,weekday
+17.7,228,228-BURLESON,Feeder,Spring 2012,weekday
+22.6,228,228-BURLESON,Feeder,Summer 2012,weekday
+24.1,228,228-BURLESON,Feeder,Fall 2012,weekday
+18.9,228,228-BURLESON,Feeder,Spring 2013,weekday
+22.5,228,228-BURLESON,Feeder,Summer 2013,weekday
+23.8,228,228-BURLESON,Feeder,Fall 2013,weekday
+14.1,228,228-BURLESON,Feeder,Spring 2014,weekday
+16.1,228,228-BURLESON,Feeder,Summer 2014,weekday
+16.3,228,228-BURLESON,Feeder,Fall 2014,weekday
+14.9,228,228-BURLESON,Feeder,Spring 2015,weekday
+15.1,228,228-BURLESON,Feeder,Summer 2015,weekday
+,237,237-NORTHEAST FLEX,Feeder,Spring 2012,weekday
+,237,237-NORTHEAST FLEX,Feeder,Summer 2012,weekday
+,237,237-NORTHEAST FLEX,Feeder,Fall 2012,weekday
+,237,237-NORTHEAST FLEX,Feeder,Spring 2013,weekday
+,237,237-NORTHEAST FLEX,Feeder,Summer 2013,weekday
+,237,237-NORTHEAST FLEX,Feeder,Fall 2013,weekday
+,237,237-NORTHEAST FLEX,Feeder,Spring 2014,weekday
+,237,237-NORTHEAST FLEX,Feeder,Summer 2014,weekday
+,237,237-NORTHEAST FLEX,Feeder,Fall 2014,weekday
+,237,237-NORTHEAST FLEX,Feeder,Spring 2015,weekday
+1.9,237,237-NORTHEAST FLEX,Feeder,Summer 2015,weekday
+,238,238-WESTGATE,Feeder,Spring 2012,weekday
+,238,238-WESTGATE,Feeder,Summer 2012,weekday
+,238,238-WESTGATE,Feeder,Fall 2012,weekday
+15.0,238,238-WESTGATE,Feeder,Spring 2013,weekday
+14.2,238,238-WESTGATE,Feeder,Summer 2013,weekday
+13.3,238,238-WESTGATE,Feeder,Fall 2013,weekday
+14.1,238,238-WESTGATE,Feeder,Spring 2014,weekday
+14.3,238,238-WESTGATE,Feeder,Summer 2014,weekday
+16.6,238,238-WESTGATE,Feeder,Fall 2014,weekday
+16.1,238,238-WESTGATE,Feeder,Spring 2015,weekday
+15.0,238,238-WESTGATE,Feeder,Summer 2015,weekday
+23.5,240,240-PARKFIELD,Feeder,Spring 2012,weekday
+25.3,240,240-PARKFIELD,Feeder,Summer 2012,weekday
+28.2,240,240-PARKFIELD,Feeder,Fall 2012,weekday
+22.6,240,240-PARKFIELD,Feeder,Spring 2013,weekday
+26.0,240,240-PARKFIELD,Feeder,Summer 2013,weekday
+23.0,240,240-PARKFIELD,Feeder,Fall 2013,weekday
+23.3,240,240-PARKFIELD,Feeder,Spring 2014,weekday
+25.8,240,240-PARKFIELD,Feeder,Summer 2014,weekday
+23.9,240,240-PARKFIELD,Feeder,Fall 2014,weekday
+20.7,240,240-PARKFIELD,Feeder,Spring 2015,weekday
+19.9,240,240-PARKFIELD,Feeder,Summer 2015,weekday
+15.7,243,243-WELLS BRANCH,Feeder,Spring 2012,weekday
+18.5,243,243-WELLS BRANCH,Feeder,Summer 2012,weekday
+18.0,243,243-WELLS BRANCH,Feeder,Fall 2012,weekday
+17.5,243,243-WELLS BRANCH,Feeder,Spring 2013,weekday
+17.8,243,243-WELLS BRANCH,Feeder,Summer 2013,weekday
+18.1,243,243-WELLS BRANCH,Feeder,Fall 2013,weekday
+17.1,243,243-WELLS BRANCH,Feeder,Spring 2014,weekday
+25.7,243,243-WELLS BRANCH,Feeder,Summer 2014,weekday
+21.9,243,243-WELLS BRANCH,Feeder,Fall 2014,weekday
+17.1,243,243-WELLS BRANCH,Feeder,Spring 2015,weekday
+16.3,243,243-WELLS BRANCH,Feeder,Summer 2015,weekday
+10.1,271,271-DEL VALLE FLEX,Feeder,Spring 2012,weekday
+8.1,271,271-DEL VALLE FLEX,Feeder,Summer 2012,weekday
+11.8,271,271-DEL VALLE FLEX,Feeder,Fall 2012,weekday
+11.6,271,271-DEL VALLE FLEX,Feeder,Spring 2013,weekday
+10.2,271,271-DEL VALLE FLEX,Feeder,Summer 2013,weekday
+13.0,271,271-DEL VALLE FLEX,Feeder,Fall 2013,weekday
+14.1,271,271-DEL VALLE FLEX,Feeder,Spring 2014,weekday
+10.2,271,271-DEL VALLE FLEX,Feeder,Summer 2014,weekday
+14.8,271,271-DEL VALLE FLEX,Feeder,Fall 2014,weekday
+13.5,271,271-DEL VALLE FLEX,Feeder,Spring 2015,weekday
+8.7,271,271-DEL VALLE FLEX,Feeder,Summer 2015,weekday
+,275,275-N. LAMAR,Feeder,Spring 2012,weekday
+,275,275-N. LAMAR,Feeder,Summer 2012,weekday
+,275,275-N. LAMAR,Feeder,Fall 2012,weekday
+,275,275-N. LAMAR,Feeder,Spring 2013,weekday
+,275,275-N. LAMAR,Feeder,Summer 2013,weekday
+,275,275-N. LAMAR,Feeder,Fall 2013,weekday
+28.8,275,275-N. LAMAR,Feeder,Spring 2014,weekday
+32.8,275,275-N. LAMAR,Feeder,Summer 2014,weekday
+31.6,275,275-N. LAMAR,Feeder,Fall 2014,weekday
+30.3,275,275-N. LAMAR,Feeder,Spring 2015,weekday
+30.5,275,275-N. LAMAR,Feeder,Summer 2015,weekday
+40.8,300,300-GOVALLE,Crosstown,Spring 2012,weekday
+39.6,300,300-GOVALLE,Crosstown,Summer 2012,weekday
+42.1,300,300-GOVALLE,Crosstown,Fall 2012,weekday
+41.3,300,300-GOVALLE,Crosstown,Spring 2013,weekday
+40.6,300,300-GOVALLE,Crosstown,Summer 2013,weekday
+39.8,300,300-GOVALLE,Crosstown,Fall 2013,weekday
+39.4,300,300-GOVALLE,Crosstown,Spring 2014,weekday
+39.9,300,300-GOVALLE,Crosstown,Summer 2014,weekday
+40.4,300,300-GOVALLE,Crosstown,Fall 2014,weekday
+37.3,300,300-GOVALLE,Crosstown,Spring 2015,weekday
+30.3,300,300-GOVALLE,Crosstown,Summer 2015,weekday
+30.7,311,311-STASSNEY,Crosstown,Spring 2012,weekday
+27.0,311,311-STASSNEY,Crosstown,Summer 2012,weekday
+32.4,311,311-STASSNEY,Crosstown,Fall 2012,weekday
+31.8,311,311-STASSNEY,Crosstown,Spring 2013,weekday
+32.2,311,311-STASSNEY,Crosstown,Summer 2013,weekday
+35.1,311,311-STASSNEY,Crosstown,Fall 2013,weekday
+33.3,311,311-STASSNEY,Crosstown,Spring 2014,weekday
+32.1,311,311-STASSNEY,Crosstown,Summer 2014,weekday
+34.5,311,311-STASSNEY,Crosstown,Fall 2014,weekday
+27.9,311,311-STASSNEY,Crosstown,Spring 2015,weekday
+31.2,311,311-STASSNEY,Crosstown,Summer 2015,weekday
+27.2,320,320-ST JOHNS,Crosstown,Spring 2012,weekday
+27.4,320,320-ST JOHNS,Crosstown,Summer 2012,weekday
+29.5,320,320-ST JOHNS,Crosstown,Fall 2012,weekday
+28.8,320,320-ST JOHNS,Crosstown,Spring 2013,weekday
+28.9,320,320-ST JOHNS,Crosstown,Summer 2013,weekday
+27.9,320,320-ST JOHNS,Crosstown,Fall 2013,weekday
+28.0,320,320-ST JOHNS,Crosstown,Spring 2014,weekday
+29.5,320,320-ST JOHNS,Crosstown,Summer 2014,weekday
+29.4,320,320-ST JOHNS,Crosstown,Fall 2014,weekday
+26.9,320,320-ST JOHNS,Crosstown,Spring 2015,weekday
+25.0,320,320-ST JOHNS,Crosstown,Summer 2015,weekday
+19.2,323,323-ANDERSON,Crosstown,Spring 2012,weekday
+19.5,323,323-ANDERSON,Crosstown,Summer 2012,weekday
+20.2,323,323-ANDERSON,Crosstown,Fall 2012,weekday
+18.0,323,323-ANDERSON,Crosstown,Spring 2013,weekday
+19.1,323,323-ANDERSON,Crosstown,Summer 2013,weekday
+19.1,323,323-ANDERSON,Crosstown,Fall 2013,weekday
+19.6,323,323-ANDERSON,Crosstown,Spring 2014,weekday
+21.7,323,323-ANDERSON,Crosstown,Summer 2014,weekday
+21.2,323,323-ANDERSON,Crosstown,Fall 2014,weekday
+17.5,323,323-ANDERSON,Crosstown,Spring 2015,weekday
+18.9,323,323-ANDERSON,Crosstown,Summer 2015,weekday
+37.3,325,325-OHLEN ,Crosstown,Spring 2012,weekday
+35.1,325,325-OHLEN ,Crosstown,Summer 2012,weekday
+37.1,325,325-OHLEN ,Crosstown,Fall 2012,weekday
+32.7,325,325-OHLEN ,Crosstown,Spring 2013,weekday
+36.9,325,325-OHLEN ,Crosstown,Summer 2013,weekday
+33.0,325,325-OHLEN ,Crosstown,Fall 2013,weekday
+31.3,325,325-OHLEN ,Crosstown,Spring 2014,weekday
+34.1,325,325-OHLEN ,Crosstown,Summer 2014,weekday
+30.0,325,325-OHLEN ,Crosstown,Fall 2014,weekday
+28.5,325,325-OHLEN ,Crosstown,Spring 2015,weekday
+20.0,325,325-OHLEN ,Crosstown,Summer 2015,weekday
+40.0,331,331-OLTORF,Crosstown,Spring 2012,weekday
+37.0,331,331-OLTORF,Crosstown,Summer 2012,weekday
+38.0,331,331-OLTORF,Crosstown,Fall 2012,weekday
+39.8,331,331-OLTORF,Crosstown,Spring 2013,weekday
+34.9,331,331-OLTORF,Crosstown,Summer 2013,weekday
+37.4,331,331-OLTORF,Crosstown,Fall 2013,weekday
+37.6,331,331-OLTORF,Crosstown,Spring 2014,weekday
+34.5,331,331-OLTORF,Crosstown,Summer 2014,weekday
+38.0,331,331-OLTORF,Crosstown,Fall 2014,weekday
+34.0,331,331-OLTORF,Crosstown,Spring 2015,weekday
+25.4,331,331-OLTORF,Crosstown,Summer 2015,weekday
+23.2,333,333-WILLIAM CANNON,Crosstown,Spring 2012,weekday
+22.3,333,333-WILLIAM CANNON,Crosstown,Summer 2012,weekday
+23.0,333,333-WILLIAM CANNON,Crosstown,Fall 2012,weekday
+22.9,333,333-WILLIAM CANNON,Crosstown,Spring 2013,weekday
+22.2,333,333-WILLIAM CANNON,Crosstown,Summer 2013,weekday
+22.2,333,333-WILLIAM CANNON,Crosstown,Fall 2013,weekday
+21.6,333,333-WILLIAM CANNON,Crosstown,Spring 2014,weekday
+22.1,333,333-WILLIAM CANNON,Crosstown,Summer 2014,weekday
+21.3,333,333-WILLIAM CANNON,Crosstown,Fall 2014,weekday
+19.3,333,333-WILLIAM CANNON,Crosstown,Spring 2015,weekday
+18.4,333,333-WILLIAM CANNON,Crosstown,Summer 2015,weekday
+21.7,338,338-LAMAR/45TH,Crosstown,Spring 2012,weekday
+20.9,338,338-LAMAR/45TH,Crosstown,Summer 2012,weekday
+21.7,338,338-LAMAR/45TH,Crosstown,Fall 2012,weekday
+22.5,338,338-LAMAR/45TH,Crosstown,Spring 2013,weekday
+22.2,338,338-LAMAR/45TH,Crosstown,Summer 2013,weekday
+22.8,338,338-LAMAR/45TH,Crosstown,Fall 2013,weekday
+21.1,338,338-LAMAR/45TH,Crosstown,Spring 2014,weekday
+21.7,338,338-LAMAR/45TH,Crosstown,Summer 2014,weekday
+19.7,338,338-LAMAR/45TH,Crosstown,Fall 2014,weekday
+16.8,338,338-LAMAR/45TH,Crosstown,Spring 2015,weekday
+17.1,338,338-LAMAR/45TH,Crosstown,Summer 2015,weekday
+28.7,350,350-AIRPORT BLVD,Crosstown,Spring 2012,weekday
+29.5,350,350-AIRPORT BLVD,Crosstown,Summer 2012,weekday
+30.6,350,350-AIRPORT BLVD,Crosstown,Fall 2012,weekday
+26.6,350,350-AIRPORT BLVD,Crosstown,Spring 2013,weekday
+26.1,350,350-AIRPORT BLVD,Crosstown,Summer 2013,weekday
+24.8,350,350-AIRPORT BLVD,Crosstown,Fall 2013,weekday
+26.6,350,350-AIRPORT BLVD,Crosstown,Spring 2014,weekday
+28.5,350,350-AIRPORT BLVD,Crosstown,Summer 2014,weekday
+28.4,350,350-AIRPORT BLVD,Crosstown,Fall 2014,weekday
+26.5,350,350-AIRPORT BLVD,Crosstown,Spring 2015,weekday
+26.5,350,350-AIRPORT BLVD,Crosstown,Summer 2015,weekday
+20.9,383,383-RESEARCH,Crosstown,Spring 2012,weekday
+22.6,383,383-RESEARCH,Crosstown,Summer 2012,weekday
+23.3,383,383-RESEARCH,Crosstown,Fall 2012,weekday
+21.8,383,383-RESEARCH,Crosstown,Spring 2013,weekday
+23.3,383,383-RESEARCH,Crosstown,Summer 2013,weekday
+24.3,383,383-RESEARCH,Crosstown,Fall 2013,weekday
+20.9,383,383-RESEARCH,Crosstown,Spring 2014,weekday
+22.3,383,383-RESEARCH,Crosstown,Summer 2014,weekday
+18.3,383,383-RESEARCH,Crosstown,Fall 2014,weekday
+17.9,383,383-RESEARCH,Crosstown,Spring 2015,weekday
+18.5,383,383-RESEARCH,Crosstown,Summer 2015,weekday
+18.8,392,392-BRAKER,Crosstown,Spring 2012,weekday
+19.1,392,392-BRAKER,Crosstown,Summer 2012,weekday
+18.8,392,392-BRAKER,Crosstown,Fall 2012,weekday
+18.4,392,392-BRAKER,Crosstown,Spring 2013,weekday
+18.2,392,392-BRAKER,Crosstown,Summer 2013,weekday
+19.0,392,392-BRAKER,Crosstown,Fall 2013,weekday
+16.3,392,392-BRAKER,Crosstown,Spring 2014,weekday
+15.6,392,392-BRAKER,Crosstown,Summer 2014,weekday
+16.5,392,392-BRAKER,Crosstown,Fall 2014,weekday
+12.9,392,392-BRAKER,Crosstown,Spring 2015,weekday
+15.4,392,392-BRAKER,Crosstown,Summer 2015,weekday
+68.8,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Spring 2012,weekday
+,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Summer 2012,weekday
+71.5,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Fall 2012,weekday
+65.6,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Spring 2013,weekday
+,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Summer 2013,weekday
+86.0,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Fall 2013,weekday
+76.7,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Spring 2014,weekday
+,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Summer 2014,weekday
+56.9,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Fall 2014,weekday
+48.0,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Spring 2015,weekday
+,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Summer 2015,weekday
+28.3,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Spring 2012,weekday
+,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Summer 2012,weekday
+28.6,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Fall 2012,weekday
+35.2,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Spring 2013,weekday
+,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Summer 2013,weekday
+28.9,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Fall 2013,weekday
+29.8,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Spring 2014,weekday
+,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Summer 2014,weekday
+20.2,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Fall 2014,weekday
+19.0,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Spring 2015,weekday
+,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Summer 2015,weekday
+59.2,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Spring 2012,weekday
+,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Summer 2012,weekday
+54.6,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Fall 2012,weekday
+59.4,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Spring 2013,weekday
+,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Summer 2013,weekday
+44.9,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Fall 2013,weekday
+59.6,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Spring 2014,weekday
+,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Summer 2014,weekday
+47.5,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Fall 2014,weekday
+32.0,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Spring 2015,weekday
+,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Summer 2015,weekday
+10.1,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Spring 2012,weekday
+10.1,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Summer 2012,weekday
+22.1,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Fall 2012,weekday
+11.1,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Spring 2013,weekday
+17.4,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Summer 2013,weekday
+22.4,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Fall 2013,weekday
+1.9,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Spring 2014,weekday
+17.2,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Summer 2014,weekday
+25.2,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Fall 2014,weekday
+17.5,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Spring 2015,weekday
+16.4,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Summer 2015,weekday
+18.7,465,465-MLK-UT,Special Services - Rail Connectors,Spring 2012,weekday
+15.0,465,465-MLK-UT,Special Services - Rail Connectors,Summer 2012,weekday
+28.7,465,465-MLK-UT,Special Services - Rail Connectors,Fall 2012,weekday
+23.7,465,465-MLK-UT,Special Services - Rail Connectors,Spring 2013,weekday
+18.4,465,465-MLK-UT,Special Services - Rail Connectors,Summer 2013,weekday
+28.6,465,465-MLK-UT,Special Services - Rail Connectors,Fall 2013,weekday
+3.8,465,465-MLK-UT,Special Services - Rail Connectors,Spring 2014,weekday
+17.4,465,465-MLK-UT,Special Services - Rail Connectors,Summer 2014,weekday
+20.5,465,465-MLK-UT,Special Services - Rail Connectors,Fall 2014,weekday
+21.2,465,465-MLK-UT,Special Services - Rail Connectors,Spring 2015,weekday
+14.4,465,465-MLK-UT,Special Services - Rail Connectors,Summer 2015,weekday
+5.4,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Spring 2012,weekday
+4.8,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Summer 2012,weekday
+8.2,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Fall 2012,weekday
+5.5,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Spring 2013,weekday
+6.5,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Summer 2013,weekday
+9.2,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Fall 2013,weekday
+3.8,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Spring 2014,weekday
+6.9,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Summer 2014,weekday
+10.4,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Fall 2014,weekday
+5.4,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Spring 2015,weekday
+6.3,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Summer 2015,weekday
+29.3,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Spring 2012,weekday
+19.5,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Summer 2012,weekday
+27.2,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Fall 2012,weekday
+26.1,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Spring 2013,weekday
+26.2,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Summer 2013,weekday
+22.2,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Fall 2013,weekday
+31.5,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Spring 2014,weekday
+26.3,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Summer 2014,weekday
+23.5,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Fall 2014,weekday
+23.6,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Spring 2015,weekday
+22.6,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Summer 2015,weekday
+15.8,482,482-NIGHT OWL EAST,Special Services - Night Owls,Spring 2012,weekday
+15.3,482,482-NIGHT OWL EAST,Special Services - Night Owls,Summer 2012,weekday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Fall 2012,weekday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Spring 2013,weekday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Summer 2013,weekday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Fall 2013,weekday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Spring 2014,weekday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Summer 2014,weekday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Fall 2014,weekday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Spring 2015,weekday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Summer 2015,weekday
+47.8,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Spring 2012,weekday
+30.4,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Summer 2012,weekday
+31.9,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Fall 2012,weekday
+33.8,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Spring 2013,weekday
+38.9,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Summer 2013,weekday
+41.2,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Fall 2013,weekday
+44.2,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Spring 2014,weekday
+34.1,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Summer 2014,weekday
+39.2,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Fall 2014,weekday
+36.0,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Spring 2015,weekday
+40.2,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Summer 2015,weekday
+12.2,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Spring 2012,weekday
+16.4,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Summer 2012,weekday
+14.1,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Fall 2012,weekday
+14.2,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Spring 2013,weekday
+15.8,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Summer 2013,weekday
+17.2,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Fall 2013,weekday
+16.4,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Spring 2014,weekday
+23.2,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Summer 2014,weekday
+16.1,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Fall 2014,weekday
+14.6,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Spring 2015,weekday
+13.9,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Summer 2015,weekday
+14.6,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Spring 2012,weekday
+13.4,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Summer 2012,weekday
+12.5,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Fall 2012,weekday
+14.5,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Spring 2013,weekday
+14.2,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Summer 2013,weekday
+11.5,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Fall 2013,weekday
+16.0,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Spring 2014,weekday
+13.0,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Summer 2014,weekday
+16.0,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Fall 2014,weekday
+13.9,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Spring 2015,weekday
+14.3,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Summer 2015,weekday
+20.4,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Spring 2012,weekday
+19.5,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Summer 2012,weekday
+18.0,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Fall 2012,weekday
+18.7,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Spring 2013,weekday
+17.5,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Summer 2013,weekday
+16.8,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Fall 2013,weekday
+19.0,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Spring 2014,weekday
+21.5,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Summer 2014,weekday
+23.1,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Fall 2014,weekday
+20.9,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Spring 2015,weekday
+20.0,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Summer 2015,weekday
+10.0,490,490-HEB SHUTTLE,Special Services - Senior,Spring 2012,weekday
+11.4,490,490-HEB SHUTTLE,Special Services - Senior,Summer 2012,weekday
+24.2,490,490-HEB SHUTTLE,Special Services - Senior,Fall 2012,weekday
+9.3,490,490-HEB SHUTTLE,Special Services - Senior,Spring 2013,weekday
+9.7,490,490-HEB SHUTTLE,Special Services - Senior,Summer 2013,weekday
+12.2,490,490-HEB SHUTTLE,Special Services - Senior,Fall 2013,weekday
+11.8,490,490-HEB SHUTTLE,Special Services - Senior,Spring 2014,weekday
+13.4,490,490-HEB SHUTTLE,Special Services - Senior,Summer 2014,weekday
+14.2,490,490-HEB SHUTTLE,Special Services - Senior,Fall 2014,weekday
+12.6,490,490-HEB SHUTTLE,Special Services - Senior,Spring 2015,weekday
+11.0,490,490-HEB SHUTTLE,Special Services - Senior,Summer 2015,weekday
+2.2,491,491-ALLANDALE (151),Special Services - Senior,Spring 2012,weekday
+2.8,491,491-ALLANDALE (151),Special Services - Senior,Summer 2012,weekday
+2.8,491,491-ALLANDALE (151),Special Services - Senior,Fall 2012,weekday
+1.8,491,491-ALLANDALE (151),Special Services - Senior,Spring 2013,weekday
+2.3,491,491-ALLANDALE (151),Special Services - Senior,Summer 2013,weekday
+2.7,491,491-ALLANDALE (151),Special Services - Senior,Fall 2013,weekday
+2.1,491,491-ALLANDALE (151),Special Services - Senior,Spring 2014,weekday
+2.1,491,491-ALLANDALE (151),Special Services - Senior,Summer 2014,weekday
+2.2,491,491-ALLANDALE (151),Special Services - Senior,Fall 2014,weekday
+1.7,491,491-ALLANDALE (151),Special Services - Senior,Spring 2015,weekday
+0.9,491,491-ALLANDALE (151),Special Services - Senior,Summer 2015,weekday
+5.6,492,492-DELWOOD (161),Special Services - Senior,Spring 2012,weekday
+4.1,492,492-DELWOOD (161),Special Services - Senior,Summer 2012,weekday
+4.5,492,492-DELWOOD (161),Special Services - Senior,Fall 2012,weekday
+4.7,492,492-DELWOOD (161),Special Services - Senior,Spring 2013,weekday
+3.3,492,492-DELWOOD (161),Special Services - Senior,Summer 2013,weekday
+3.4,492,492-DELWOOD (161),Special Services - Senior,Fall 2013,weekday
+2.9,492,492-DELWOOD (161),Special Services - Senior,Spring 2014,weekday
+3.6,492,492-DELWOOD (161),Special Services - Senior,Summer 2014,weekday
+4.3,492,492-DELWOOD (161),Special Services - Senior,Fall 2014,weekday
+4.8,492,492-DELWOOD (161),Special Services - Senior,Spring 2015,weekday
+2.7,492,492-DELWOOD (161),Special Services - Senior,Summer 2015,weekday
+58.7,550,550-METRO RAIL RED LINE,MetroRail,Spring 2012,weekday
+60.1,550,550-METRO RAIL RED LINE,MetroRail,Summer 2012,weekday
+71.9,550,550-METRO RAIL RED LINE,MetroRail,Fall 2012,weekday
+74.3,550,550-METRO RAIL RED LINE,MetroRail,Spring 2013,weekday
+64.6,550,550-METRO RAIL RED LINE,MetroRail,Summer 2013,weekday
+73.2,550,550-METRO RAIL RED LINE,MetroRail,Fall 2013,weekday
+70.9,550,550-METRO RAIL RED LINE,MetroRail,Spring 2014,weekday
+67.6,550,550-METRO RAIL RED LINE,MetroRail,Summer 2014,weekday
+81.6,550,550-METRO RAIL RED LINE,MetroRail,Fall 2014,weekday
+70.4,550,550-METRO RAIL RED LINE,MetroRail,Spring 2015,weekday
+62.8,550,550-METRO RAIL RED LINE,MetroRail,Summer 2015,weekday
+125.8,640,640-FA FORTY ACRES,UT Shuttle,Spring 2012,weekday
+57.0,640,640-FA FORTY ACRES,UT Shuttle,Summer 2012,weekday
+144.7,640,640-FA FORTY ACRES,UT Shuttle,Fall 2012,weekday
+124.2,640,640-FA FORTY ACRES,UT Shuttle,Spring 2013,weekday
+56.0,640,640-FA FORTY ACRES,UT Shuttle,Summer 2013,weekday
+125.4,640,640-FA FORTY ACRES,UT Shuttle,Fall 2013,weekday
+132.2,640,640-FA FORTY ACRES,UT Shuttle,Spring 2014,weekday
+45.7,640,640-FA FORTY ACRES,UT Shuttle,Summer 2014,weekday
+107.4,640,640-FA FORTY ACRES,UT Shuttle,Fall 2014,weekday
+105.3,640,640-FA FORTY ACRES,UT Shuttle,Spring 2015,weekday
+57.7,640,640-FA FORTY ACRES,UT Shuttle,Summer 2015,weekday
+57.4,641,641-EC EAST CAMPUS,UT Shuttle,Spring 2012,weekday
+26.0,641,641-EC EAST CAMPUS,UT Shuttle,Summer 2012,weekday
+56.7,641,641-EC EAST CAMPUS,UT Shuttle,Fall 2012,weekday
+43.7,641,641-EC EAST CAMPUS,UT Shuttle,Spring 2013,weekday
+28.3,641,641-EC EAST CAMPUS,UT Shuttle,Summer 2013,weekday
+53.6,641,641-EC EAST CAMPUS,UT Shuttle,Fall 2013,weekday
+51.9,641,641-EC EAST CAMPUS,UT Shuttle,Spring 2014,weekday
+23.6,641,641-EC EAST CAMPUS,UT Shuttle,Summer 2014,weekday
+45.4,641,641-EC EAST CAMPUS,UT Shuttle,Fall 2014,weekday
+42.8,641,641-EC EAST CAMPUS,UT Shuttle,Spring 2015,weekday
+27.6,641,641-EC EAST CAMPUS,UT Shuttle,Summer 2015,weekday
+91.4,642,642-WC WEST CAMPUS/UT,UT Shuttle,Spring 2012,weekday
+44.5,642,642-WC WEST CAMPUS/UT,UT Shuttle,Summer 2012,weekday
+99.1,642,642-WC WEST CAMPUS/UT,UT Shuttle,Fall 2012,weekday
+97.8,642,642-WC WEST CAMPUS/UT,UT Shuttle,Spring 2013,weekday
+48.4,642,642-WC WEST CAMPUS/UT,UT Shuttle,Summer 2013,weekday
+90.9,642,642-WC WEST CAMPUS/UT,UT Shuttle,Fall 2013,weekday
+90.0,642,642-WC WEST CAMPUS/UT,UT Shuttle,Spring 2014,weekday
+49.0,642,642-WC WEST CAMPUS/UT,UT Shuttle,Summer 2014,weekday
+100.5,642,642-WC WEST CAMPUS/UT,UT Shuttle,Fall 2014,weekday
+87.7,642,642-WC WEST CAMPUS/UT,UT Shuttle,Spring 2015,weekday
+51.8,642,642-WC WEST CAMPUS/UT,UT Shuttle,Summer 2015,weekday
+35.2,651,651-CR CAMERON RD/UT,UT Shuttle,Spring 2012,weekday
+23.2,651,651-CR CAMERON RD/UT,UT Shuttle,Summer 2012,weekday
+40.2,651,651-CR CAMERON RD/UT,UT Shuttle,Fall 2012,weekday
+36.3,651,651-CR CAMERON RD/UT,UT Shuttle,Spring 2013,weekday
+23.9,651,651-CR CAMERON RD/UT,UT Shuttle,Summer 2013,weekday
+44.5,651,651-CR CAMERON RD/UT,UT Shuttle,Fall 2013,weekday
+36.7,651,651-CR CAMERON RD/UT,UT Shuttle,Spring 2014,weekday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Summer 2014,weekday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Fall 2014,weekday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Spring 2015,weekday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Summer 2015,weekday
+12.8,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Spring 2012,weekday
+6.6,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Summer 2012,weekday
+17.2,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Fall 2012,weekday
+18.0,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Spring 2013,weekday
+14.5,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Summer 2013,weekday
+19.3,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Fall 2013,weekday
+17.6,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Spring 2014,weekday
+15.1,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Summer 2014,weekday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Fall 2014,weekday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Spring 2015,weekday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Summer 2015,weekday
+51.2,653,653-RR RED RIVER/UT,UT Shuttle,Spring 2012,weekday
+29.9,653,653-RR RED RIVER/UT,UT Shuttle,Summer 2012,weekday
+54.2,653,653-RR RED RIVER/UT,UT Shuttle,Fall 2012,weekday
+49.0,653,653-RR RED RIVER/UT,UT Shuttle,Spring 2013,weekday
+34.5,653,653-RR RED RIVER/UT,UT Shuttle,Summer 2013,weekday
+51.5,653,653-RR RED RIVER/UT,UT Shuttle,Fall 2013,weekday
+45.9,653,653-RR RED RIVER/UT,UT Shuttle,Spring 2014,weekday
+30.6,653,653-RR RED RIVER/UT,UT Shuttle,Summer 2014,weekday
+46.4,653,653-RR RED RIVER/UT,UT Shuttle,Fall 2014,weekday
+41.8,653,653-RR RED RIVER/UT,UT Shuttle,Spring 2015,weekday
+33.8,653,653-RR RED RIVER/UT,UT Shuttle,Summer 2015,weekday
+53.5,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Spring 2012,weekday
+29.3,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Summer 2012,weekday
+51.9,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Fall 2012,weekday
+50.7,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Spring 2013,weekday
+31.7,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Summer 2013,weekday
+53.9,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Fall 2013,weekday
+47.0,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Spring 2014,weekday
+26.7,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Summer 2014,weekday
+41.2,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Fall 2014,weekday
+36.2,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Spring 2015,weekday
+30.4,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Summer 2015,weekday
+41.9,661,661-FW FAR WEST/UT,UT Shuttle,Spring 2012,weekday
+43.2,661,661-FW FAR WEST/UT,UT Shuttle,Summer 2012,weekday
+45.6,661,661-FW FAR WEST/UT,UT Shuttle,Fall 2012,weekday
+40.7,661,661-FW FAR WEST/UT,UT Shuttle,Spring 2013,weekday
+47.8,661,661-FW FAR WEST/UT,UT Shuttle,Summer 2013,weekday
+43.9,661,661-FW FAR WEST/UT,UT Shuttle,Fall 2013,weekday
+37.6,661,661-FW FAR WEST/UT,UT Shuttle,Spring 2014,weekday
+42.4,661,661-FW FAR WEST/UT,UT Shuttle,Summer 2014,weekday
+27.7,661,661-FW FAR WEST/UT,UT Shuttle,Fall 2014,weekday
+24.5,661,661-FW FAR WEST/UT,UT Shuttle,Spring 2015,weekday
+35.1,661,661-FW FAR WEST/UT,UT Shuttle,Summer 2015,weekday
+35.4,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Spring 2012,weekday
+24.3,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Summer 2012,weekday
+33.8,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Fall 2012,weekday
+31.7,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Spring 2013,weekday
+26.1,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Summer 2013,weekday
+35.7,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Fall 2013,weekday
+33.0,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Spring 2014,weekday
+26.6,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Summer 2014,weekday
+27.0,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Fall 2014,weekday
+25.5,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Spring 2015,weekday
+28.0,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Summer 2015,weekday
+41.5,670,670-CP CROSSING PLACE,UT Shuttle,Spring 2012,weekday
+,670,670-CP CROSSING PLACE,UT Shuttle,Summer 2012,weekday
+47.6,670,670-CP CROSSING PLACE,UT Shuttle,Fall 2012,weekday
+43.0,670,670-CP CROSSING PLACE,UT Shuttle,Spring 2013,weekday
+,670,670-CP CROSSING PLACE,UT Shuttle,Summer 2013,weekday
+45.5,670,670-CP CROSSING PLACE,UT Shuttle,Fall 2013,weekday
+41.6,670,670-CP CROSSING PLACE,UT Shuttle,Spring 2014,weekday
+32.5,670,670-CP CROSSING PLACE,UT Shuttle,Summer 2014,weekday
+37.2,670,670-CP CROSSING PLACE,UT Shuttle,Fall 2014,weekday
+31.1,670,670-CP CROSSING PLACE,UT Shuttle,Spring 2015,weekday
+27.1,670,670-CP CROSSING PLACE,UT Shuttle,Summer 2015,weekday
+49.9,671,671-NR NORTH RIVERSIDE,UT Shuttle,Spring 2012,weekday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Summer 2012,weekday
+52.8,671,671-NR NORTH RIVERSIDE,UT Shuttle,Fall 2012,weekday
+49.2,671,671-NR NORTH RIVERSIDE,UT Shuttle,Spring 2013,weekday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Summer 2013,weekday
+49.3,671,671-NR NORTH RIVERSIDE,UT Shuttle,Fall 2013,weekday
+44.6,671,671-NR NORTH RIVERSIDE,UT Shuttle,Spring 2014,weekday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Summer 2014,weekday
+29.8,671,671-NR NORTH RIVERSIDE,UT Shuttle,Fall 2014,weekday
+25.6,671,671-NR NORTH RIVERSIDE,UT Shuttle,Spring 2015,weekday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Summer 2015,weekday
+34.5,672,672-LS LAKESHORE,UT Shuttle,Spring 2012,weekday
+,672,672-LS LAKESHORE,UT Shuttle,Summer 2012,weekday
+41.7,672,672-LS LAKESHORE,UT Shuttle,Fall 2012,weekday
+37.6,672,672-LS LAKESHORE,UT Shuttle,Spring 2013,weekday
+,672,672-LS LAKESHORE,UT Shuttle,Summer 2013,weekday
+45.0,672,672-LS LAKESHORE,UT Shuttle,Fall 2013,weekday
+35.8,672,672-LS LAKESHORE,UT Shuttle,Spring 2014,weekday
+,672,672-LS LAKESHORE,UT Shuttle,Summer 2014,weekday
+24.1,672,672-LS LAKESHORE,UT Shuttle,Fall 2014,weekday
+20.4,672,672-LS LAKESHORE,UT Shuttle,Spring 2015,weekday
+,672,672-LS LAKESHORE,UT Shuttle,Summer 2015,weekday
+39.6,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Spring 2012,weekday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Summer 2012,weekday
+39.6,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Fall 2012,weekday
+32.0,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Spring 2013,weekday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Summer 2013,weekday
+29.6,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Fall 2013,weekday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Spring 2014,weekday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Summer 2014,weekday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Fall 2014,weekday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Spring 2015,weekday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Summer 2015,weekday
+54.0,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Spring 2012,weekday
+39.3,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Summer 2012,weekday
+61.4,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Fall 2012,weekday
+51.4,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Spring 2013,weekday
+37.7,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Summer 2013,weekday
+57.1,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Fall 2013,weekday
+46.6,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Spring 2014,weekday
+37.8,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Summer 2014,weekday
+49.5,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Fall 2014,weekday
+40.2,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Spring 2015,weekday
+20.5,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Summer 2015,weekday
+,681,681-IF/FW Intramural/Far West,UT Shuttle,Spring 2012,weekday
+,681,681-IF/FW Intramural/Far West,UT Shuttle,Summer 2012,weekday
+,681,681-IF/FW Intramural/Far West,UT Shuttle,Fall 2012,weekday
+,681,681-IF/FW Intramural/Far West,UT Shuttle,Spring 2013,weekday
+,681,681-IF/FW Intramural/Far West,UT Shuttle,Summer 2013,weekday
+,681,681-IF/FW Intramural/Far West,UT Shuttle,Fall 2013,weekday
+,681,681-IF/FW Intramural/Far West,UT Shuttle,Spring 2014,weekday
+,681,681-IF/FW Intramural/Far West,UT Shuttle,Summer 2014,weekday
+,681,681-IF/FW Intramural/Far West,UT Shuttle,Fall 2014,weekday
+,681,681-IF/FW Intramural/Far West,UT Shuttle,Spring 2015,weekday
+,681,681-IF/FW Intramural/Far West,UT Shuttle,Summer 2015,weekday
+37.6,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Spring 2012,weekday
+,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Summer 2012,weekday
+44.2,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Fall 2012,weekday
+40.7,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Spring 2013,weekday
+,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Summer 2013,weekday
+47.6,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Fall 2013,weekday
+,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Spring 2014,weekday
+,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Summer 2014,weekday
+,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Fall 2014,weekday
+,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Spring 2015,weekday
+,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Summer 2015,weekday
+43.1,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Spring 2012,weekday
+39.5,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Summer 2012,weekday
+53.0,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Fall 2012,weekday
+42.3,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Spring 2013,weekday
+38.7,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Summer 2013,weekday
+47.4,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Fall 2013,weekday
+,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Spring 2014,weekday
+,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Summer 2014,weekday
+,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Fall 2014,weekday
+,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Spring 2015,weekday
+,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Summer 2015,weekday
+,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Spring 2012,weekday
+,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Summer 2012,weekday
+,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Fall 2012,weekday
+,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Spring 2013,weekday
+,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Summer 2013,weekday
+,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Fall 2013,weekday
+23.0,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Spring 2014,weekday
+21.9,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Summer 2014,weekday
+25.4,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Fall 2014,weekday
+21.6,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Spring 2015,weekday
+18.8,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Summer 2015,weekday
+,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Spring 2012,weekday
+,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Summer 2012,weekday
+,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Fall 2012,weekday
+,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Spring 2013,weekday
+,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Summer 2013,weekday
+,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Fall 2013,weekday
+,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Spring 2014,weekday
+,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Summer 2014,weekday
+16.6,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Fall 2014,weekday
+15.5,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Spring 2015,weekday
+15.1,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Summer 2015,weekday
+20.0,935,935-TECH RIDGE EXPRESS,Express,Spring 2012,weekday
+19.7,935,935-TECH RIDGE EXPRESS,Express,Summer 2012,weekday
+24.0,935,935-TECH RIDGE EXPRESS,Express,Fall 2012,weekday
+22.3,935,935-TECH RIDGE EXPRESS,Express,Spring 2013,weekday
+19.3,935,935-TECH RIDGE EXPRESS,Express,Summer 2013,weekday
+19.4,935,935-TECH RIDGE EXPRESS,Express,Fall 2013,weekday
+19.4,935,935-TECH RIDGE EXPRESS,Express,Spring 2014,weekday
+19.6,935,935-TECH RIDGE EXPRESS,Express,Summer 2014,weekday
+19.1,935,935-TECH RIDGE EXPRESS,Express,Fall 2014,weekday
+17.6,935,935-TECH RIDGE EXPRESS,Express,Spring 2015,weekday
+16.2,935,935-TECH RIDGE EXPRESS,Express,Summer 2015,weekday
+4.8,970,970-AMD/LANTANA CAMPUS,Express,Spring 2012,weekday
+6.7,970,970-AMD/LANTANA CAMPUS,Express,Summer 2012,weekday
+3.7,970,970-AMD/LANTANA CAMPUS,Express,Fall 2012,weekday
+3.9,970,970-AMD/LANTANA CAMPUS,Express,Spring 2013,weekday
+5.4,970,970-AMD/LANTANA CAMPUS,Express,Summer 2013,weekday
+4.3,970,970-AMD/LANTANA CAMPUS,Express,Fall 2013,weekday
+3.4,970,970-AMD/LANTANA CAMPUS,Express,Spring 2014,weekday
+4.2,970,970-AMD/LANTANA CAMPUS,Express,Summer 2014,weekday
+5.7,970,970-AMD/LANTANA CAMPUS,Express,Fall 2014,weekday
+4.3,970,970-AMD/LANTANA CAMPUS,Express,Spring 2015,weekday
+4.8,970,970-AMD/LANTANA CAMPUS,Express,Summer 2015,weekday
+21.9,982,982-PAVILLION EXPRESS,Express,Spring 2012,weekday
+17.8,982,982-PAVILLION EXPRESS,Express,Summer 2012,weekday
+21.8,982,982-PAVILLION EXPRESS,Express,Fall 2012,weekday
+22.2,982,982-PAVILLION EXPRESS,Express,Spring 2013,weekday
+17.8,982,982-PAVILLION EXPRESS,Express,Summer 2013,weekday
+20.4,982,982-PAVILLION EXPRESS,Express,Fall 2013,weekday
+14.2,982,982-PAVILLION EXPRESS,Express,Spring 2014,weekday
+17.0,982,982-PAVILLION EXPRESS,Express,Summer 2014,weekday
+19.6,982,982-PAVILLION EXPRESS,Express,Fall 2014,weekday
+18.5,982,982-PAVILLION EXPRESS,Express,Spring 2015,weekday
+16.8,982,982-PAVILLION EXPRESS,Express,Summer 2015,weekday
+12.3,983,983-N US183 EXPRESS,Express,Spring 2012,weekday
+10.3,983,983-N US183 EXPRESS,Express,Summer 2012,weekday
+10.0,983,983-N US183 EXPRESS,Express,Fall 2012,weekday
+11.6,983,983-N US183 EXPRESS,Express,Spring 2013,weekday
+10.7,983,983-N US183 EXPRESS,Express,Summer 2013,weekday
+13.5,983,983-N US183 EXPRESS,Express,Fall 2013,weekday
+12.9,983,983-N US183 EXPRESS,Express,Spring 2014,weekday
+8.8,983,983-N US183 EXPRESS,Express,Summer 2014,weekday
+12.2,983,983-N US183 EXPRESS,Express,Fall 2014,weekday
+10.9,983,983-N US183 EXPRESS,Express,Spring 2015,weekday
+9.5,983,983-N US183 EXPRESS,Express,Summer 2015,weekday
+24.3,985,985-LEANDER LAKELINE DIRECT,Express,Spring 2012,weekday
+22.0,985,985-LEANDER LAKELINE DIRECT,Express,Summer 2012,weekday
+23.0,985,985-LEANDER LAKELINE DIRECT,Express,Fall 2012,weekday
+23.1,985,985-LEANDER LAKELINE DIRECT,Express,Spring 2013,weekday
+25.8,985,985-LEANDER LAKELINE DIRECT,Express,Summer 2013,weekday
+23.1,985,985-LEANDER LAKELINE DIRECT,Express,Fall 2013,weekday
+17.5,985,985-LEANDER LAKELINE DIRECT,Express,Spring 2014,weekday
+21.3,985,985-LEANDER LAKELINE DIRECT,Express,Summer 2014,weekday
+21.3,985,985-LEANDER LAKELINE DIRECT,Express,Fall 2014,weekday
+21.5,985,985-LEANDER LAKELINE DIRECT,Express,Spring 2015,weekday
+18.6,985,985-LEANDER LAKELINE DIRECT,Express,Summer 2015,weekday
+16.3,987,987-LEANDER/NW EXPRESS,Express,Spring 2012,weekday
+14.4,987,987-LEANDER/NW EXPRESS,Express,Summer 2012,weekday
+17.3,987,987-LEANDER/NW EXPRESS,Express,Fall 2012,weekday
+15.8,987,987-LEANDER/NW EXPRESS,Express,Spring 2013,weekday
+14.1,987,987-LEANDER/NW EXPRESS,Express,Summer 2013,weekday
+16.0,987,987-LEANDER/NW EXPRESS,Express,Fall 2013,weekday
+14.3,987,987-LEANDER/NW EXPRESS,Express,Spring 2014,weekday
+15.5,987,987-LEANDER/NW EXPRESS,Express,Summer 2014,weekday
+15.2,987,987-LEANDER/NW EXPRESS,Express,Fall 2014,weekday
+12.6,987,987-LEANDER/NW EXPRESS,Express,Spring 2015,weekday
+11.8,987,987-LEANDER/NW EXPRESS,Express,Summer 2015,weekday
+10.7,990,990-MANOR/ELGIN EXPRESS,Express,Spring 2012,weekday
+10.2,990,990-MANOR/ELGIN EXPRESS,Express,Summer 2012,weekday
+10.3,990,990-MANOR/ELGIN EXPRESS,Express,Fall 2012,weekday
+12.1,990,990-MANOR/ELGIN EXPRESS,Express,Spring 2013,weekday
+11.5,990,990-MANOR/ELGIN EXPRESS,Express,Summer 2013,weekday
+14.1,990,990-MANOR/ELGIN EXPRESS,Express,Fall 2013,weekday
+13.5,990,990-MANOR/ELGIN EXPRESS,Express,Spring 2014,weekday
+12.0,990,990-MANOR/ELGIN EXPRESS,Express,Summer 2014,weekday
+14.4,990,990-MANOR/ELGIN EXPRESS,Express,Fall 2014,weekday
+11.4,990,990-MANOR/ELGIN EXPRESS,Express,Spring 2015,weekday
+10.0,990,990-MANOR/ELGIN EXPRESS,Express,Summer 2015,weekday
+44.2,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Spring 2012,saturday
+36.1,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Summer 2012,saturday
+40.6,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Fall 2012,saturday
+41.2,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Spring 2013,saturday
+39.2,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Summer 2013,saturday
+39.8,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Fall 2013,saturday
+42.9,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Spring 2014,saturday
+33.2,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Summer 2014,saturday
+30.8,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Fall 2014,saturday
+30.9,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Spring 2015,saturday
+30.2,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Summer 2015,saturday
+26.3,2,2-ROSEWOOD,Local,Spring 2012,saturday
+25.6,2,2-ROSEWOOD,Local,Summer 2012,saturday
+27.1,2,2-ROSEWOOD,Local,Fall 2012,saturday
+26.8,2,2-ROSEWOOD,Local,Spring 2013,saturday
+28.8,2,2-ROSEWOOD,Local,Summer 2013,saturday
+25.5,2,2-ROSEWOOD,Local,Fall 2013,saturday
+26.9,2,2-ROSEWOOD,Local,Spring 2014,saturday
+25.9,2,2-ROSEWOOD,Local,Summer 2014,saturday
+23.9,2,2-ROSEWOOD,Local,Fall 2014,saturday
+20.1,2,2-ROSEWOOD,Local,Spring 2015,saturday
+20.5,2,2-ROSEWOOD,Local,Summer 2015,saturday
+29.2,3,3-BURNET/MANCHACA,Local,Spring 2012,saturday
+28.0,3,3-BURNET/MANCHACA,Local,Summer 2012,saturday
+32.9,3,3-BURNET/MANCHACA,Local,Fall 2012,saturday
+31.9,3,3-BURNET/MANCHACA,Local,Spring 2013,saturday
+27.9,3,3-BURNET/MANCHACA,Local,Summer 2013,saturday
+32.5,3,3-BURNET/MANCHACA,Local,Fall 2013,saturday
+31.0,3,3-BURNET/MANCHACA,Local,Spring 2014,saturday
+31.2,3,3-BURNET/MANCHACA,Local,Summer 2014,saturday
+28.2,3,3-BURNET/MANCHACA,Local,Fall 2014,saturday
+27.2,3,3-BURNET/MANCHACA,Local,Spring 2015,saturday
+28.6,3,3-BURNET/MANCHACA,Local,Summer 2015,saturday
+25.8,4,4-MONTOPOLIS,Local,Spring 2012,saturday
+28.4,4,4-MONTOPOLIS,Local,Summer 2012,saturday
+29.1,4,4-MONTOPOLIS,Local,Fall 2012,saturday
+27.6,4,4-MONTOPOLIS,Local,Spring 2013,saturday
+27.5,4,4-MONTOPOLIS,Local,Summer 2013,saturday
+30.2,4,4-MONTOPOLIS,Local,Fall 2013,saturday
+31.6,4,4-MONTOPOLIS,Local,Spring 2014,saturday
+26.5,4,4-MONTOPOLIS,Local,Summer 2014,saturday
+27.0,4,4-MONTOPOLIS,Local,Fall 2014,saturday
+21.5,4,4-MONTOPOLIS,Local,Spring 2015,saturday
+22.3,4,4-MONTOPOLIS,Local,Summer 2015,saturday
+18.4,5,5-WOODROW/SOUTH 5TH,Local,Spring 2012,saturday
+18.5,5,5-WOODROW/SOUTH 5TH,Local,Summer 2012,saturday
+19.9,5,5-WOODROW/SOUTH 5TH,Local,Fall 2012,saturday
+19.5,5,5-WOODROW/SOUTH 5TH,Local,Spring 2013,saturday
+19.1,5,5-WOODROW/SOUTH 5TH,Local,Summer 2013,saturday
+20.7,5,5-WOODROW/SOUTH 5TH,Local,Fall 2013,saturday
+21.8,5,5-WOODROW/SOUTH 5TH,Local,Spring 2014,saturday
+19.0,5,5-WOODROW/SOUTH 5TH,Local,Summer 2014,saturday
+18.5,5,5-WOODROW/SOUTH 5TH,Local,Fall 2014,saturday
+16.5,5,5-WOODROW/SOUTH 5TH,Local,Spring 2015,saturday
+15.8,5,5-WOODROW/SOUTH 5TH,Local,Summer 2015,saturday
+18.4,6,6-EAST 12TH,Local,Spring 2012,saturday
+16.1,6,6-EAST 12TH,Local,Summer 2012,saturday
+19.0,6,6-EAST 12TH,Local,Fall 2012,saturday
+24.1,6,6-EAST 12TH,Local,Spring 2013,saturday
+21.5,6,6-EAST 12TH,Local,Summer 2013,saturday
+19.3,6,6-EAST 12TH,Local,Fall 2013,saturday
+18.5,6,6-EAST 12TH,Local,Spring 2014,saturday
+19.4,6,6-EAST 12TH,Local,Summer 2014,saturday
+18.0,6,6-EAST 12TH,Local,Fall 2014,saturday
+13.0,6,6-EAST 12TH,Local,Spring 2015,saturday
+17.2,6,6-EAST 12TH,Local,Summer 2015,saturday
+33.5,7,7-DUVAL / DOVE SPRINGS,Local,Spring 2012,saturday
+31.9,7,7-DUVAL / DOVE SPRINGS,Local,Summer 2012,saturday
+34.9,7,7-DUVAL / DOVE SPRINGS,Local,Fall 2012,saturday
+35.6,7,7-DUVAL / DOVE SPRINGS,Local,Spring 2013,saturday
+33.9,7,7-DUVAL / DOVE SPRINGS,Local,Summer 2013,saturday
+31.4,7,7-DUVAL / DOVE SPRINGS,Local,Fall 2013,saturday
+33.9,7,7-DUVAL / DOVE SPRINGS,Local,Spring 2014,saturday
+31.7,7,7-DUVAL / DOVE SPRINGS,Local,Summer 2014,saturday
+30.2,7,7-DUVAL / DOVE SPRINGS,Local,Fall 2014,saturday
+28.8,7,7-DUVAL / DOVE SPRINGS,Local,Spring 2015,saturday
+24.7,7,7-DUVAL / DOVE SPRINGS,Local,Summer 2015,saturday
+29.7,10,10-SOUTH 1ST/RED RIVER,Local,Spring 2012,saturday
+26.8,10,10-SOUTH 1ST/RED RIVER,Local,Summer 2012,saturday
+29.1,10,10-SOUTH 1ST/RED RIVER,Local,Fall 2012,saturday
+30.6,10,10-SOUTH 1ST/RED RIVER,Local,Spring 2013,saturday
+28.7,10,10-SOUTH 1ST/RED RIVER,Local,Summer 2013,saturday
+30.8,10,10-SOUTH 1ST/RED RIVER,Local,Fall 2013,saturday
+30.7,10,10-SOUTH 1ST/RED RIVER,Local,Spring 2014,saturday
+31.3,10,10-SOUTH 1ST/RED RIVER,Local,Summer 2014,saturday
+31.0,10,10-SOUTH 1ST/RED RIVER,Local,Fall 2014,saturday
+26.9,10,10-SOUTH 1ST/RED RIVER,Local,Spring 2015,saturday
+25.3,10,10-SOUTH 1ST/RED RIVER,Local,Summer 2015,saturday
+27.4,17,17-CESAR CHAVEZ,Local,Spring 2012,saturday
+28.4,17,17-CESAR CHAVEZ,Local,Summer 2012,saturday
+31.6,17,17-CESAR CHAVEZ,Local,Fall 2012,saturday
+28.1,17,17-CESAR CHAVEZ,Local,Spring 2013,saturday
+30.6,17,17-CESAR CHAVEZ,Local,Summer 2013,saturday
+29.1,17,17-CESAR CHAVEZ,Local,Fall 2013,saturday
+26.7,17,17-CESAR CHAVEZ,Local,Spring 2014,saturday
+31.7,17,17-CESAR CHAVEZ,Local,Summer 2014,saturday
+33.3,17,17-CESAR CHAVEZ,Local,Fall 2014,saturday
+30.7,17,17-CESAR CHAVEZ,Local,Spring 2015,saturday
+32.8,17,17-CESAR CHAVEZ,Local,Summer 2015,saturday
+13.2,18,18-MARTIN LUTHER KING,Local,Spring 2012,saturday
+13.1,18,18-MARTIN LUTHER KING,Local,Summer 2012,saturday
+11.7,18,18-MARTIN LUTHER KING,Local,Fall 2012,saturday
+15.7,18,18-MARTIN LUTHER KING,Local,Spring 2013,saturday
+11.8,18,18-MARTIN LUTHER KING,Local,Summer 2013,saturday
+13.9,18,18-MARTIN LUTHER KING,Local,Fall 2013,saturday
+16.2,18,18-MARTIN LUTHER KING,Local,Spring 2014,saturday
+13.3,18,18-MARTIN LUTHER KING,Local,Summer 2014,saturday
+12.8,18,18-MARTIN LUTHER KING,Local,Fall 2014,saturday
+13.5,18,18-MARTIN LUTHER KING,Local,Spring 2015,saturday
+11.8,18,18-MARTIN LUTHER KING,Local,Summer 2015,saturday
+17.0,19,19-BULL CREEK,Local,Spring 2012,saturday
+14.1,19,19-BULL CREEK,Local,Summer 2012,saturday
+19.7,19,19-BULL CREEK,Local,Fall 2012,saturday
+18.1,19,19-BULL CREEK,Local,Spring 2013,saturday
+16.0,19,19-BULL CREEK,Local,Summer 2013,saturday
+20.9,19,19-BULL CREEK,Local,Fall 2013,saturday
+15.8,19,19-BULL CREEK,Local,Spring 2014,saturday
+19.3,19,19-BULL CREEK,Local,Summer 2014,saturday
+12.1,19,19-BULL CREEK,Local,Fall 2014,saturday
+15.7,19,19-BULL CREEK,Local,Spring 2015,saturday
+13.6,19,19-BULL CREEK,Local,Summer 2015,saturday
+35.0,20,20-MANOR RD/RIVERSIDE,Local,Spring 2012,saturday
+33.8,20,20-MANOR RD/RIVERSIDE,Local,Summer 2012,saturday
+34.3,20,20-MANOR RD/RIVERSIDE,Local,Fall 2012,saturday
+33.9,20,20-MANOR RD/RIVERSIDE,Local,Spring 2013,saturday
+33.6,20,20-MANOR RD/RIVERSIDE,Local,Summer 2013,saturday
+34.6,20,20-MANOR RD/RIVERSIDE,Local,Fall 2013,saturday
+34.8,20,20-MANOR RD/RIVERSIDE,Local,Spring 2014,saturday
+34.1,20,20-MANOR RD/RIVERSIDE,Local,Summer 2014,saturday
+29.5,20,20-MANOR RD/RIVERSIDE,Local,Fall 2014,saturday
+29.0,20,20-MANOR RD/RIVERSIDE,Local,Spring 2015,saturday
+24.6,20,20-MANOR RD/RIVERSIDE,Local,Summer 2015,saturday
+12.6,21,21-EXPOSITION,Local,Spring 2012,saturday
+13.2,21,21-EXPOSITION,Local,Summer 2012,saturday
+14.4,21,21-EXPOSITION,Local,Fall 2012,saturday
+12.1,21,21-EXPOSITION,Local,Spring 2013,saturday
+12.2,21,21-EXPOSITION,Local,Summer 2013,saturday
+14.2,21,21-EXPOSITION,Local,Fall 2013,saturday
+13.8,21,21-EXPOSITION,Local,Spring 2014,saturday
+12.5,21,21-EXPOSITION,Local,Summer 2014,saturday
+12.3,21,21-EXPOSITION,Local,Fall 2014,saturday
+11.6,21,21-EXPOSITION,Local,Spring 2015,saturday
+10.1,21,21-EXPOSITION,Local,Summer 2015,saturday
+12.9,22,22-CHICON,Local,Spring 2012,saturday
+11.3,22,22-CHICON,Local,Summer 2012,saturday
+13.3,22,22-CHICON,Local,Fall 2012,saturday
+13.4,22,22-CHICON,Local,Spring 2013,saturday
+11.4,22,22-CHICON,Local,Summer 2013,saturday
+13.0,22,22-CHICON,Local,Fall 2013,saturday
+13.0,22,22-CHICON,Local,Spring 2014,saturday
+13.6,22,22-CHICON,Local,Summer 2014,saturday
+11.9,22,22-CHICON,Local,Fall 2014,saturday
+12.2,22,22-CHICON,Local,Spring 2015,saturday
+10.8,22,22-CHICON,Local,Summer 2015,saturday
+25.5,30,30-BARTON CREEK SQ,Local,Spring 2012,saturday
+26.3,30,30-BARTON CREEK SQ,Local,Summer 2012,saturday
+28.5,30,30-BARTON CREEK SQ,Local,Fall 2012,saturday
+26.0,30,30-BARTON CREEK SQ,Local,Spring 2013,saturday
+27.2,30,30-BARTON CREEK SQ,Local,Summer 2013,saturday
+25.0,30,30-BARTON CREEK SQ,Local,Fall 2013,saturday
+25.5,30,30-BARTON CREEK SQ,Local,Spring 2014,saturday
+23.6,30,30-BARTON CREEK SQ,Local,Summer 2014,saturday
+22.1,30,30-BARTON CREEK SQ,Local,Fall 2014,saturday
+21.3,30,30-BARTON CREEK SQ,Local,Spring 2015,saturday
+24.4,30,30-BARTON CREEK SQ,Local,Summer 2015,saturday
+25.8,37,37-COLONY PARK/WINDSOR PARK,Local,Spring 2012,saturday
+26.9,37,37-COLONY PARK/WINDSOR PARK,Local,Summer 2012,saturday
+26.8,37,37-COLONY PARK/WINDSOR PARK,Local,Fall 2012,saturday
+28.0,37,37-COLONY PARK/WINDSOR PARK,Local,Spring 2013,saturday
+27.3,37,37-COLONY PARK/WINDSOR PARK,Local,Summer 2013,saturday
+28.0,37,37-COLONY PARK/WINDSOR PARK,Local,Fall 2013,saturday
+28.4,37,37-COLONY PARK/WINDSOR PARK,Local,Spring 2014,saturday
+26.7,37,37-COLONY PARK/WINDSOR PARK,Local,Summer 2014,saturday
+26.3,37,37-COLONY PARK/WINDSOR PARK,Local,Fall 2014,saturday
+22.9,37,37-COLONY PARK/WINDSOR PARK,Local,Spring 2015,saturday
+24.8,37,37-COLONY PARK/WINDSOR PARK,Local,Summer 2015,saturday
+14.0,100,100-AIRPORT FLYER,Limited/Flyer,Spring 2012,saturday
+14.1,100,100-AIRPORT FLYER,Limited/Flyer,Summer 2012,saturday
+20.2,100,100-AIRPORT FLYER,Limited/Flyer,Fall 2012,saturday
+20.3,100,100-AIRPORT FLYER,Limited/Flyer,Spring 2013,saturday
+17.3,100,100-AIRPORT FLYER,Limited/Flyer,Summer 2013,saturday
+20.3,100,100-AIRPORT FLYER,Limited/Flyer,Fall 2013,saturday
+18.1,100,100-AIRPORT FLYER,Limited/Flyer,Spring 2014,saturday
+13.3,100,100-AIRPORT FLYER,Limited/Flyer,Summer 2014,saturday
+16.4,100,100-AIRPORT FLYER,Limited/Flyer,Fall 2014,saturday
+15.1,100,100-AIRPORT FLYER,Limited/Flyer,Spring 2015,saturday
+13.0,100,100-AIRPORT FLYER,Limited/Flyer,Summer 2015,saturday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Spring 2012,saturday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Summer 2012,saturday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Fall 2012,saturday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Spring 2013,saturday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Summer 2013,saturday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Fall 2013,saturday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Spring 2014,saturday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Summer 2014,saturday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Fall 2014,saturday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Spring 2015,saturday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Summer 2015,saturday
+,103,103-MANCHACA FLYER,Limited/Flyer,Spring 2012,saturday
+,103,103-MANCHACA FLYER,Limited/Flyer,Summer 2012,saturday
+,103,103-MANCHACA FLYER,Limited/Flyer,Fall 2012,saturday
+,103,103-MANCHACA FLYER,Limited/Flyer,Spring 2013,saturday
+,103,103-MANCHACA FLYER,Limited/Flyer,Summer 2013,saturday
+,103,103-MANCHACA FLYER,Limited/Flyer,Fall 2013,saturday
+,103,103-MANCHACA FLYER,Limited/Flyer,Spring 2014,saturday
+,103,103-MANCHACA FLYER,Limited/Flyer,Summer 2014,saturday
+,103,103-MANCHACA FLYER,Limited/Flyer,Fall 2014,saturday
+,103,103-MANCHACA FLYER,Limited/Flyer,Spring 2015,saturday
+,103,103-MANCHACA FLYER,Limited/Flyer,Summer 2015,saturday
+,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Spring 2012,saturday
+,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Summer 2012,saturday
+,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Fall 2012,saturday
+,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Spring 2013,saturday
+,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Summer 2013,saturday
+,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Fall 2013,saturday
+,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Spring 2014,saturday
+,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Summer 2014,saturday
+,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Fall 2014,saturday
+,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Spring 2015,saturday
+,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Summer 2015,saturday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Spring 2012,saturday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Summer 2012,saturday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Fall 2012,saturday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Spring 2013,saturday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Summer 2013,saturday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Fall 2013,saturday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Spring 2014,saturday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Summer 2014,saturday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Fall 2014,saturday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Spring 2015,saturday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Summer 2015,saturday
+,122,122-FOUR POINTS LIMITED,Limited/Flyer,Spring 2012,saturday
+,122,122-FOUR POINTS LIMITED,Limited/Flyer,Summer 2012,saturday
+,122,122-FOUR POINTS LIMITED,Limited/Flyer,Fall 2012,saturday
+,122,122-FOUR POINTS LIMITED,Limited/Flyer,Spring 2013,saturday
+,122,122-FOUR POINTS LIMITED,Limited/Flyer,Summer 2013,saturday
+,122,122-FOUR POINTS LIMITED,Limited/Flyer,Fall 2013,saturday
+,122,122-FOUR POINTS LIMITED,Limited/Flyer,Spring 2014,saturday
+,122,122-FOUR POINTS LIMITED,Limited/Flyer,Summer 2014,saturday
+,122,122-FOUR POINTS LIMITED,Limited/Flyer,Fall 2014,saturday
+,122,122-FOUR POINTS LIMITED,Limited/Flyer,Spring 2015,saturday
+,122,122-FOUR POINTS LIMITED,Limited/Flyer,Summer 2015,saturday
+,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Spring 2012,saturday
+,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Summer 2012,saturday
+,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Fall 2012,saturday
+,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Spring 2013,saturday
+,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Summer 2013,saturday
+,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Fall 2013,saturday
+,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Spring 2014,saturday
+,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Summer 2014,saturday
+,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Fall 2014,saturday
+,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Spring 2015,saturday
+,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Summer 2015,saturday
+,135,135-DELL LIMITED,Limited/Flyer,Spring 2012,saturday
+,135,135-DELL LIMITED,Limited/Flyer,Summer 2012,saturday
+,135,135-DELL LIMITED,Limited/Flyer,Fall 2012,saturday
+,135,135-DELL LIMITED,Limited/Flyer,Spring 2013,saturday
+,135,135-DELL LIMITED,Limited/Flyer,Summer 2013,saturday
+,135,135-DELL LIMITED,Limited/Flyer,Fall 2013,saturday
+,135,135-DELL LIMITED,Limited/Flyer,Spring 2014,saturday
+,135,135-DELL LIMITED,Limited/Flyer,Summer 2014,saturday
+,135,135-DELL LIMITED,Limited/Flyer,Fall 2014,saturday
+,135,135-DELL LIMITED,Limited/Flyer,Spring 2015,saturday
+,135,135-DELL LIMITED,Limited/Flyer,Summer 2015,saturday
+,142,142-METRIC FLYER,Limited/Flyer,Spring 2012,saturday
+,142,142-METRIC FLYER,Limited/Flyer,Summer 2012,saturday
+,142,142-METRIC FLYER,Limited/Flyer,Fall 2012,saturday
+,142,142-METRIC FLYER,Limited/Flyer,Spring 2013,saturday
+,142,142-METRIC FLYER,Limited/Flyer,Summer 2013,saturday
+,142,142-METRIC FLYER,Limited/Flyer,Fall 2013,saturday
+,142,142-METRIC FLYER,Limited/Flyer,Spring 2014,saturday
+,142,142-METRIC FLYER,Limited/Flyer,Summer 2014,saturday
+,142,142-METRIC FLYER,Limited/Flyer,Fall 2014,saturday
+,142,142-METRIC FLYER,Limited/Flyer,Spring 2015,saturday
+,142,142-METRIC FLYER,Limited/Flyer,Summer 2015,saturday
+,171,171-OAK HILL FLYER,Limited/Flyer,Spring 2012,saturday
+,171,171-OAK HILL FLYER,Limited/Flyer,Summer 2012,saturday
+,171,171-OAK HILL FLYER,Limited/Flyer,Fall 2012,saturday
+,171,171-OAK HILL FLYER,Limited/Flyer,Spring 2013,saturday
+,171,171-OAK HILL FLYER,Limited/Flyer,Summer 2013,saturday
+,171,171-OAK HILL FLYER,Limited/Flyer,Fall 2013,saturday
+,171,171-OAK HILL FLYER,Limited/Flyer,Spring 2014,saturday
+,171,171-OAK HILL FLYER,Limited/Flyer,Summer 2014,saturday
+,171,171-OAK HILL FLYER,Limited/Flyer,Fall 2014,saturday
+,171,171-OAK HILL FLYER,Limited/Flyer,Spring 2015,saturday
+,171,171-OAK HILL FLYER,Limited/Flyer,Summer 2015,saturday
+16.1,201,201-SOUTHPARK MEADOWS,Feeder,Spring 2012,saturday
+15.7,201,201-SOUTHPARK MEADOWS,Feeder,Summer 2012,saturday
+18.5,201,201-SOUTHPARK MEADOWS,Feeder,Fall 2012,saturday
+19.6,201,201-SOUTHPARK MEADOWS,Feeder,Spring 2013,saturday
+16.2,201,201-SOUTHPARK MEADOWS,Feeder,Summer 2013,saturday
+18.5,201,201-SOUTHPARK MEADOWS,Feeder,Fall 2013,saturday
+24.7,201,201-SOUTHPARK MEADOWS,Feeder,Spring 2014,saturday
+23.3,201,201-SOUTHPARK MEADOWS,Feeder,Summer 2014,saturday
+18.6,201,201-SOUTHPARK MEADOWS,Feeder,Fall 2014,saturday
+17.9,201,201-SOUTHPARK MEADOWS,Feeder,Spring 2015,saturday
+17.1,201,201-SOUTHPARK MEADOWS,Feeder,Summer 2015,saturday
+,214,214-LAGO VISTA FLEX,Feeder,Spring 2012,saturday
+,214,214-LAGO VISTA FLEX,Feeder,Summer 2012,saturday
+,214,214-LAGO VISTA FLEX,Feeder,Fall 2012,saturday
+,214,214-LAGO VISTA FLEX,Feeder,Spring 2013,saturday
+,214,214-LAGO VISTA FLEX,Feeder,Summer 2013,saturday
+,214,214-LAGO VISTA FLEX,Feeder,Fall 2013,saturday
+,214,214-LAGO VISTA FLEX,Feeder,Spring 2014,saturday
+,214,214-LAGO VISTA FLEX,Feeder,Summer 2014,saturday
+,214,214-LAGO VISTA FLEX,Feeder,Fall 2014,saturday
+,214,214-LAGO VISTA FLEX,Feeder,Spring 2015,saturday
+,214,214-LAGO VISTA FLEX,Feeder,Summer 2015,saturday
+,228,228-BURLESON,Feeder,Spring 2012,saturday
+,228,228-BURLESON,Feeder,Summer 2012,saturday
+,228,228-BURLESON,Feeder,Fall 2012,saturday
+,228,228-BURLESON,Feeder,Spring 2013,saturday
+,228,228-BURLESON,Feeder,Summer 2013,saturday
+,228,228-BURLESON,Feeder,Fall 2013,saturday
+,228,228-BURLESON,Feeder,Spring 2014,saturday
+,228,228-BURLESON,Feeder,Summer 2014,saturday
+,228,228-BURLESON,Feeder,Fall 2014,saturday
+,228,228-BURLESON,Feeder,Spring 2015,saturday
+,228,228-BURLESON,Feeder,Summer 2015,saturday
+,237,237-NORTHEAST FLEX,Feeder,Spring 2012,saturday
+,237,237-NORTHEAST FLEX,Feeder,Summer 2012,saturday
+,237,237-NORTHEAST FLEX,Feeder,Fall 2012,saturday
+,237,237-NORTHEAST FLEX,Feeder,Spring 2013,saturday
+,237,237-NORTHEAST FLEX,Feeder,Summer 2013,saturday
+,237,237-NORTHEAST FLEX,Feeder,Fall 2013,saturday
+,237,237-NORTHEAST FLEX,Feeder,Spring 2014,saturday
+,237,237-NORTHEAST FLEX,Feeder,Summer 2014,saturday
+,237,237-NORTHEAST FLEX,Feeder,Fall 2014,saturday
+,237,237-NORTHEAST FLEX,Feeder,Spring 2015,saturday
+1.9,237,237-NORTHEAST FLEX,Feeder,Summer 2015,saturday
+,238,238-WESTGATE,Feeder,Spring 2012,saturday
+,238,238-WESTGATE,Feeder,Summer 2012,saturday
+,238,238-WESTGATE,Feeder,Fall 2012,saturday
+11.1,238,238-WESTGATE,Feeder,Spring 2013,saturday
+11.4,238,238-WESTGATE,Feeder,Summer 2013,saturday
+12.0,238,238-WESTGATE,Feeder,Fall 2013,saturday
+12.3,238,238-WESTGATE,Feeder,Spring 2014,saturday
+11.9,238,238-WESTGATE,Feeder,Summer 2014,saturday
+13.2,238,238-WESTGATE,Feeder,Fall 2014,saturday
+12.3,238,238-WESTGATE,Feeder,Spring 2015,saturday
+11.7,238,238-WESTGATE,Feeder,Summer 2015,saturday
+18.8,240,240-PARKFIELD,Feeder,Spring 2012,saturday
+19.7,240,240-PARKFIELD,Feeder,Summer 2012,saturday
+20.6,240,240-PARKFIELD,Feeder,Fall 2012,saturday
+24.9,240,240-PARKFIELD,Feeder,Spring 2013,saturday
+21.6,240,240-PARKFIELD,Feeder,Summer 2013,saturday
+19.5,240,240-PARKFIELD,Feeder,Fall 2013,saturday
+19.1,240,240-PARKFIELD,Feeder,Spring 2014,saturday
+18.6,240,240-PARKFIELD,Feeder,Summer 2014,saturday
+12.9,240,240-PARKFIELD,Feeder,Fall 2014,saturday
+18.5,240,240-PARKFIELD,Feeder,Spring 2015,saturday
+17.4,240,240-PARKFIELD,Feeder,Summer 2015,saturday
+12.1,243,243-WELLS BRANCH,Feeder,Spring 2012,saturday
+17.3,243,243-WELLS BRANCH,Feeder,Summer 2012,saturday
+16.4,243,243-WELLS BRANCH,Feeder,Fall 2012,saturday
+16.5,243,243-WELLS BRANCH,Feeder,Spring 2013,saturday
+20.0,243,243-WELLS BRANCH,Feeder,Summer 2013,saturday
+15.9,243,243-WELLS BRANCH,Feeder,Fall 2013,saturday
+16.9,243,243-WELLS BRANCH,Feeder,Spring 2014,saturday
+17.7,243,243-WELLS BRANCH,Feeder,Summer 2014,saturday
+20.7,243,243-WELLS BRANCH,Feeder,Fall 2014,saturday
+14.9,243,243-WELLS BRANCH,Feeder,Spring 2015,saturday
+15.9,243,243-WELLS BRANCH,Feeder,Summer 2015,saturday
+,271,271-DEL VALLE FLEX,Feeder,Spring 2012,saturday
+,271,271-DEL VALLE FLEX,Feeder,Summer 2012,saturday
+,271,271-DEL VALLE FLEX,Feeder,Fall 2012,saturday
+,271,271-DEL VALLE FLEX,Feeder,Spring 2013,saturday
+,271,271-DEL VALLE FLEX,Feeder,Summer 2013,saturday
+,271,271-DEL VALLE FLEX,Feeder,Fall 2013,saturday
+,271,271-DEL VALLE FLEX,Feeder,Spring 2014,saturday
+,271,271-DEL VALLE FLEX,Feeder,Summer 2014,saturday
+,271,271-DEL VALLE FLEX,Feeder,Fall 2014,saturday
+,271,271-DEL VALLE FLEX,Feeder,Spring 2015,saturday
+,271,271-DEL VALLE FLEX,Feeder,Summer 2015,saturday
+,275,275-N. LAMAR,Feeder,Spring 2012,saturday
+,275,275-N. LAMAR,Feeder,Summer 2012,saturday
+,275,275-N. LAMAR,Feeder,Fall 2012,saturday
+,275,275-N. LAMAR,Feeder,Spring 2013,saturday
+,275,275-N. LAMAR,Feeder,Summer 2013,saturday
+,275,275-N. LAMAR,Feeder,Fall 2013,saturday
+25.8,275,275-N. LAMAR,Feeder,Spring 2014,saturday
+31.3,275,275-N. LAMAR,Feeder,Summer 2014,saturday
+30.4,275,275-N. LAMAR,Feeder,Fall 2014,saturday
+24.9,275,275-N. LAMAR,Feeder,Spring 2015,saturday
+25.7,275,275-N. LAMAR,Feeder,Summer 2015,saturday
+32.5,300,300-GOVALLE,Crosstown,Spring 2012,saturday
+33.7,300,300-GOVALLE,Crosstown,Summer 2012,saturday
+35.4,300,300-GOVALLE,Crosstown,Fall 2012,saturday
+34.8,300,300-GOVALLE,Crosstown,Spring 2013,saturday
+34.1,300,300-GOVALLE,Crosstown,Summer 2013,saturday
+34.6,300,300-GOVALLE,Crosstown,Fall 2013,saturday
+35.5,300,300-GOVALLE,Crosstown,Spring 2014,saturday
+35.7,300,300-GOVALLE,Crosstown,Summer 2014,saturday
+34.7,300,300-GOVALLE,Crosstown,Fall 2014,saturday
+31.0,300,300-GOVALLE,Crosstown,Spring 2015,saturday
+30.6,300,300-GOVALLE,Crosstown,Summer 2015,saturday
+22.0,311,311-STASSNEY,Crosstown,Spring 2012,saturday
+22.5,311,311-STASSNEY,Crosstown,Summer 2012,saturday
+22.1,311,311-STASSNEY,Crosstown,Fall 2012,saturday
+24.3,311,311-STASSNEY,Crosstown,Spring 2013,saturday
+24.3,311,311-STASSNEY,Crosstown,Summer 2013,saturday
+24.9,311,311-STASSNEY,Crosstown,Fall 2013,saturday
+24.4,311,311-STASSNEY,Crosstown,Spring 2014,saturday
+25.8,311,311-STASSNEY,Crosstown,Summer 2014,saturday
+25.3,311,311-STASSNEY,Crosstown,Fall 2014,saturday
+20.2,311,311-STASSNEY,Crosstown,Spring 2015,saturday
+23.1,311,311-STASSNEY,Crosstown,Summer 2015,saturday
+23.7,320,320-ST JOHNS,Crosstown,Spring 2012,saturday
+22.3,320,320-ST JOHNS,Crosstown,Summer 2012,saturday
+24.3,320,320-ST JOHNS,Crosstown,Fall 2012,saturday
+24.4,320,320-ST JOHNS,Crosstown,Spring 2013,saturday
+23.0,320,320-ST JOHNS,Crosstown,Summer 2013,saturday
+23.6,320,320-ST JOHNS,Crosstown,Fall 2013,saturday
+25.2,320,320-ST JOHNS,Crosstown,Spring 2014,saturday
+25.4,320,320-ST JOHNS,Crosstown,Summer 2014,saturday
+24.8,320,320-ST JOHNS,Crosstown,Fall 2014,saturday
+23.6,320,320-ST JOHNS,Crosstown,Spring 2015,saturday
+23.1,320,320-ST JOHNS,Crosstown,Summer 2015,saturday
+16.7,323,323-ANDERSON,Crosstown,Spring 2012,saturday
+17.6,323,323-ANDERSON,Crosstown,Summer 2012,saturday
+18.6,323,323-ANDERSON,Crosstown,Fall 2012,saturday
+18.8,323,323-ANDERSON,Crosstown,Spring 2013,saturday
+14.8,323,323-ANDERSON,Crosstown,Summer 2013,saturday
+16.4,323,323-ANDERSON,Crosstown,Fall 2013,saturday
+18.4,323,323-ANDERSON,Crosstown,Spring 2014,saturday
+19.3,323,323-ANDERSON,Crosstown,Summer 2014,saturday
+18.9,323,323-ANDERSON,Crosstown,Fall 2014,saturday
+15.8,323,323-ANDERSON,Crosstown,Spring 2015,saturday
+16.9,323,323-ANDERSON,Crosstown,Summer 2015,saturday
+35.2,325,325-OHLEN ,Crosstown,Spring 2012,saturday
+37.5,325,325-OHLEN ,Crosstown,Summer 2012,saturday
+34.8,325,325-OHLEN ,Crosstown,Fall 2012,saturday
+32.3,325,325-OHLEN ,Crosstown,Spring 2013,saturday
+38.3,325,325-OHLEN ,Crosstown,Summer 2013,saturday
+35.1,325,325-OHLEN ,Crosstown,Fall 2013,saturday
+33.9,325,325-OHLEN ,Crosstown,Spring 2014,saturday
+38.7,325,325-OHLEN ,Crosstown,Summer 2014,saturday
+29.2,325,325-OHLEN ,Crosstown,Fall 2014,saturday
+28.9,325,325-OHLEN ,Crosstown,Spring 2015,saturday
+24.0,325,325-OHLEN ,Crosstown,Summer 2015,saturday
+35.6,331,331-OLTORF,Crosstown,Spring 2012,saturday
+38.0,331,331-OLTORF,Crosstown,Summer 2012,saturday
+39.8,331,331-OLTORF,Crosstown,Fall 2012,saturday
+37.6,331,331-OLTORF,Crosstown,Spring 2013,saturday
+33.8,331,331-OLTORF,Crosstown,Summer 2013,saturday
+37.5,331,331-OLTORF,Crosstown,Fall 2013,saturday
+35.3,331,331-OLTORF,Crosstown,Spring 2014,saturday
+37.7,331,331-OLTORF,Crosstown,Summer 2014,saturday
+33.0,331,331-OLTORF,Crosstown,Fall 2014,saturday
+31.1,331,331-OLTORF,Crosstown,Spring 2015,saturday
+25.3,331,331-OLTORF,Crosstown,Summer 2015,saturday
+22.6,333,333-WILLIAM CANNON,Crosstown,Spring 2012,saturday
+21.5,333,333-WILLIAM CANNON,Crosstown,Summer 2012,saturday
+24.0,333,333-WILLIAM CANNON,Crosstown,Fall 2012,saturday
+23.1,333,333-WILLIAM CANNON,Crosstown,Spring 2013,saturday
+21.3,333,333-WILLIAM CANNON,Crosstown,Summer 2013,saturday
+21.3,333,333-WILLIAM CANNON,Crosstown,Fall 2013,saturday
+22.8,333,333-WILLIAM CANNON,Crosstown,Spring 2014,saturday
+23.3,333,333-WILLIAM CANNON,Crosstown,Summer 2014,saturday
+20.5,333,333-WILLIAM CANNON,Crosstown,Fall 2014,saturday
+19.8,333,333-WILLIAM CANNON,Crosstown,Spring 2015,saturday
+18.5,333,333-WILLIAM CANNON,Crosstown,Summer 2015,saturday
+21.8,338,338-LAMAR/45TH,Crosstown,Spring 2012,saturday
+20.8,338,338-LAMAR/45TH,Crosstown,Summer 2012,saturday
+21.4,338,338-LAMAR/45TH,Crosstown,Fall 2012,saturday
+29.7,338,338-LAMAR/45TH,Crosstown,Spring 2013,saturday
+24.5,338,338-LAMAR/45TH,Crosstown,Summer 2013,saturday
+26.0,338,338-LAMAR/45TH,Crosstown,Fall 2013,saturday
+25.9,338,338-LAMAR/45TH,Crosstown,Spring 2014,saturday
+21.4,338,338-LAMAR/45TH,Crosstown,Summer 2014,saturday
+22.3,338,338-LAMAR/45TH,Crosstown,Fall 2014,saturday
+19.2,338,338-LAMAR/45TH,Crosstown,Spring 2015,saturday
+18.4,338,338-LAMAR/45TH,Crosstown,Summer 2015,saturday
+20.5,350,350-AIRPORT BLVD,Crosstown,Spring 2012,saturday
+20.9,350,350-AIRPORT BLVD,Crosstown,Summer 2012,saturday
+23.8,350,350-AIRPORT BLVD,Crosstown,Fall 2012,saturday
+20.7,350,350-AIRPORT BLVD,Crosstown,Spring 2013,saturday
+20.3,350,350-AIRPORT BLVD,Crosstown,Summer 2013,saturday
+20.8,350,350-AIRPORT BLVD,Crosstown,Fall 2013,saturday
+21.4,350,350-AIRPORT BLVD,Crosstown,Spring 2014,saturday
+22.5,350,350-AIRPORT BLVD,Crosstown,Summer 2014,saturday
+20.5,350,350-AIRPORT BLVD,Crosstown,Fall 2014,saturday
+19.1,350,350-AIRPORT BLVD,Crosstown,Spring 2015,saturday
+18.6,350,350-AIRPORT BLVD,Crosstown,Summer 2015,saturday
+23.5,383,383-RESEARCH,Crosstown,Spring 2012,saturday
+23.2,383,383-RESEARCH,Crosstown,Summer 2012,saturday
+26.4,383,383-RESEARCH,Crosstown,Fall 2012,saturday
+24.3,383,383-RESEARCH,Crosstown,Spring 2013,saturday
+23.6,383,383-RESEARCH,Crosstown,Summer 2013,saturday
+25.0,383,383-RESEARCH,Crosstown,Fall 2013,saturday
+25.1,383,383-RESEARCH,Crosstown,Spring 2014,saturday
+27.8,383,383-RESEARCH,Crosstown,Summer 2014,saturday
+17.6,383,383-RESEARCH,Crosstown,Fall 2014,saturday
+16.9,383,383-RESEARCH,Crosstown,Spring 2015,saturday
+19.5,383,383-RESEARCH,Crosstown,Summer 2015,saturday
+15.3,392,392-BRAKER,Crosstown,Spring 2012,saturday
+15.4,392,392-BRAKER,Crosstown,Summer 2012,saturday
+13.4,392,392-BRAKER,Crosstown,Fall 2012,saturday
+12.4,392,392-BRAKER,Crosstown,Spring 2013,saturday
+15.9,392,392-BRAKER,Crosstown,Summer 2013,saturday
+13.0,392,392-BRAKER,Crosstown,Fall 2013,saturday
+14.7,392,392-BRAKER,Crosstown,Spring 2014,saturday
+12.7,392,392-BRAKER,Crosstown,Summer 2014,saturday
+13.5,392,392-BRAKER,Crosstown,Fall 2014,saturday
+7.3,392,392-BRAKER,Crosstown,Spring 2015,saturday
+10.0,392,392-BRAKER,Crosstown,Summer 2015,saturday
+61.9,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Spring 2012,saturday
+,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Summer 2012,saturday
+75.0,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Fall 2012,saturday
+56.9,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Spring 2013,saturday
+,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Summer 2013,saturday
+56.9,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Fall 2013,saturday
+65.4,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Spring 2014,saturday
+,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Summer 2014,saturday
+56.2,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Fall 2014,saturday
+43.4,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Spring 2015,saturday
+,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Summer 2015,saturday
+39.4,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Spring 2012,saturday
+,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Summer 2012,saturday
+42.2,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Fall 2012,saturday
+39.0,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Spring 2013,saturday
+,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Summer 2013,saturday
+32.6,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Fall 2013,saturday
+43.3,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Spring 2014,saturday
+,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Summer 2014,saturday
+29.3,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Fall 2014,saturday
+26.4,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Spring 2015,saturday
+,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Summer 2015,saturday
+59.3,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Spring 2012,saturday
+,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Summer 2012,saturday
+49.0,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Fall 2012,saturday
+57.9,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Spring 2013,saturday
+,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Summer 2013,saturday
+58.5,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Fall 2013,saturday
+73.2,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Spring 2014,saturday
+,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Summer 2014,saturday
+46.0,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Fall 2014,saturday
+33.6,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Spring 2015,saturday
+,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Summer 2015,saturday
+,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Spring 2012,saturday
+,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Summer 2012,saturday
+,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Fall 2012,saturday
+,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Spring 2013,saturday
+,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Summer 2013,saturday
+,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Fall 2013,saturday
+,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Spring 2014,saturday
+,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Summer 2014,saturday
+,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Fall 2014,saturday
+,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Spring 2015,saturday
+,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Summer 2015,saturday
+,465,465-MLK-UT,Special Services - Rail Connectors,Spring 2012,saturday
+,465,465-MLK-UT,Special Services - Rail Connectors,Summer 2012,saturday
+,465,465-MLK-UT,Special Services - Rail Connectors,Fall 2012,saturday
+,465,465-MLK-UT,Special Services - Rail Connectors,Spring 2013,saturday
+,465,465-MLK-UT,Special Services - Rail Connectors,Summer 2013,saturday
+,465,465-MLK-UT,Special Services - Rail Connectors,Fall 2013,saturday
+,465,465-MLK-UT,Special Services - Rail Connectors,Spring 2014,saturday
+,465,465-MLK-UT,Special Services - Rail Connectors,Summer 2014,saturday
+,465,465-MLK-UT,Special Services - Rail Connectors,Fall 2014,saturday
+,465,465-MLK-UT,Special Services - Rail Connectors,Spring 2015,saturday
+,465,465-MLK-UT,Special Services - Rail Connectors,Summer 2015,saturday
+,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Spring 2012,saturday
+,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Summer 2012,saturday
+,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Fall 2012,saturday
+,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Spring 2013,saturday
+,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Summer 2013,saturday
+,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Fall 2013,saturday
+,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Spring 2014,saturday
+,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Summer 2014,saturday
+,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Fall 2014,saturday
+,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Spring 2015,saturday
+,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Summer 2015,saturday
+41.9,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Spring 2012,saturday
+31.2,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Summer 2012,saturday
+43.7,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Fall 2012,saturday
+67.0,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Spring 2013,saturday
+51.1,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Summer 2013,saturday
+47.0,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Fall 2013,saturday
+47.1,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Spring 2014,saturday
+43.6,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Summer 2014,saturday
+29.3,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Fall 2014,saturday
+35.2,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Spring 2015,saturday
+32.5,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Summer 2015,saturday
+30.3,482,482-NIGHT OWL EAST,Special Services - Night Owls,Spring 2012,saturday
+22.0,482,482-NIGHT OWL EAST,Special Services - Night Owls,Summer 2012,saturday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Fall 2012,saturday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Spring 2013,saturday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Summer 2013,saturday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Fall 2013,saturday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Spring 2014,saturday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Summer 2014,saturday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Fall 2014,saturday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Spring 2015,saturday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Summer 2015,saturday
+53.1,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Spring 2012,saturday
+71.5,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Summer 2012,saturday
+40.2,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Fall 2012,saturday
+40.4,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Spring 2013,saturday
+68.6,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Summer 2013,saturday
+45.6,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Fall 2013,saturday
+80.5,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Spring 2014,saturday
+78.8,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Summer 2014,saturday
+58.0,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Fall 2014,saturday
+57.1,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Spring 2015,saturday
+57.2,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Summer 2015,saturday
+25.3,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Spring 2012,saturday
+21.1,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Summer 2012,saturday
+25.4,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Fall 2012,saturday
+18.2,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Spring 2013,saturday
+25.4,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Summer 2013,saturday
+27.4,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Fall 2013,saturday
+28.5,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Spring 2014,saturday
+25.5,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Summer 2014,saturday
+26.3,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Fall 2014,saturday
+36.4,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Spring 2015,saturday
+21.2,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Summer 2015,saturday
+16.2,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Spring 2012,saturday
+14.3,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Summer 2012,saturday
+14.5,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Fall 2012,saturday
+20.6,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Spring 2013,saturday
+9.9,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Summer 2013,saturday
+16.3,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Fall 2013,saturday
+18.6,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Spring 2014,saturday
+16.6,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Summer 2014,saturday
+21.1,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Fall 2014,saturday
+12.9,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Spring 2015,saturday
+15.6,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Summer 2015,saturday
+36.3,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Spring 2012,saturday
+33.1,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Summer 2012,saturday
+31.3,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Fall 2012,saturday
+22.7,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Spring 2013,saturday
+63.7,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Summer 2013,saturday
+25.4,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Fall 2013,saturday
+42.0,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Spring 2014,saturday
+23.4,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Summer 2014,saturday
+34.2,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Fall 2014,saturday
+24.3,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Spring 2015,saturday
+25.0,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Summer 2015,saturday
+,490,490-HEB SHUTTLE,Special Services - Senior,Spring 2012,saturday
+,490,490-HEB SHUTTLE,Special Services - Senior,Summer 2012,saturday
+,490,490-HEB SHUTTLE,Special Services - Senior,Fall 2012,saturday
+,490,490-HEB SHUTTLE,Special Services - Senior,Spring 2013,saturday
+,490,490-HEB SHUTTLE,Special Services - Senior,Summer 2013,saturday
+,490,490-HEB SHUTTLE,Special Services - Senior,Fall 2013,saturday
+,490,490-HEB SHUTTLE,Special Services - Senior,Spring 2014,saturday
+,490,490-HEB SHUTTLE,Special Services - Senior,Summer 2014,saturday
+,490,490-HEB SHUTTLE,Special Services - Senior,Fall 2014,saturday
+,490,490-HEB SHUTTLE,Special Services - Senior,Spring 2015,saturday
+,490,490-HEB SHUTTLE,Special Services - Senior,Summer 2015,saturday
+2.2,491,491-ALLANDALE,Special Services - Senior,Spring 2012,saturday
+1.7,491,491-ALLANDALE,Special Services - Senior,Summer 2012,saturday
+2.2,491,491-ALLANDALE,Special Services - Senior,Fall 2012,saturday
+1.5,491,491-ALLANDALE,Special Services - Senior,Spring 2013,saturday
+2.7,491,491-ALLANDALE,Special Services - Senior,Summer 2013,saturday
+2.8,491,491-ALLANDALE,Special Services - Senior,Fall 2013,saturday
+2.7,491,491-ALLANDALE,Special Services - Senior,Spring 2014,saturday
+2.2,491,491-ALLANDALE,Special Services - Senior,Summer 2014,saturday
+1.7,491,491-ALLANDALE,Special Services - Senior,Fall 2014,saturday
+2.2,491,491-ALLANDALE,Special Services - Senior,Spring 2015,saturday
+0.8,491,491-ALLANDALE,Special Services - Senior,Summer 2015,saturday
+,492,492-DELWOOD,Special Services - Senior,Spring 2012,saturday
+,492,492-DELWOOD,Special Services - Senior,Summer 2012,saturday
+,492,492-DELWOOD,Special Services - Senior,Fall 2012,saturday
+,492,492-DELWOOD,Special Services - Senior,Spring 2013,saturday
+,492,492-DELWOOD,Special Services - Senior,Summer 2013,saturday
+,492,492-DELWOOD,Special Services - Senior,Fall 2013,saturday
+,492,492-DELWOOD,Special Services - Senior,Spring 2014,saturday
+,492,492-DELWOOD,Special Services - Senior,Summer 2014,saturday
+,492,492-DELWOOD,Special Services - Senior,Fall 2014,saturday
+,492,492-DELWOOD,Special Services - Senior,Spring 2015,saturday
+,492,492-DELWOOD,Special Services - Senior,Summer 2015,saturday
+46.2,550,550-METRO RAIL RED LINE,MetroRail,Spring 2012,saturday
+45.0,550,550-METRO RAIL RED LINE,MetroRail,Summer 2012,saturday
+40.6,550,550-METRO RAIL RED LINE,MetroRail,Fall 2012,saturday
+47.6,550,550-METRO RAIL RED LINE,MetroRail,Spring 2013,saturday
+88.7,550,550-METRO RAIL RED LINE,MetroRail,Summer 2013,saturday
+46.5,550,550-METRO RAIL RED LINE,MetroRail,Fall 2013,saturday
+43.4,550,550-METRO RAIL RED LINE,MetroRail,Spring 2014,saturday
+47.0,550,550-METRO RAIL RED LINE,MetroRail,Summer 2014,saturday
+45.8,550,550-METRO RAIL RED LINE,MetroRail,Fall 2014,saturday
+37.8,550,550-METRO RAIL RED LINE,MetroRail,Spring 2015,saturday
+38.7,550,550-METRO RAIL RED LINE,MetroRail,Summer 2015,saturday
+,640,640-FA FORTY ACRES,UT Shuttle,Spring 2012,saturday
+,640,640-FA FORTY ACRES,UT Shuttle,Summer 2012,saturday
+,640,640-FA FORTY ACRES,UT Shuttle,Fall 2012,saturday
+,640,640-FA FORTY ACRES,UT Shuttle,Spring 2013,saturday
+,640,640-FA FORTY ACRES,UT Shuttle,Summer 2013,saturday
+,640,640-FA FORTY ACRES,UT Shuttle,Fall 2013,saturday
+,640,640-FA FORTY ACRES,UT Shuttle,Spring 2014,saturday
+,640,640-FA FORTY ACRES,UT Shuttle,Summer 2014,saturday
+,640,640-FA FORTY ACRES,UT Shuttle,Fall 2014,saturday
+,640,640-FA FORTY ACRES,UT Shuttle,Spring 2015,saturday
+,640,640-FA FORTY ACRES,UT Shuttle,Summer 2015,saturday
+,641,641-EC EAST CAMPUS,UT Shuttle,Spring 2012,saturday
+,641,641-EC EAST CAMPUS,UT Shuttle,Summer 2012,saturday
+,641,641-EC EAST CAMPUS,UT Shuttle,Fall 2012,saturday
+,641,641-EC EAST CAMPUS,UT Shuttle,Spring 2013,saturday
+,641,641-EC EAST CAMPUS,UT Shuttle,Summer 2013,saturday
+,641,641-EC EAST CAMPUS,UT Shuttle,Fall 2013,saturday
+,641,641-EC EAST CAMPUS,UT Shuttle,Spring 2014,saturday
+,641,641-EC EAST CAMPUS,UT Shuttle,Summer 2014,saturday
+,641,641-EC EAST CAMPUS,UT Shuttle,Fall 2014,saturday
+,641,641-EC EAST CAMPUS,UT Shuttle,Spring 2015,saturday
+,641,641-EC EAST CAMPUS,UT Shuttle,Summer 2015,saturday
+,642,642-WC WEST CAMPUS/UT,UT Shuttle,Spring 2012,saturday
+,642,642-WC WEST CAMPUS/UT,UT Shuttle,Summer 2012,saturday
+,642,642-WC WEST CAMPUS/UT,UT Shuttle,Fall 2012,saturday
+,642,642-WC WEST CAMPUS/UT,UT Shuttle,Spring 2013,saturday
+,642,642-WC WEST CAMPUS/UT,UT Shuttle,Summer 2013,saturday
+,642,642-WC WEST CAMPUS/UT,UT Shuttle,Fall 2013,saturday
+,642,642-WC WEST CAMPUS/UT,UT Shuttle,Spring 2014,saturday
+,642,642-WC WEST CAMPUS/UT,UT Shuttle,Summer 2014,saturday
+,642,642-WC WEST CAMPUS/UT,UT Shuttle,Fall 2014,saturday
+,642,642-WC WEST CAMPUS/UT,UT Shuttle,Spring 2015,saturday
+,642,642-WC WEST CAMPUS/UT,UT Shuttle,Summer 2015,saturday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Spring 2012,saturday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Summer 2012,saturday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Fall 2012,saturday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Spring 2013,saturday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Summer 2013,saturday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Fall 2013,saturday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Spring 2014,saturday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Summer 2014,saturday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Fall 2014,saturday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Spring 2015,saturday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Summer 2015,saturday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Spring 2012,saturday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Summer 2012,saturday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Fall 2012,saturday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Spring 2013,saturday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Summer 2013,saturday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Fall 2013,saturday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Spring 2014,saturday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Summer 2014,saturday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Fall 2014,saturday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Spring 2015,saturday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Summer 2015,saturday
+,653,653-RR RED RIVER/UT,UT Shuttle,Spring 2012,saturday
+,653,653-RR RED RIVER/UT,UT Shuttle,Summer 2012,saturday
+,653,653-RR RED RIVER/UT,UT Shuttle,Fall 2012,saturday
+,653,653-RR RED RIVER/UT,UT Shuttle,Spring 2013,saturday
+,653,653-RR RED RIVER/UT,UT Shuttle,Summer 2013,saturday
+,653,653-RR RED RIVER/UT,UT Shuttle,Fall 2013,saturday
+,653,653-RR RED RIVER/UT,UT Shuttle,Spring 2014,saturday
+,653,653-RR RED RIVER/UT,UT Shuttle,Summer 2014,saturday
+,653,653-RR RED RIVER/UT,UT Shuttle,Fall 2014,saturday
+,653,653-RR RED RIVER/UT,UT Shuttle,Spring 2015,saturday
+,653,653-RR RED RIVER/UT,UT Shuttle,Summer 2015,saturday
+,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Spring 2012,saturday
+,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Summer 2012,saturday
+,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Fall 2012,saturday
+,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Spring 2013,saturday
+,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Summer 2013,saturday
+,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Fall 2013,saturday
+,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Spring 2014,saturday
+,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Summer 2014,saturday
+,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Fall 2014,saturday
+,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Spring 2015,saturday
+,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Summer 2015,saturday
+,661,661-FW FAR WEST/UT,UT Shuttle,Spring 2012,saturday
+,661,661-FW FAR WEST/UT,UT Shuttle,Summer 2012,saturday
+,661,661-FW FAR WEST/UT,UT Shuttle,Fall 2012,saturday
+,661,661-FW FAR WEST/UT,UT Shuttle,Spring 2013,saturday
+,661,661-FW FAR WEST/UT,UT Shuttle,Summer 2013,saturday
+,661,661-FW FAR WEST/UT,UT Shuttle,Fall 2013,saturday
+,661,661-FW FAR WEST/UT,UT Shuttle,Spring 2014,saturday
+,661,661-FW FAR WEST/UT,UT Shuttle,Summer 2014,saturday
+,661,661-FW FAR WEST/UT,UT Shuttle,Fall 2014,saturday
+,661,661-FW FAR WEST/UT,UT Shuttle,Spring 2015,saturday
+,661,661-FW FAR WEST/UT,UT Shuttle,Summer 2015,saturday
+,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Spring 2012,saturday
+,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Summer 2012,saturday
+,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Fall 2012,saturday
+,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Spring 2013,saturday
+,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Summer 2013,saturday
+,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Fall 2013,saturday
+,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Spring 2014,saturday
+,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Summer 2014,saturday
+,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Fall 2014,saturday
+,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Spring 2015,saturday
+,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Summer 2015,saturday
+,670,670-CP CROSSING PLACE,UT Shuttle,Spring 2012,saturday
+,670,670-CP CROSSING PLACE,UT Shuttle,Summer 2012,saturday
+,670,670-CP CROSSING PLACE,UT Shuttle,Fall 2012,saturday
+,670,670-CP CROSSING PLACE,UT Shuttle,Spring 2013,saturday
+,670,670-CP CROSSING PLACE,UT Shuttle,Summer 2013,saturday
+,670,670-CP CROSSING PLACE,UT Shuttle,Fall 2013,saturday
+,670,670-CP CROSSING PLACE,UT Shuttle,Spring 2014,saturday
+,670,670-CP CROSSING PLACE,UT Shuttle,Summer 2014,saturday
+,670,670-CP CROSSING PLACE,UT Shuttle,Fall 2014,saturday
+,670,670-CP CROSSING PLACE,UT Shuttle,Spring 2015,saturday
+,670,670-CP CROSSING PLACE,UT Shuttle,Summer 2015,saturday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Spring 2012,saturday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Summer 2012,saturday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Fall 2012,saturday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Spring 2013,saturday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Summer 2013,saturday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Fall 2013,saturday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Spring 2014,saturday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Summer 2014,saturday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Fall 2014,saturday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Spring 2015,saturday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Summer 2015,saturday
+,672,672-LS LAKESHORE,UT Shuttle,Spring 2012,saturday
+,672,672-LS LAKESHORE,UT Shuttle,Summer 2012,saturday
+,672,672-LS LAKESHORE,UT Shuttle,Fall 2012,saturday
+,672,672-LS LAKESHORE,UT Shuttle,Spring 2013,saturday
+,672,672-LS LAKESHORE,UT Shuttle,Summer 2013,saturday
+,672,672-LS LAKESHORE,UT Shuttle,Fall 2013,saturday
+,672,672-LS LAKESHORE,UT Shuttle,Spring 2014,saturday
+,672,672-LS LAKESHORE,UT Shuttle,Summer 2014,saturday
+,672,672-LS LAKESHORE,UT Shuttle,Fall 2014,saturday
+,672,672-LS LAKESHORE,UT Shuttle,Spring 2015,saturday
+,672,672-LS LAKESHORE,UT Shuttle,Summer 2015,saturday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Spring 2012,saturday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Summer 2012,saturday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Fall 2012,saturday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Spring 2013,saturday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Summer 2013,saturday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Fall 2013,saturday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Spring 2014,saturday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Summer 2014,saturday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Fall 2014,saturday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Spring 2015,saturday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Summer 2015,saturday
+,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Spring 2012,saturday
+,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Summer 2012,saturday
+,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Fall 2012,saturday
+,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Spring 2013,saturday
+,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Summer 2013,saturday
+,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Fall 2013,saturday
+,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Spring 2014,saturday
+,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Summer 2014,saturday
+,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Fall 2014,saturday
+,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Spring 2015,saturday
+,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Summer 2015,saturday
+,681,681-IF/FW Intramural/Far West,UT Shuttle,Spring 2012,saturday
+,681,681-IF/FW Intramural/Far West,UT Shuttle,Summer 2012,saturday
+,681,681-IF/FW Intramural/Far West,UT Shuttle,Fall 2012,saturday
+,681,681-IF/FW Intramural/Far West,UT Shuttle,Spring 2013,saturday
+,681,681-IF/FW Intramural/Far West,UT Shuttle,Summer 2013,saturday
+,681,681-IF/FW Intramural/Far West,UT Shuttle,Fall 2013,saturday
+,681,681-IF/FW Intramural/Far West,UT Shuttle,Spring 2014,saturday
+,681,681-IF/FW Intramural/Far West,UT Shuttle,Summer 2014,saturday
+,681,681-IF/FW Intramural/Far West,UT Shuttle,Fall 2014,saturday
+,681,681-IF/FW Intramural/Far West,UT Shuttle,Spring 2015,saturday
+,681,681-IF/FW Intramural/Far West,UT Shuttle,Summer 2015,saturday
+,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Spring 2012,saturday
+,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Summer 2012,saturday
+,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Fall 2012,saturday
+,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Spring 2013,saturday
+,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Summer 2013,saturday
+,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Fall 2013,saturday
+,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Spring 2014,saturday
+,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Summer 2014,saturday
+,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Fall 2014,saturday
+,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Spring 2015,saturday
+,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Summer 2015,saturday
+,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Spring 2012,saturday
+,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Summer 2012,saturday
+,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Fall 2012,saturday
+,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Spring 2013,saturday
+,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Summer 2013,saturday
+,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Fall 2013,saturday
+,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Spring 2014,saturday
+,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Summer 2014,saturday
+,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Fall 2014,saturday
+,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Spring 2015,saturday
+,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Summer 2015,saturday
+,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Spring 2012,saturday
+,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Summer 2012,saturday
+,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Fall 2012,saturday
+,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Spring 2013,saturday
+,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Summer 2013,saturday
+,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Fall 2013,saturday
+23.8,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Spring 2014,saturday
+17.1,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Summer 2014,saturday
+26.8,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Fall 2014,saturday
+19.8,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Spring 2015,saturday
+16.9,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Summer 2015,saturday
+,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Spring 2012,saturday
+,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Summer 2012,saturday
+,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Fall 2012,saturday
+,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Spring 2013,saturday
+,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Summer 2013,saturday
+,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Fall 2013,saturday
+,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Spring 2014,saturday
+,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Summer 2014,saturday
+20.8,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Fall 2014,saturday
+14.2,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Spring 2015,saturday
+11.8,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Summer 2015,saturday
+,935,935-TECH RIDGE EXPRESS,Express,Spring 2012,saturday
+,935,935-TECH RIDGE EXPRESS,Express,Summer 2012,saturday
+,935,935-TECH RIDGE EXPRESS,Express,Fall 2012,saturday
+,935,935-TECH RIDGE EXPRESS,Express,Spring 2013,saturday
+,935,935-TECH RIDGE EXPRESS,Express,Summer 2013,saturday
+,935,935-TECH RIDGE EXPRESS,Express,Fall 2013,saturday
+,935,935-TECH RIDGE EXPRESS,Express,Spring 2014,saturday
+,935,935-TECH RIDGE EXPRESS,Express,Summer 2014,saturday
+,935,935-TECH RIDGE EXPRESS,Express,Fall 2014,saturday
+,935,935-TECH RIDGE EXPRESS,Express,Spring 2015,saturday
+,935,935-TECH RIDGE EXPRESS,Express,Summer 2015,saturday
+,970,970-AMD/LANTANA CAMPUS,Express,Spring 2012,saturday
+,970,970-AMD/LANTANA CAMPUS,Express,Summer 2012,saturday
+,970,970-AMD/LANTANA CAMPUS,Express,Fall 2012,saturday
+,970,970-AMD/LANTANA CAMPUS,Express,Spring 2013,saturday
+,970,970-AMD/LANTANA CAMPUS,Express,Summer 2013,saturday
+,970,970-AMD/LANTANA CAMPUS,Express,Fall 2013,saturday
+,970,970-AMD/LANTANA CAMPUS,Express,Spring 2014,saturday
+,970,970-AMD/LANTANA CAMPUS,Express,Summer 2014,saturday
+,970,970-AMD/LANTANA CAMPUS,Express,Fall 2014,saturday
+,970,970-AMD/LANTANA CAMPUS,Express,Spring 2015,saturday
+,970,970-AMD/LANTANA CAMPUS,Express,Summer 2015,saturday
+,982,982-PAVILLION EXPRESS,Express,Spring 2012,saturday
+,982,982-PAVILLION EXPRESS,Express,Summer 2012,saturday
+,982,982-PAVILLION EXPRESS,Express,Fall 2012,saturday
+,982,982-PAVILLION EXPRESS,Express,Spring 2013,saturday
+,982,982-PAVILLION EXPRESS,Express,Summer 2013,saturday
+,982,982-PAVILLION EXPRESS,Express,Fall 2013,saturday
+,982,982-PAVILLION EXPRESS,Express,Spring 2014,saturday
+,982,982-PAVILLION EXPRESS,Express,Summer 2014,saturday
+,982,982-PAVILLION EXPRESS,Express,Fall 2014,saturday
+,982,982-PAVILLION EXPRESS,Express,Spring 2015,saturday
+,982,982-PAVILLION EXPRESS,Express,Summer 2015,saturday
+,983,983-N US183 EXPRESS,Express,Spring 2012,saturday
+,983,983-N US183 EXPRESS,Express,Summer 2012,saturday
+,983,983-N US183 EXPRESS,Express,Fall 2012,saturday
+,983,983-N US183 EXPRESS,Express,Spring 2013,saturday
+,983,983-N US183 EXPRESS,Express,Summer 2013,saturday
+,983,983-N US183 EXPRESS,Express,Fall 2013,saturday
+,983,983-N US183 EXPRESS,Express,Spring 2014,saturday
+,983,983-N US183 EXPRESS,Express,Summer 2014,saturday
+,983,983-N US183 EXPRESS,Express,Fall 2014,saturday
+,983,983-N US183 EXPRESS,Express,Spring 2015,saturday
+,983,983-N US183 EXPRESS,Express,Summer 2015,saturday
+,985,985-LEANDER LAKELINE DIRECT,Express,Spring 2012,saturday
+,985,985-LEANDER LAKELINE DIRECT,Express,Summer 2012,saturday
+,985,985-LEANDER LAKELINE DIRECT,Express,Fall 2012,saturday
+,985,985-LEANDER LAKELINE DIRECT,Express,Spring 2013,saturday
+,985,985-LEANDER LAKELINE DIRECT,Express,Summer 2013,saturday
+,985,985-LEANDER LAKELINE DIRECT,Express,Fall 2013,saturday
+,985,985-LEANDER LAKELINE DIRECT,Express,Spring 2014,saturday
+,985,985-LEANDER LAKELINE DIRECT,Express,Summer 2014,saturday
+,985,985-LEANDER LAKELINE DIRECT,Express,Fall 2014,saturday
+,985,985-LEANDER LAKELINE DIRECT,Express,Spring 2015,saturday
+,985,985-LEANDER LAKELINE DIRECT,Express,Summer 2015,saturday
+,987,987-LEANDER/NW EXPRESS,Express,Spring 2012,saturday
+,987,987-LEANDER/NW EXPRESS,Express,Summer 2012,saturday
+,987,987-LEANDER/NW EXPRESS,Express,Fall 2012,saturday
+,987,987-LEANDER/NW EXPRESS,Express,Spring 2013,saturday
+,987,987-LEANDER/NW EXPRESS,Express,Summer 2013,saturday
+,987,987-LEANDER/NW EXPRESS,Express,Fall 2013,saturday
+,987,987-LEANDER/NW EXPRESS,Express,Spring 2014,saturday
+,987,987-LEANDER/NW EXPRESS,Express,Summer 2014,saturday
+,987,987-LEANDER/NW EXPRESS,Express,Fall 2014,saturday
+,987,987-LEANDER/NW EXPRESS,Express,Spring 2015,saturday
+,987,987-LEANDER/NW EXPRESS,Express,Summer 2015,saturday
+,990,990-MANOR/ELGIN EXPRESS,Express,Spring 2012,saturday
+,990,990-MANOR/ELGIN EXPRESS,Express,Summer 2012,saturday
+,990,990-MANOR/ELGIN EXPRESS,Express,Fall 2012,saturday
+,990,990-MANOR/ELGIN EXPRESS,Express,Spring 2013,saturday
+,990,990-MANOR/ELGIN EXPRESS,Express,Summer 2013,saturday
+,990,990-MANOR/ELGIN EXPRESS,Express,Fall 2013,saturday
+,990,990-MANOR/ELGIN EXPRESS,Express,Spring 2014,saturday
+,990,990-MANOR/ELGIN EXPRESS,Express,Summer 2014,saturday
+,990,990-MANOR/ELGIN EXPRESS,Express,Fall 2014,saturday
+,990,990-MANOR/ELGIN EXPRESS,Express,Spring 2015,saturday
+,990,990-MANOR/ELGIN EXPRESS,Express,Summer 2015,saturday
+41.3,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Spring 2012,sunday
+39.2,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Summer 2012,sunday
+42.5,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Fall 2012,sunday
+42.7,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Spring 2013,sunday
+42.9,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Summer 2013,sunday
+42.0,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Fall 2013,sunday
+38.0,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Spring 2014,sunday
+35.2,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Summer 2014,sunday
+37.1,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Fall 2014,sunday
+28.8,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Spring 2015,sunday
+30.9,1,1-NORTH LAMAR/SOUTH CONGRESS,Local,Summer 2015,sunday
+21.3,2,2-ROSEWOOD,Local,Spring 2012,sunday
+23.3,2,2-ROSEWOOD,Local,Summer 2012,sunday
+18.8,2,2-ROSEWOOD,Local,Fall 2012,sunday
+21.1,2,2-ROSEWOOD,Local,Spring 2013,sunday
+21.1,2,2-ROSEWOOD,Local,Summer 2013,sunday
+20.3,2,2-ROSEWOOD,Local,Fall 2013,sunday
+21.2,2,2-ROSEWOOD,Local,Spring 2014,sunday
+22.1,2,2-ROSEWOOD,Local,Summer 2014,sunday
+17.3,2,2-ROSEWOOD,Local,Fall 2014,sunday
+15.9,2,2-ROSEWOOD,Local,Spring 2015,sunday
+18.3,2,2-ROSEWOOD,Local,Summer 2015,sunday
+26.3,3,3-BURNET/MANCHACA,Local,Spring 2012,sunday
+24.7,3,3-BURNET/MANCHACA,Local,Summer 2012,sunday
+29.2,3,3-BURNET/MANCHACA,Local,Fall 2012,sunday
+29.7,3,3-BURNET/MANCHACA,Local,Spring 2013,sunday
+27.0,3,3-BURNET/MANCHACA,Local,Summer 2013,sunday
+29.1,3,3-BURNET/MANCHACA,Local,Fall 2013,sunday
+25.8,3,3-BURNET/MANCHACA,Local,Spring 2014,sunday
+27.2,3,3-BURNET/MANCHACA,Local,Summer 2014,sunday
+26.1,3,3-BURNET/MANCHACA,Local,Fall 2014,sunday
+23.6,3,3-BURNET/MANCHACA,Local,Spring 2015,sunday
+24.6,3,3-BURNET/MANCHACA,Local,Summer 2015,sunday
+21.7,4,4-MONTOPOLIS,Local,Spring 2012,sunday
+26.2,4,4-MONTOPOLIS,Local,Summer 2012,sunday
+26.5,4,4-MONTOPOLIS,Local,Fall 2012,sunday
+25.7,4,4-MONTOPOLIS,Local,Spring 2013,sunday
+25.0,4,4-MONTOPOLIS,Local,Summer 2013,sunday
+26.8,4,4-MONTOPOLIS,Local,Fall 2013,sunday
+28.3,4,4-MONTOPOLIS,Local,Spring 2014,sunday
+24.6,4,4-MONTOPOLIS,Local,Summer 2014,sunday
+22.3,4,4-MONTOPOLIS,Local,Fall 2014,sunday
+18.9,4,4-MONTOPOLIS,Local,Spring 2015,sunday
+21.6,4,4-MONTOPOLIS,Local,Summer 2015,sunday
+16.3,5,5-WOODROW/SOUTH 5TH,Local,Spring 2012,sunday
+14.5,5,5-WOODROW/SOUTH 5TH,Local,Summer 2012,sunday
+16.7,5,5-WOODROW/SOUTH 5TH,Local,Fall 2012,sunday
+17.1,5,5-WOODROW/SOUTH 5TH,Local,Spring 2013,sunday
+15.7,5,5-WOODROW/SOUTH 5TH,Local,Summer 2013,sunday
+17.1,5,5-WOODROW/SOUTH 5TH,Local,Fall 2013,sunday
+16.7,5,5-WOODROW/SOUTH 5TH,Local,Spring 2014,sunday
+17.2,5,5-WOODROW/SOUTH 5TH,Local,Summer 2014,sunday
+15.1,5,5-WOODROW/SOUTH 5TH,Local,Fall 2014,sunday
+14.6,5,5-WOODROW/SOUTH 5TH,Local,Spring 2015,sunday
+14.1,5,5-WOODROW/SOUTH 5TH,Local,Summer 2015,sunday
+17.0,6,6-EAST 12TH,Local,Spring 2012,sunday
+17.1,6,6-EAST 12TH,Local,Summer 2012,sunday
+17.6,6,6-EAST 12TH,Local,Fall 2012,sunday
+17.0,6,6-EAST 12TH,Local,Spring 2013,sunday
+18.4,6,6-EAST 12TH,Local,Summer 2013,sunday
+13.8,6,6-EAST 12TH,Local,Fall 2013,sunday
+14.8,6,6-EAST 12TH,Local,Spring 2014,sunday
+15.2,6,6-EAST 12TH,Local,Summer 2014,sunday
+14.2,6,6-EAST 12TH,Local,Fall 2014,sunday
+9.9,6,6-EAST 12TH,Local,Spring 2015,sunday
+14.8,6,6-EAST 12TH,Local,Summer 2015,sunday
+32.5,7,7-DUVAL / DOVE SPRINGS,Local,Spring 2012,sunday
+29.8,7,7-DUVAL / DOVE SPRINGS,Local,Summer 2012,sunday
+34.1,7,7-DUVAL / DOVE SPRINGS,Local,Fall 2012,sunday
+34.6,7,7-DUVAL / DOVE SPRINGS,Local,Spring 2013,sunday
+34.1,7,7-DUVAL / DOVE SPRINGS,Local,Summer 2013,sunday
+31.4,7,7-DUVAL / DOVE SPRINGS,Local,Fall 2013,sunday
+31.8,7,7-DUVAL / DOVE SPRINGS,Local,Spring 2014,sunday
+33.2,7,7-DUVAL / DOVE SPRINGS,Local,Summer 2014,sunday
+33.2,7,7-DUVAL / DOVE SPRINGS,Local,Fall 2014,sunday
+28.5,7,7-DUVAL / DOVE SPRINGS,Local,Spring 2015,sunday
+29.5,7,7-DUVAL / DOVE SPRINGS,Local,Summer 2015,sunday
+28.0,10,10-SOUTH 1ST/RED RIVER,Local,Spring 2012,sunday
+26.6,10,10-SOUTH 1ST/RED RIVER,Local,Summer 2012,sunday
+26.4,10,10-SOUTH 1ST/RED RIVER,Local,Fall 2012,sunday
+28.1,10,10-SOUTH 1ST/RED RIVER,Local,Spring 2013,sunday
+25.1,10,10-SOUTH 1ST/RED RIVER,Local,Summer 2013,sunday
+27.1,10,10-SOUTH 1ST/RED RIVER,Local,Fall 2013,sunday
+29.3,10,10-SOUTH 1ST/RED RIVER,Local,Spring 2014,sunday
+28.3,10,10-SOUTH 1ST/RED RIVER,Local,Summer 2014,sunday
+27.9,10,10-SOUTH 1ST/RED RIVER,Local,Fall 2014,sunday
+24.5,10,10-SOUTH 1ST/RED RIVER,Local,Spring 2015,sunday
+24.5,10,10-SOUTH 1ST/RED RIVER,Local,Summer 2015,sunday
+26.0,17,17-CESAR CHAVEZ,Local,Spring 2012,sunday
+27.7,17,17-CESAR CHAVEZ,Local,Summer 2012,sunday
+25.6,17,17-CESAR CHAVEZ,Local,Fall 2012,sunday
+24.3,17,17-CESAR CHAVEZ,Local,Spring 2013,sunday
+27.7,17,17-CESAR CHAVEZ,Local,Summer 2013,sunday
+24.0,17,17-CESAR CHAVEZ,Local,Fall 2013,sunday
+24.0,17,17-CESAR CHAVEZ,Local,Spring 2014,sunday
+31.4,17,17-CESAR CHAVEZ,Local,Summer 2014,sunday
+29.3,17,17-CESAR CHAVEZ,Local,Fall 2014,sunday
+28.4,17,17-CESAR CHAVEZ,Local,Spring 2015,sunday
+30.2,17,17-CESAR CHAVEZ,Local,Summer 2015,sunday
+12.4,18,18-MARTIN LUTHER KING,Local,Spring 2012,sunday
+10.6,18,18-MARTIN LUTHER KING,Local,Summer 2012,sunday
+12.9,18,18-MARTIN LUTHER KING,Local,Fall 2012,sunday
+12.2,18,18-MARTIN LUTHER KING,Local,Spring 2013,sunday
+10.5,18,18-MARTIN LUTHER KING,Local,Summer 2013,sunday
+10.9,18,18-MARTIN LUTHER KING,Local,Fall 2013,sunday
+13.9,18,18-MARTIN LUTHER KING,Local,Spring 2014,sunday
+16.9,18,18-MARTIN LUTHER KING,Local,Summer 2014,sunday
+16.4,18,18-MARTIN LUTHER KING,Local,Fall 2014,sunday
+13.4,18,18-MARTIN LUTHER KING,Local,Spring 2015,sunday
+11.9,18,18-MARTIN LUTHER KING,Local,Summer 2015,sunday
+11.8,19,19-BULL CREEK,Local,Spring 2012,sunday
+10.7,19,19-BULL CREEK,Local,Summer 2012,sunday
+12.2,19,19-BULL CREEK,Local,Fall 2012,sunday
+12.0,19,19-BULL CREEK,Local,Spring 2013,sunday
+12.2,19,19-BULL CREEK,Local,Summer 2013,sunday
+17.9,19,19-BULL CREEK,Local,Fall 2013,sunday
+14.9,19,19-BULL CREEK,Local,Spring 2014,sunday
+12.9,19,19-BULL CREEK,Local,Summer 2014,sunday
+12.7,19,19-BULL CREEK,Local,Fall 2014,sunday
+9.1,19,19-BULL CREEK,Local,Spring 2015,sunday
+11.5,19,19-BULL CREEK,Local,Summer 2015,sunday
+30.1,20,20-MANOR RD/RIVERSIDE,Local,Spring 2012,sunday
+30.2,20,20-MANOR RD/RIVERSIDE,Local,Summer 2012,sunday
+32.9,20,20-MANOR RD/RIVERSIDE,Local,Fall 2012,sunday
+28.2,20,20-MANOR RD/RIVERSIDE,Local,Spring 2013,sunday
+28.7,20,20-MANOR RD/RIVERSIDE,Local,Summer 2013,sunday
+28.5,20,20-MANOR RD/RIVERSIDE,Local,Fall 2013,sunday
+26.2,20,20-MANOR RD/RIVERSIDE,Local,Spring 2014,sunday
+28.1,20,20-MANOR RD/RIVERSIDE,Local,Summer 2014,sunday
+29.2,20,20-MANOR RD/RIVERSIDE,Local,Fall 2014,sunday
+25.3,20,20-MANOR RD/RIVERSIDE,Local,Spring 2015,sunday
+27.1,20,20-MANOR RD/RIVERSIDE,Local,Summer 2015,sunday
+12.7,21,21-EXPOSITION,Local,Spring 2012,sunday
+11.2,21,21-EXPOSITION,Local,Summer 2012,sunday
+12.0,21,21-EXPOSITION,Local,Fall 2012,sunday
+12.7,21,21-EXPOSITION,Local,Spring 2013,sunday
+11.6,21,21-EXPOSITION,Local,Summer 2013,sunday
+13.1,21,21-EXPOSITION,Local,Fall 2013,sunday
+14.1,21,21-EXPOSITION,Local,Spring 2014,sunday
+12.2,21,21-EXPOSITION,Local,Summer 2014,sunday
+11.9,21,21-EXPOSITION,Local,Fall 2014,sunday
+11.0,21,21-EXPOSITION,Local,Spring 2015,sunday
+11.1,21,21-EXPOSITION,Local,Summer 2015,sunday
+13.2,22,22-CHICON,Local,Spring 2012,sunday
+12.5,22,22-CHICON,Local,Summer 2012,sunday
+13.1,22,22-CHICON,Local,Fall 2012,sunday
+14.6,22,22-CHICON,Local,Spring 2013,sunday
+13.4,22,22-CHICON,Local,Summer 2013,sunday
+14.1,22,22-CHICON,Local,Fall 2013,sunday
+11.9,22,22-CHICON,Local,Spring 2014,sunday
+13.2,22,22-CHICON,Local,Summer 2014,sunday
+11.4,22,22-CHICON,Local,Fall 2014,sunday
+11.0,22,22-CHICON,Local,Spring 2015,sunday
+11.4,22,22-CHICON,Local,Summer 2015,sunday
+17.4,30,30-BARTON CREEK SQ,Local,Spring 2012,sunday
+20.1,30,30-BARTON CREEK SQ,Local,Summer 2012,sunday
+19.4,30,30-BARTON CREEK SQ,Local,Fall 2012,sunday
+18.9,30,30-BARTON CREEK SQ,Local,Spring 2013,sunday
+21.4,30,30-BARTON CREEK SQ,Local,Summer 2013,sunday
+17.8,30,30-BARTON CREEK SQ,Local,Fall 2013,sunday
+16.7,30,30-BARTON CREEK SQ,Local,Spring 2014,sunday
+21.5,30,30-BARTON CREEK SQ,Local,Summer 2014,sunday
+17.7,30,30-BARTON CREEK SQ,Local,Fall 2014,sunday
+16.0,30,30-BARTON CREEK SQ,Local,Spring 2015,sunday
+18.3,30,30-BARTON CREEK SQ,Local,Summer 2015,sunday
+21.3,37,37-COLONY PARK/WINDSOR PARK,Local,Spring 2012,sunday
+22.7,37,37-COLONY PARK/WINDSOR PARK,Local,Summer 2012,sunday
+19.7,37,37-COLONY PARK/WINDSOR PARK,Local,Fall 2012,sunday
+24.3,37,37-COLONY PARK/WINDSOR PARK,Local,Spring 2013,sunday
+23.8,37,37-COLONY PARK/WINDSOR PARK,Local,Summer 2013,sunday
+24.4,37,37-COLONY PARK/WINDSOR PARK,Local,Fall 2013,sunday
+18.4,37,37-COLONY PARK/WINDSOR PARK,Local,Spring 2014,sunday
+26.4,37,37-COLONY PARK/WINDSOR PARK,Local,Summer 2014,sunday
+23.8,37,37-COLONY PARK/WINDSOR PARK,Local,Fall 2014,sunday
+20.1,37,37-COLONY PARK/WINDSOR PARK,Local,Spring 2015,sunday
+21.1,37,37-COLONY PARK/WINDSOR PARK,Local,Summer 2015,sunday
+13.3,100,100-AIRPORT FLYER,Limited/Flyer,Spring 2012,sunday
+13.8,100,100-AIRPORT FLYER,Limited/Flyer,Summer 2012,sunday
+17.5,100,100-AIRPORT FLYER,Limited/Flyer,Fall 2012,sunday
+19.6,100,100-AIRPORT FLYER,Limited/Flyer,Spring 2013,sunday
+15.7,100,100-AIRPORT FLYER,Limited/Flyer,Summer 2013,sunday
+18.6,100,100-AIRPORT FLYER,Limited/Flyer,Fall 2013,sunday
+17.5,100,100-AIRPORT FLYER,Limited/Flyer,Spring 2014,sunday
+13.8,100,100-AIRPORT FLYER,Limited/Flyer,Summer 2014,sunday
+16.4,100,100-AIRPORT FLYER,Limited/Flyer,Fall 2014,sunday
+15.1,100,100-AIRPORT FLYER,Limited/Flyer,Spring 2015,sunday
+14.2,100,100-AIRPORT FLYER,Limited/Flyer,Summer 2015,sunday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Spring 2012,sunday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Summer 2012,sunday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Fall 2012,sunday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Spring 2013,sunday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Summer 2013,sunday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Fall 2013,sunday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Spring 2014,sunday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Summer 2014,sunday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Fall 2014,sunday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Spring 2015,sunday
+,101,101-N LAMAR/S CONGRESS LTD,Limited/Flyer,Summer 2015,sunday
+,103,103-MANCHACA FLYER,Limited/Flyer,Spring 2012,sunday
+,103,103-MANCHACA FLYER,Limited/Flyer,Summer 2012,sunday
+,103,103-MANCHACA FLYER,Limited/Flyer,Fall 2012,sunday
+,103,103-MANCHACA FLYER,Limited/Flyer,Spring 2013,sunday
+,103,103-MANCHACA FLYER,Limited/Flyer,Summer 2013,sunday
+,103,103-MANCHACA FLYER,Limited/Flyer,Fall 2013,sunday
+,103,103-MANCHACA FLYER,Limited/Flyer,Spring 2014,sunday
+,103,103-MANCHACA FLYER,Limited/Flyer,Summer 2014,sunday
+,103,103-MANCHACA FLYER,Limited/Flyer,Fall 2014,sunday
+,103,103-MANCHACA FLYER,Limited/Flyer,Spring 2015,sunday
+,103,103-MANCHACA FLYER,Limited/Flyer,Summer 2015,sunday
+,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Spring 2012,sunday
+,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Summer 2012,sunday
+,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Fall 2012,sunday
+,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Spring 2013,sunday
+,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Summer 2013,sunday
+,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Fall 2013,sunday
+,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Spring 2014,sunday
+,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Summer 2014,sunday
+,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Fall 2014,sunday
+,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Spring 2015,sunday
+,110,110-SOUTH CENTRAL FLYER,Limited/Flyer,Summer 2015,sunday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Spring 2012,sunday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Summer 2012,sunday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Fall 2012,sunday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Spring 2013,sunday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Summer 2013,sunday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Fall 2013,sunday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Spring 2014,sunday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Summer 2014,sunday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Fall 2014,sunday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Spring 2015,sunday
+,111,111-SOUTH MOPAC FLYER,Limited/Flyer,Summer 2015,sunday
+,122,122-FOUR POINTS LIMITED,Limited/Flyer,Spring 2012,sunday
+,122,122-FOUR POINTS LIMITED,Limited/Flyer,Summer 2012,sunday
+,122,122-FOUR POINTS LIMITED,Limited/Flyer,Fall 2012,sunday
+,122,122-FOUR POINTS LIMITED,Limited/Flyer,Spring 2013,sunday
+,122,122-FOUR POINTS LIMITED,Limited/Flyer,Summer 2013,sunday
+,122,122-FOUR POINTS LIMITED,Limited/Flyer,Fall 2013,sunday
+,122,122-FOUR POINTS LIMITED,Limited/Flyer,Spring 2014,sunday
+,122,122-FOUR POINTS LIMITED,Limited/Flyer,Summer 2014,sunday
+,122,122-FOUR POINTS LIMITED,Limited/Flyer,Fall 2014,sunday
+,122,122-FOUR POINTS LIMITED,Limited/Flyer,Spring 2015,sunday
+,122,122-FOUR POINTS LIMITED,Limited/Flyer,Summer 2015,sunday
+,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Spring 2012,sunday
+,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Summer 2012,sunday
+,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Fall 2012,sunday
+,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Spring 2013,sunday
+,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Summer 2013,sunday
+,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Fall 2013,sunday
+,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Spring 2014,sunday
+,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Summer 2014,sunday
+,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Fall 2014,sunday
+,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Spring 2015,sunday
+,127,127-DOVE SPRINGS FLYER,Limited/Flyer,Summer 2015,sunday
+,135,135-DELL LIMITED,Limited/Flyer,Spring 2012,sunday
+,135,135-DELL LIMITED,Limited/Flyer,Summer 2012,sunday
+,135,135-DELL LIMITED,Limited/Flyer,Fall 2012,sunday
+,135,135-DELL LIMITED,Limited/Flyer,Spring 2013,sunday
+,135,135-DELL LIMITED,Limited/Flyer,Summer 2013,sunday
+,135,135-DELL LIMITED,Limited/Flyer,Fall 2013,sunday
+,135,135-DELL LIMITED,Limited/Flyer,Spring 2014,sunday
+,135,135-DELL LIMITED,Limited/Flyer,Summer 2014,sunday
+,135,135-DELL LIMITED,Limited/Flyer,Fall 2014,sunday
+,135,135-DELL LIMITED,Limited/Flyer,Spring 2015,sunday
+,135,135-DELL LIMITED,Limited/Flyer,Summer 2015,sunday
+,142,142-METRIC FLYER,Limited/Flyer,Spring 2012,sunday
+,142,142-METRIC FLYER,Limited/Flyer,Summer 2012,sunday
+,142,142-METRIC FLYER,Limited/Flyer,Fall 2012,sunday
+,142,142-METRIC FLYER,Limited/Flyer,Spring 2013,sunday
+,142,142-METRIC FLYER,Limited/Flyer,Summer 2013,sunday
+,142,142-METRIC FLYER,Limited/Flyer,Fall 2013,sunday
+,142,142-METRIC FLYER,Limited/Flyer,Spring 2014,sunday
+,142,142-METRIC FLYER,Limited/Flyer,Summer 2014,sunday
+,142,142-METRIC FLYER,Limited/Flyer,Fall 2014,sunday
+,142,142-METRIC FLYER,Limited/Flyer,Spring 2015,sunday
+,142,142-METRIC FLYER,Limited/Flyer,Summer 2015,sunday
+,171,171-OAK HILL FLYER,Limited/Flyer,Spring 2012,sunday
+,171,171-OAK HILL FLYER,Limited/Flyer,Summer 2012,sunday
+,171,171-OAK HILL FLYER,Limited/Flyer,Fall 2012,sunday
+,171,171-OAK HILL FLYER,Limited/Flyer,Spring 2013,sunday
+,171,171-OAK HILL FLYER,Limited/Flyer,Summer 2013,sunday
+,171,171-OAK HILL FLYER,Limited/Flyer,Fall 2013,sunday
+,171,171-OAK HILL FLYER,Limited/Flyer,Spring 2014,sunday
+,171,171-OAK HILL FLYER,Limited/Flyer,Summer 2014,sunday
+,171,171-OAK HILL FLYER,Limited/Flyer,Fall 2014,sunday
+,171,171-OAK HILL FLYER,Limited/Flyer,Spring 2015,sunday
+,171,171-OAK HILL FLYER,Limited/Flyer,Summer 2015,sunday
+18.2,201,201-SOUTHPARK MEADOWS,Feeder,Spring 2012,sunday
+16.8,201,201-SOUTHPARK MEADOWS,Feeder,Summer 2012,sunday
+14.2,201,201-SOUTHPARK MEADOWS,Feeder,Fall 2012,sunday
+17.7,201,201-SOUTHPARK MEADOWS,Feeder,Spring 2013,sunday
+18.5,201,201-SOUTHPARK MEADOWS,Feeder,Summer 2013,sunday
+17.6,201,201-SOUTHPARK MEADOWS,Feeder,Fall 2013,sunday
+19.1,201,201-SOUTHPARK MEADOWS,Feeder,Spring 2014,sunday
+20.6,201,201-SOUTHPARK MEADOWS,Feeder,Summer 2014,sunday
+21.4,201,201-SOUTHPARK MEADOWS,Feeder,Fall 2014,sunday
+17.9,201,201-SOUTHPARK MEADOWS,Feeder,Spring 2015,sunday
+18.9,201,201-SOUTHPARK MEADOWS,Feeder,Summer 2015,sunday
+,214,214-LAGO VISTA FLEX,Feeder,Spring 2012,sunday
+,214,214-LAGO VISTA FLEX,Feeder,Summer 2012,sunday
+,214,214-LAGO VISTA FLEX,Feeder,Fall 2012,sunday
+,214,214-LAGO VISTA FLEX,Feeder,Spring 2013,sunday
+,214,214-LAGO VISTA FLEX,Feeder,Summer 2013,sunday
+,214,214-LAGO VISTA FLEX,Feeder,Fall 2013,sunday
+,214,214-LAGO VISTA FLEX,Feeder,Spring 2014,sunday
+,214,214-LAGO VISTA FLEX,Feeder,Summer 2014,sunday
+,214,214-LAGO VISTA FLEX,Feeder,Fall 2014,sunday
+,214,214-LAGO VISTA FLEX,Feeder,Spring 2015,sunday
+,214,214-LAGO VISTA FLEX,Feeder,Summer 2015,sunday
+,228,228-BURLESON,Feeder,Spring 2012,sunday
+,228,228-BURLESON,Feeder,Summer 2012,sunday
+,228,228-BURLESON,Feeder,Fall 2012,sunday
+,228,228-BURLESON,Feeder,Spring 2013,sunday
+,228,228-BURLESON,Feeder,Summer 2013,sunday
+,228,228-BURLESON,Feeder,Fall 2013,sunday
+,228,228-BURLESON,Feeder,Spring 2014,sunday
+,228,228-BURLESON,Feeder,Summer 2014,sunday
+,228,228-BURLESON,Feeder,Fall 2014,sunday
+,228,228-BURLESON,Feeder,Spring 2015,sunday
+,228,228-BURLESON,Feeder,Summer 2015,sunday
+,237,237-NORTHEAST FLEX,Feeder,Spring 2012,sunday
+,237,237-NORTHEAST FLEX,Feeder,Summer 2012,sunday
+,237,237-NORTHEAST FLEX,Feeder,Fall 2012,sunday
+,237,237-NORTHEAST FLEX,Feeder,Spring 2013,sunday
+,237,237-NORTHEAST FLEX,Feeder,Summer 2013,sunday
+,237,237-NORTHEAST FLEX,Feeder,Fall 2013,sunday
+,237,237-NORTHEAST FLEX,Feeder,Spring 2014,sunday
+,237,237-NORTHEAST FLEX,Feeder,Summer 2014,sunday
+,237,237-NORTHEAST FLEX,Feeder,Fall 2014,sunday
+,237,237-NORTHEAST FLEX,Feeder,Spring 2015,sunday
+6.1,237,237-NORTHEAST FLEX,Feeder,Summer 2015,sunday
+,238,238-WESTGATE,Feeder,Spring 2012,sunday
+,238,238-WESTGATE,Feeder,Summer 2012,sunday
+,238,238-WESTGATE,Feeder,Fall 2012,sunday
+11.3,238,238-WESTGATE,Feeder,Spring 2013,sunday
+11.4,238,238-WESTGATE,Feeder,Summer 2013,sunday
+11.3,238,238-WESTGATE,Feeder,Fall 2013,sunday
+11.2,238,238-WESTGATE,Feeder,Spring 2014,sunday
+12.6,238,238-WESTGATE,Feeder,Summer 2014,sunday
+11.4,238,238-WESTGATE,Feeder,Fall 2014,sunday
+10.1,238,238-WESTGATE,Feeder,Spring 2015,sunday
+10.8,238,238-WESTGATE,Feeder,Summer 2015,sunday
+19.4,240,240-PARKFIELD,Feeder,Spring 2012,sunday
+17.9,240,240-PARKFIELD,Feeder,Summer 2012,sunday
+22.5,240,240-PARKFIELD,Feeder,Fall 2012,sunday
+15.5,240,240-PARKFIELD,Feeder,Spring 2013,sunday
+19.6,240,240-PARKFIELD,Feeder,Summer 2013,sunday
+19.3,240,240-PARKFIELD,Feeder,Fall 2013,sunday
+17.1,240,240-PARKFIELD,Feeder,Spring 2014,sunday
+16.9,240,240-PARKFIELD,Feeder,Summer 2014,sunday
+11.9,240,240-PARKFIELD,Feeder,Fall 2014,sunday
+13.0,240,240-PARKFIELD,Feeder,Spring 2015,sunday
+15.3,240,240-PARKFIELD,Feeder,Summer 2015,sunday
+11.4,243,243-WELLS BRANCH,Feeder,Spring 2012,sunday
+12.4,243,243-WELLS BRANCH,Feeder,Summer 2012,sunday
+13.9,243,243-WELLS BRANCH,Feeder,Fall 2012,sunday
+14.0,243,243-WELLS BRANCH,Feeder,Spring 2013,sunday
+13.8,243,243-WELLS BRANCH,Feeder,Summer 2013,sunday
+14.9,243,243-WELLS BRANCH,Feeder,Fall 2013,sunday
+12.7,243,243-WELLS BRANCH,Feeder,Spring 2014,sunday
+12.4,243,243-WELLS BRANCH,Feeder,Summer 2014,sunday
+12.4,243,243-WELLS BRANCH,Feeder,Fall 2014,sunday
+12.9,243,243-WELLS BRANCH,Feeder,Spring 2015,sunday
+13.3,243,243-WELLS BRANCH,Feeder,Summer 2015,sunday
+,271,271-DEL VALLE FLEX,Feeder,Spring 2012,sunday
+,271,271-DEL VALLE FLEX,Feeder,Summer 2012,sunday
+,271,271-DEL VALLE FLEX,Feeder,Fall 2012,sunday
+,271,271-DEL VALLE FLEX,Feeder,Spring 2013,sunday
+,271,271-DEL VALLE FLEX,Feeder,Summer 2013,sunday
+,271,271-DEL VALLE FLEX,Feeder,Fall 2013,sunday
+,271,271-DEL VALLE FLEX,Feeder,Spring 2014,sunday
+,271,271-DEL VALLE FLEX,Feeder,Summer 2014,sunday
+,271,271-DEL VALLE FLEX,Feeder,Fall 2014,sunday
+,271,271-DEL VALLE FLEX,Feeder,Spring 2015,sunday
+,271,271-DEL VALLE FLEX,Feeder,Summer 2015,sunday
+,275,275-N. LAMAR,Feeder,Spring 2012,sunday
+,275,275-N. LAMAR,Feeder,Summer 2012,sunday
+,275,275-N. LAMAR,Feeder,Fall 2012,sunday
+,275,275-N. LAMAR,Feeder,Spring 2013,sunday
+,275,275-N. LAMAR,Feeder,Summer 2013,sunday
+,275,275-N. LAMAR,Feeder,Fall 2013,sunday
+25.6,275,275-N. LAMAR,Feeder,Spring 2014,sunday
+28.9,275,275-N. LAMAR,Feeder,Summer 2014,sunday
+27.2,275,275-N. LAMAR,Feeder,Fall 2014,sunday
+24.8,275,275-N. LAMAR,Feeder,Spring 2015,sunday
+25.7,275,275-N. LAMAR,Feeder,Summer 2015,sunday
+32.8,300,300-GOVALLE,Crosstown,Spring 2012,sunday
+33.0,300,300-GOVALLE,Crosstown,Summer 2012,sunday
+33.8,300,300-GOVALLE,Crosstown,Fall 2012,sunday
+35.7,300,300-GOVALLE,Crosstown,Spring 2013,sunday
+34.7,300,300-GOVALLE,Crosstown,Summer 2013,sunday
+31.8,300,300-GOVALLE,Crosstown,Fall 2013,sunday
+34.2,300,300-GOVALLE,Crosstown,Spring 2014,sunday
+36.9,300,300-GOVALLE,Crosstown,Summer 2014,sunday
+35.6,300,300-GOVALLE,Crosstown,Fall 2014,sunday
+30.4,300,300-GOVALLE,Crosstown,Spring 2015,sunday
+33.5,300,300-GOVALLE,Crosstown,Summer 2015,sunday
+18.3,311,311-STASSNEY,Crosstown,Spring 2012,sunday
+18.3,311,311-STASSNEY,Crosstown,Summer 2012,sunday
+20.4,311,311-STASSNEY,Crosstown,Fall 2012,sunday
+20.9,311,311-STASSNEY,Crosstown,Spring 2013,sunday
+20.8,311,311-STASSNEY,Crosstown,Summer 2013,sunday
+20.4,311,311-STASSNEY,Crosstown,Fall 2013,sunday
+20.5,311,311-STASSNEY,Crosstown,Spring 2014,sunday
+22.0,311,311-STASSNEY,Crosstown,Summer 2014,sunday
+20.1,311,311-STASSNEY,Crosstown,Fall 2014,sunday
+17.1,311,311-STASSNEY,Crosstown,Spring 2015,sunday
+20.8,311,311-STASSNEY,Crosstown,Summer 2015,sunday
+21.5,320,320-ST JOHNS,Crosstown,Spring 2012,sunday
+22.9,320,320-ST JOHNS,Crosstown,Summer 2012,sunday
+24.4,320,320-ST JOHNS,Crosstown,Fall 2012,sunday
+24.4,320,320-ST JOHNS,Crosstown,Spring 2013,sunday
+24.9,320,320-ST JOHNS,Crosstown,Summer 2013,sunday
+22.3,320,320-ST JOHNS,Crosstown,Fall 2013,sunday
+22.6,320,320-ST JOHNS,Crosstown,Spring 2014,sunday
+25.6,320,320-ST JOHNS,Crosstown,Summer 2014,sunday
+22.3,320,320-ST JOHNS,Crosstown,Fall 2014,sunday
+22.1,320,320-ST JOHNS,Crosstown,Spring 2015,sunday
+22.9,320,320-ST JOHNS,Crosstown,Summer 2015,sunday
+16.3,323,323-ANDERSON,Crosstown,Spring 2012,sunday
+13.9,323,323-ANDERSON,Crosstown,Summer 2012,sunday
+13.8,323,323-ANDERSON,Crosstown,Fall 2012,sunday
+15.0,323,323-ANDERSON,Crosstown,Spring 2013,sunday
+13.0,323,323-ANDERSON,Crosstown,Summer 2013,sunday
+17.0,323,323-ANDERSON,Crosstown,Fall 2013,sunday
+14.3,323,323-ANDERSON,Crosstown,Spring 2014,sunday
+16.2,323,323-ANDERSON,Crosstown,Summer 2014,sunday
+15.2,323,323-ANDERSON,Crosstown,Fall 2014,sunday
+13.4,323,323-ANDERSON,Crosstown,Spring 2015,sunday
+15.6,323,323-ANDERSON,Crosstown,Summer 2015,sunday
+33.2,325,325-OHLEN ,Crosstown,Spring 2012,sunday
+36.9,325,325-OHLEN ,Crosstown,Summer 2012,sunday
+28.7,325,325-OHLEN ,Crosstown,Fall 2012,sunday
+35.8,325,325-OHLEN ,Crosstown,Spring 2013,sunday
+39.6,325,325-OHLEN ,Crosstown,Summer 2013,sunday
+27.3,325,325-OHLEN ,Crosstown,Fall 2013,sunday
+31.5,325,325-OHLEN ,Crosstown,Spring 2014,sunday
+38.6,325,325-OHLEN ,Crosstown,Summer 2014,sunday
+25.0,325,325-OHLEN ,Crosstown,Fall 2014,sunday
+28.4,325,325-OHLEN ,Crosstown,Spring 2015,sunday
+37.4,325,325-OHLEN ,Crosstown,Summer 2015,sunday
+31.2,331,331-OLTORF,Crosstown,Spring 2012,sunday
+34.4,331,331-OLTORF,Crosstown,Summer 2012,sunday
+34.6,331,331-OLTORF,Crosstown,Fall 2012,sunday
+34.4,331,331-OLTORF,Crosstown,Spring 2013,sunday
+32.8,331,331-OLTORF,Crosstown,Summer 2013,sunday
+32.4,331,331-OLTORF,Crosstown,Fall 2013,sunday
+32.6,331,331-OLTORF,Crosstown,Spring 2014,sunday
+35.1,331,331-OLTORF,Crosstown,Summer 2014,sunday
+33.2,331,331-OLTORF,Crosstown,Fall 2014,sunday
+27.9,331,331-OLTORF,Crosstown,Spring 2015,sunday
+30.5,331,331-OLTORF,Crosstown,Summer 2015,sunday
+18.5,333,333-WILLIAM CANNON,Crosstown,Spring 2012,sunday
+19.6,333,333-WILLIAM CANNON,Crosstown,Summer 2012,sunday
+22.5,333,333-WILLIAM CANNON,Crosstown,Fall 2012,sunday
+22.7,333,333-WILLIAM CANNON,Crosstown,Spring 2013,sunday
+22.8,333,333-WILLIAM CANNON,Crosstown,Summer 2013,sunday
+22.3,333,333-WILLIAM CANNON,Crosstown,Fall 2013,sunday
+19.7,333,333-WILLIAM CANNON,Crosstown,Spring 2014,sunday
+22.4,333,333-WILLIAM CANNON,Crosstown,Summer 2014,sunday
+22.6,333,333-WILLIAM CANNON,Crosstown,Fall 2014,sunday
+19.8,333,333-WILLIAM CANNON,Crosstown,Spring 2015,sunday
+18.8,333,333-WILLIAM CANNON,Crosstown,Summer 2015,sunday
+18.7,338,338-LAMAR/45TH,Crosstown,Spring 2012,sunday
+18.3,338,338-LAMAR/45TH,Crosstown,Summer 2012,sunday
+19.9,338,338-LAMAR/45TH,Crosstown,Fall 2012,sunday
+21.3,338,338-LAMAR/45TH,Crosstown,Spring 2013,sunday
+21.0,338,338-LAMAR/45TH,Crosstown,Summer 2013,sunday
+21.9,338,338-LAMAR/45TH,Crosstown,Fall 2013,sunday
+19.9,338,338-LAMAR/45TH,Crosstown,Spring 2014,sunday
+20.5,338,338-LAMAR/45TH,Crosstown,Summer 2014,sunday
+18.7,338,338-LAMAR/45TH,Crosstown,Fall 2014,sunday
+16.9,338,338-LAMAR/45TH,Crosstown,Spring 2015,sunday
+18.3,338,338-LAMAR/45TH,Crosstown,Summer 2015,sunday
+18.9,350,350-AIRPORT BLVD,Crosstown,Spring 2012,sunday
+21.5,350,350-AIRPORT BLVD,Crosstown,Summer 2012,sunday
+21.4,350,350-AIRPORT BLVD,Crosstown,Fall 2012,sunday
+18.8,350,350-AIRPORT BLVD,Crosstown,Spring 2013,sunday
+18.3,350,350-AIRPORT BLVD,Crosstown,Summer 2013,sunday
+17.2,350,350-AIRPORT BLVD,Crosstown,Fall 2013,sunday
+18.8,350,350-AIRPORT BLVD,Crosstown,Spring 2014,sunday
+20.5,350,350-AIRPORT BLVD,Crosstown,Summer 2014,sunday
+18.5,350,350-AIRPORT BLVD,Crosstown,Fall 2014,sunday
+17.9,350,350-AIRPORT BLVD,Crosstown,Spring 2015,sunday
+18.5,350,350-AIRPORT BLVD,Crosstown,Summer 2015,sunday
+19.6,383,383-RESEARCH,Crosstown,Spring 2012,sunday
+19.4,383,383-RESEARCH,Crosstown,Summer 2012,sunday
+18.0,383,383-RESEARCH,Crosstown,Fall 2012,sunday
+21.6,383,383-RESEARCH,Crosstown,Spring 2013,sunday
+21.6,383,383-RESEARCH,Crosstown,Summer 2013,sunday
+21.5,383,383-RESEARCH,Crosstown,Fall 2013,sunday
+19.0,383,383-RESEARCH,Crosstown,Spring 2014,sunday
+20.2,383,383-RESEARCH,Crosstown,Summer 2014,sunday
+12.4,383,383-RESEARCH,Crosstown,Fall 2014,sunday
+14.5,383,383-RESEARCH,Crosstown,Spring 2015,sunday
+18.1,383,383-RESEARCH,Crosstown,Summer 2015,sunday
+10.8,392,392-BRAKER,Crosstown,Spring 2012,sunday
+12.0,392,392-BRAKER,Crosstown,Summer 2012,sunday
+11.4,392,392-BRAKER,Crosstown,Fall 2012,sunday
+11.8,392,392-BRAKER,Crosstown,Spring 2013,sunday
+12.2,392,392-BRAKER,Crosstown,Summer 2013,sunday
+10.9,392,392-BRAKER,Crosstown,Fall 2013,sunday
+10.5,392,392-BRAKER,Crosstown,Spring 2014,sunday
+10.3,392,392-BRAKER,Crosstown,Summer 2014,sunday
+10.0,392,392-BRAKER,Crosstown,Fall 2014,sunday
+9.0,392,392-BRAKER,Crosstown,Spring 2015,sunday
+10.4,392,392-BRAKER,Crosstown,Summer 2015,sunday
+,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Spring 2012,sunday
+,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Summer 2012,sunday
+,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Fall 2012,sunday
+,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Spring 2013,sunday
+,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Summer 2013,sunday
+,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Fall 2013,sunday
+,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Spring 2014,sunday
+,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Summer 2014,sunday
+,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Fall 2014,sunday
+,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Spring 2015,sunday
+,410,410-EBUS/WEST CAMPUS,Special Services- Ebus,Summer 2015,sunday
+,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Spring 2012,sunday
+,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Summer 2012,sunday
+,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Fall 2012,sunday
+,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Spring 2013,sunday
+,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Summer 2013,sunday
+,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Fall 2013,sunday
+,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Spring 2014,sunday
+,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Summer 2014,sunday
+,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Fall 2014,sunday
+,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Spring 2015,sunday
+,411,411-EBUS/RIVERSIDE,Special Services- Ebus,Summer 2015,sunday
+,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Spring 2012,sunday
+,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Summer 2012,sunday
+,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Fall 2012,sunday
+,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Spring 2013,sunday
+,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Summer 2013,sunday
+,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Fall 2013,sunday
+,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Spring 2014,sunday
+,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Summer 2014,sunday
+,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Fall 2014,sunday
+,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Spring 2015,sunday
+,412,412-EBUS/MAIN CAMPUS,Special Services- Ebus,Summer 2015,sunday
+,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Spring 2012,sunday
+,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Summer 2012,sunday
+,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Fall 2012,sunday
+,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Spring 2013,sunday
+,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Summer 2013,sunday
+,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Fall 2013,sunday
+,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Spring 2014,sunday
+,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Summer 2014,sunday
+,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Fall 2014,sunday
+,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Spring 2015,sunday
+,464,464-MLK-CAPITAL,Special Services - Rail Connectors,Summer 2015,sunday
+,465,465-MLK-UT,Special Services - Rail Connectors,Spring 2012,sunday
+,465,465-MLK-UT,Special Services - Rail Connectors,Summer 2012,sunday
+,465,465-MLK-UT,Special Services - Rail Connectors,Fall 2012,sunday
+,465,465-MLK-UT,Special Services - Rail Connectors,Spring 2013,sunday
+,465,465-MLK-UT,Special Services - Rail Connectors,Summer 2013,sunday
+,465,465-MLK-UT,Special Services - Rail Connectors,Fall 2013,sunday
+,465,465-MLK-UT,Special Services - Rail Connectors,Spring 2014,sunday
+,465,465-MLK-UT,Special Services - Rail Connectors,Summer 2014,sunday
+,465,465-MLK-UT,Special Services - Rail Connectors,Fall 2014,sunday
+,465,465-MLK-UT,Special Services - Rail Connectors,Spring 2015,sunday
+,465,465-MLK-UT,Special Services - Rail Connectors,Summer 2015,sunday
+,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Spring 2012,sunday
+,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Summer 2012,sunday
+,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Fall 2012,sunday
+,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Spring 2013,sunday
+,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Summer 2013,sunday
+,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Fall 2013,sunday
+,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Spring 2014,sunday
+,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Summer 2014,sunday
+,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Fall 2014,sunday
+,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Spring 2015,sunday
+,466,466-KRAMER/DOMAIN,Special Services - Rail Connectors,Summer 2015,sunday
+,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Spring 2012,sunday
+,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Summer 2012,sunday
+,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Fall 2012,sunday
+,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Spring 2013,sunday
+,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Summer 2013,sunday
+,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Fall 2013,sunday
+,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Spring 2014,sunday
+,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Summer 2014,sunday
+,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Fall 2014,sunday
+,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Spring 2015,sunday
+,481,481-NIGHT OWL NORTH LAMAR,Special Services - Night Owls,Summer 2015,sunday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Spring 2012,sunday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Summer 2012,sunday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Fall 2012,sunday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Spring 2013,sunday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Summer 2013,sunday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Fall 2013,sunday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Spring 2014,sunday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Summer 2014,sunday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Fall 2014,sunday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Spring 2015,sunday
+,482,482-NIGHT OWL EAST,Special Services - Night Owls,Summer 2015,sunday
+,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Spring 2012,sunday
+,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Summer 2012,sunday
+,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Fall 2012,sunday
+,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Spring 2013,sunday
+,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Summer 2013,sunday
+,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Fall 2013,sunday
+,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Spring 2014,sunday
+,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Summer 2014,sunday
+,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Fall 2014,sunday
+,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Spring 2015,sunday
+,483,483-NIGHT OWL RIVERSIDE,Special Services - Night Owls,Summer 2015,sunday
+,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Spring 2012,sunday
+,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Summer 2012,sunday
+,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Fall 2012,sunday
+,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Spring 2013,sunday
+,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Summer 2013,sunday
+,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Fall 2013,sunday
+,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Spring 2014,sunday
+,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Summer 2014,sunday
+,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Fall 2014,sunday
+,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Spring 2015,sunday
+,484,484-NIGHT OWL SOUTH LAMAR,Special Services - Night Owls,Summer 2015,sunday
+,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Spring 2012,sunday
+,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Summer 2012,sunday
+,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Fall 2012,sunday
+,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Spring 2013,sunday
+,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Summer 2013,sunday
+,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Fall 2013,sunday
+,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Spring 2014,sunday
+,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Summer 2014,sunday
+,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Fall 2014,sunday
+,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Spring 2015,sunday
+,485,485-NIGHT OWL CAMERON,Special Services - Night Owls,Summer 2015,sunday
+,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Spring 2012,sunday
+,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Summer 2012,sunday
+,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Fall 2012,sunday
+,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Spring 2013,sunday
+,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Summer 2013,sunday
+,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Fall 2013,sunday
+,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Spring 2014,sunday
+,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Summer 2014,sunday
+,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Fall 2014,sunday
+,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Spring 2015,sunday
+,486,486-NIGHT OWL SOUTH CONGRESS,Special Services - Night Owls,Summer 2015,sunday
+,490,490-HEB SHUTTLE,Special Services - Senior,Spring 2012,sunday
+,490,490-HEB SHUTTLE,Special Services - Senior,Summer 2012,sunday
+,490,490-HEB SHUTTLE,Special Services - Senior,Fall 2012,sunday
+,490,490-HEB SHUTTLE,Special Services - Senior,Spring 2013,sunday
+,490,490-HEB SHUTTLE,Special Services - Senior,Summer 2013,sunday
+,490,490-HEB SHUTTLE,Special Services - Senior,Fall 2013,sunday
+,490,490-HEB SHUTTLE,Special Services - Senior,Spring 2014,sunday
+,490,490-HEB SHUTTLE,Special Services - Senior,Summer 2014,sunday
+,490,490-HEB SHUTTLE,Special Services - Senior,Fall 2014,sunday
+,490,490-HEB SHUTTLE,Special Services - Senior,Spring 2015,sunday
+,490,490-HEB SHUTTLE,Special Services - Senior,Summer 2015,sunday
+,491,491-ALLANDALE,Special Services - Senior,Spring 2012,sunday
+,491,491-ALLANDALE,Special Services - Senior,Summer 2012,sunday
+,491,491-ALLANDALE,Special Services - Senior,Fall 2012,sunday
+,491,491-ALLANDALE,Special Services - Senior,Spring 2013,sunday
+,491,491-ALLANDALE,Special Services - Senior,Summer 2013,sunday
+,491,491-ALLANDALE,Special Services - Senior,Fall 2013,sunday
+,491,491-ALLANDALE,Special Services - Senior,Spring 2014,sunday
+,491,491-ALLANDALE,Special Services - Senior,Summer 2014,sunday
+,491,491-ALLANDALE,Special Services - Senior,Fall 2014,sunday
+,491,491-ALLANDALE,Special Services - Senior,Spring 2015,sunday
+,491,491-ALLANDALE,Special Services - Senior,Summer 2015,sunday
+,492,492-DELWOOD,Special Services - Senior,Spring 2012,sunday
+,492,492-DELWOOD,Special Services - Senior,Summer 2012,sunday
+,492,492-DELWOOD,Special Services - Senior,Fall 2012,sunday
+,492,492-DELWOOD,Special Services - Senior,Spring 2013,sunday
+,492,492-DELWOOD,Special Services - Senior,Summer 2013,sunday
+,492,492-DELWOOD,Special Services - Senior,Fall 2013,sunday
+,492,492-DELWOOD,Special Services - Senior,Spring 2014,sunday
+,492,492-DELWOOD,Special Services - Senior,Summer 2014,sunday
+,492,492-DELWOOD,Special Services - Senior,Fall 2014,sunday
+,492,492-DELWOOD,Special Services - Senior,Spring 2015,sunday
+,492,492-DELWOOD,Special Services - Senior,Summer 2015,sunday
+,550,550-METRO RAIL RED LINE,MetroRail,Spring 2012,sunday
+,550,550-METRO RAIL RED LINE,MetroRail,Summer 2012,sunday
+,550,550-METRO RAIL RED LINE,MetroRail,Fall 2012,sunday
+,550,550-METRO RAIL RED LINE,MetroRail,Spring 2013,sunday
+,550,550-METRO RAIL RED LINE,MetroRail,Summer 2013,sunday
+60.6,550,550-METRO RAIL RED LINE,MetroRail,Fall 2013,sunday
+,550,550-METRO RAIL RED LINE,MetroRail,Spring 2014,sunday
+,550,550-METRO RAIL RED LINE,MetroRail,Summer 2014,sunday
+46.1,550,550-METRO RAIL RED LINE,MetroRail,Fall 2014,sunday
+62.0,550,550-METRO RAIL RED LINE,MetroRail,Spring 2015,sunday
+,550,550-METRO RAIL RED LINE,MetroRail,Summer 2015,sunday
+33.0,640,640-FA FORTY ACRES,UT Shuttle,Spring 2012,sunday
+10.3,640,640-FA FORTY ACRES,UT Shuttle,Summer 2012,sunday
+34.6,640,640-FA FORTY ACRES,UT Shuttle,Fall 2012,sunday
+32.5,640,640-FA FORTY ACRES,UT Shuttle,Spring 2013,sunday
+9.3,640,640-FA FORTY ACRES,UT Shuttle,Summer 2013,sunday
+36.1,640,640-FA FORTY ACRES,UT Shuttle,Fall 2013,sunday
+30.1,640,640-FA FORTY ACRES,UT Shuttle,Spring 2014,sunday
+10.1,640,640-FA FORTY ACRES,UT Shuttle,Summer 2014,sunday
+9.4,640,640-FA FORTY ACRES,UT Shuttle,Fall 2014,sunday
+19.6,640,640-FA FORTY ACRES,UT Shuttle,Spring 2015,sunday
+13.3,640,640-FA FORTY ACRES,UT Shuttle,Summer 2015,sunday
+26.9,641,641-EC EAST CAMPUS,UT Shuttle,Spring 2012,sunday
+12.0,641,641-EC EAST CAMPUS,UT Shuttle,Summer 2012,sunday
+18.0,641,641-EC EAST CAMPUS,UT Shuttle,Fall 2012,sunday
+43.2,641,641-EC EAST CAMPUS,UT Shuttle,Spring 2013,sunday
+20.0,641,641-EC EAST CAMPUS,UT Shuttle,Summer 2013,sunday
+30.0,641,641-EC EAST CAMPUS,UT Shuttle,Fall 2013,sunday
+28.9,641,641-EC EAST CAMPUS,UT Shuttle,Spring 2014,sunday
+10.8,641,641-EC EAST CAMPUS,UT Shuttle,Summer 2014,sunday
+51.0,641,641-EC EAST CAMPUS,UT Shuttle,Fall 2014,sunday
+30.3,641,641-EC EAST CAMPUS,UT Shuttle,Spring 2015,sunday
+51.0,641,641-EC EAST CAMPUS,UT Shuttle,Summer 2015,sunday
+37.8,642,642-WC WEST CAMPUS/UT,UT Shuttle,Spring 2012,sunday
+14.2,642,642-WC WEST CAMPUS/UT,UT Shuttle,Summer 2012,sunday
+48.4,642,642-WC WEST CAMPUS/UT,UT Shuttle,Fall 2012,sunday
+41.6,642,642-WC WEST CAMPUS/UT,UT Shuttle,Spring 2013,sunday
+13.9,642,642-WC WEST CAMPUS/UT,UT Shuttle,Summer 2013,sunday
+47.0,642,642-WC WEST CAMPUS/UT,UT Shuttle,Fall 2013,sunday
+43.5,642,642-WC WEST CAMPUS/UT,UT Shuttle,Spring 2014,sunday
+15.5,642,642-WC WEST CAMPUS/UT,UT Shuttle,Summer 2014,sunday
+49.0,642,642-WC WEST CAMPUS/UT,UT Shuttle,Fall 2014,sunday
+41.3,642,642-WC WEST CAMPUS/UT,UT Shuttle,Spring 2015,sunday
+14.9,642,642-WC WEST CAMPUS/UT,UT Shuttle,Summer 2015,sunday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Spring 2012,sunday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Summer 2012,sunday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Fall 2012,sunday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Spring 2013,sunday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Summer 2013,sunday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Fall 2013,sunday
+0.0,651,651-CR CAMERON RD/UT,UT Shuttle,Spring 2014,sunday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Summer 2014,sunday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Fall 2014,sunday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Spring 2015,sunday
+,651,651-CR CAMERON RD/UT,UT Shuttle,Summer 2015,sunday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Spring 2012,sunday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Summer 2012,sunday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Fall 2012,sunday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Spring 2013,sunday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Summer 2013,sunday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Fall 2013,sunday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Spring 2014,sunday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Summer 2014,sunday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Fall 2014,sunday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Spring 2015,sunday
+,652,652-PRC PICKLE RESEARCH CAMPUS,UT Shuttle,Summer 2015,sunday
+,653,653-RR RED RIVER/UT,UT Shuttle,Spring 2012,sunday
+,653,653-RR RED RIVER/UT,UT Shuttle,Summer 2012,sunday
+,653,653-RR RED RIVER/UT,UT Shuttle,Fall 2012,sunday
+,653,653-RR RED RIVER/UT,UT Shuttle,Spring 2013,sunday
+,653,653-RR RED RIVER/UT,UT Shuttle,Summer 2013,sunday
+,653,653-RR RED RIVER/UT,UT Shuttle,Fall 2013,sunday
+17.1,653,653-RR RED RIVER/UT,UT Shuttle,Spring 2014,sunday
+13.8,653,653-RR RED RIVER/UT,UT Shuttle,Summer 2014,sunday
+19.5,653,653-RR RED RIVER/UT,UT Shuttle,Fall 2014,sunday
+17.7,653,653-RR RED RIVER/UT,UT Shuttle,Spring 2015,sunday
+11.1,653,653-RR RED RIVER/UT,UT Shuttle,Summer 2015,sunday
+,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Spring 2012,sunday
+,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Summer 2012,sunday
+,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Fall 2012,sunday
+,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Spring 2013,sunday
+,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Summer 2013,sunday
+,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Fall 2013,sunday
+,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Spring 2014,sunday
+,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Summer 2014,sunday
+,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Fall 2014,sunday
+,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Spring 2015,sunday
+,656,656-IF INTRAMURAL FIELDS/UT,UT Shuttle,Summer 2015,sunday
+,661,661-FW FAR WEST/UT,UT Shuttle,Spring 2012,sunday
+,661,661-FW FAR WEST/UT,UT Shuttle,Summer 2012,sunday
+,661,661-FW FAR WEST/UT,UT Shuttle,Fall 2012,sunday
+,661,661-FW FAR WEST/UT,UT Shuttle,Spring 2013,sunday
+,661,661-FW FAR WEST/UT,UT Shuttle,Summer 2013,sunday
+,661,661-FW FAR WEST/UT,UT Shuttle,Fall 2013,sunday
+,661,661-FW FAR WEST/UT,UT Shuttle,Spring 2014,sunday
+,661,661-FW FAR WEST/UT,UT Shuttle,Summer 2014,sunday
+,661,661-FW FAR WEST/UT,UT Shuttle,Fall 2014,sunday
+,661,661-FW FAR WEST/UT,UT Shuttle,Spring 2015,sunday
+,661,661-FW FAR WEST/UT,UT Shuttle,Summer 2015,sunday
+19.1,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Spring 2012,sunday
+11.2,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Summer 2012,sunday
+16.9,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Fall 2012,sunday
+18.0,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Spring 2013,sunday
+12.6,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Summer 2013,sunday
+18.4,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Fall 2013,sunday
+17.2,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Spring 2014,sunday
+15.6,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Summer 2014,sunday
+17.1,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Fall 2014,sunday
+17.6,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Spring 2015,sunday
+12.9,663,663-LA LAKE AUSTIN/UT,UT Shuttle,Summer 2015,sunday
+,670,670-CP CROSSING PLACE,UT Shuttle,Spring 2012,sunday
+,670,670-CP CROSSING PLACE,UT Shuttle,Summer 2012,sunday
+,670,670-CP CROSSING PLACE,UT Shuttle,Fall 2012,sunday
+,670,670-CP CROSSING PLACE,UT Shuttle,Spring 2013,sunday
+,670,670-CP CROSSING PLACE,UT Shuttle,Summer 2013,sunday
+,670,670-CP CROSSING PLACE,UT Shuttle,Fall 2013,sunday
+25.5,670,670-CP CROSSING PLACE,UT Shuttle,Spring 2014,sunday
+9.5,670,670-CP CROSSING PLACE,UT Shuttle,Summer 2014,sunday
+25.4,670,670-CP CROSSING PLACE,UT Shuttle,Fall 2014,sunday
+25.5,670,670-CP CROSSING PLACE,UT Shuttle,Spring 2015,sunday
+10.1,670,670-CP CROSSING PLACE,UT Shuttle,Summer 2015,sunday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Spring 2012,sunday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Summer 2012,sunday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Fall 2012,sunday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Spring 2013,sunday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Summer 2013,sunday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Fall 2013,sunday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Spring 2014,sunday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Summer 2014,sunday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Fall 2014,sunday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Spring 2015,sunday
+,671,671-NR NORTH RIVERSIDE,UT Shuttle,Summer 2015,sunday
+,672,672-LS LAKESHORE,UT Shuttle,Spring 2012,sunday
+,672,672-LS LAKESHORE,UT Shuttle,Summer 2012,sunday
+,672,672-LS LAKESHORE,UT Shuttle,Fall 2012,sunday
+,672,672-LS LAKESHORE,UT Shuttle,Spring 2013,sunday
+,672,672-LS LAKESHORE,UT Shuttle,Summer 2013,sunday
+,672,672-LS LAKESHORE,UT Shuttle,Fall 2013,sunday
+,672,672-LS LAKESHORE,UT Shuttle,Spring 2014,sunday
+,672,672-LS LAKESHORE,UT Shuttle,Summer 2014,sunday
+,672,672-LS LAKESHORE,UT Shuttle,Fall 2014,sunday
+,672,672-LS LAKESHORE,UT Shuttle,Spring 2015,sunday
+,672,672-LS LAKESHORE,UT Shuttle,Summer 2015,sunday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Spring 2012,sunday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Summer 2012,sunday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Fall 2012,sunday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Spring 2013,sunday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Summer 2013,sunday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Fall 2013,sunday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Spring 2014,sunday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Summer 2014,sunday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Fall 2014,sunday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Spring 2015,sunday
+,675,675-WL WICKERSHAM LANE/UT,UT Shuttle,Summer 2015,sunday
+43.2,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Spring 2012,sunday
+15.1,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Summer 2012,sunday
+41.9,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Fall 2012,sunday
+37.0,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Spring 2013,sunday
+15.5,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Summer 2013,sunday
+40.1,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Fall 2013,sunday
+35.4,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Spring 2014,sunday
+16.1,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Summer 2014,sunday
+30.3,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Fall 2014,sunday
+23.3,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Spring 2015,sunday
+16.3,680,680-NR/LS NORTH RIVERSIDE/LAKE,UT Shuttle,Summer 2015,sunday
+21.2,681,681-IF/FW Intramural/Far West,UT Shuttle,Spring 2012,sunday
+12.4,681,681-IF/FW Intramural/Far West,UT Shuttle,Summer 2012,sunday
+25.5,681,681-IF/FW Intramural/Far West,UT Shuttle,Fall 2012,sunday
+21.3,681,681-IF/FW Intramural/Far West,UT Shuttle,Spring 2013,sunday
+11.6,681,681-IF/FW Intramural/Far West,UT Shuttle,Summer 2013,sunday
+23.6,681,681-IF/FW Intramural/Far West,UT Shuttle,Fall 2013,sunday
+17.9,681,681-IF/FW Intramural/Far West,UT Shuttle,Spring 2014,sunday
+14.5,681,681-IF/FW Intramural/Far West,UT Shuttle,Summer 2014,sunday
+16.7,681,681-IF/FW Intramural/Far West,UT Shuttle,Fall 2014,sunday
+13.9,681,681-IF/FW Intramural/Far West,UT Shuttle,Spring 2015,sunday
+8.3,681,681-IF/FW Intramural/Far West,UT Shuttle,Summer 2015,sunday
+21.9,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Spring 2012,sunday
+12.0,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Summer 2012,sunday
+20.7,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Fall 2012,sunday
+22.6,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Spring 2013,sunday
+12.8,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Summer 2013,sunday
+24.2,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Fall 2013,sunday
+,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Spring 2014,sunday
+,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Summer 2014,sunday
+,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Fall 2014,sunday
+,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Spring 2015,sunday
+,684,684-RR/CR RED RIVER/CAMERON RD,UT Shuttle,Summer 2015,sunday
+32.4,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Spring 2012,sunday
+14.6,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Summer 2012,sunday
+36.0,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Fall 2012,sunday
+32.2,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Spring 2013,sunday
+15.8,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Summer 2013,sunday
+34.9,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Fall 2013,sunday
+,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Spring 2014,sunday
+,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Summer 2014,sunday
+,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Fall 2014,sunday
+,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Spring 2015,sunday
+,685,685-WL/CP WICKERSHAM/CROSSING,UT Shuttle,Summer 2015,sunday
+,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Spring 2012,sunday
+,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Summer 2012,sunday
+,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Fall 2012,sunday
+,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Spring 2013,sunday
+,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Summer 2013,sunday
+,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Fall 2013,sunday
+17.4,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Spring 2014,sunday
+18.3,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Summer 2014,sunday
+24.8,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Fall 2014,sunday
+18.3,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Spring 2015,sunday
+16.4,801,MetroRapid 801-N Lamar S Congress,MetroRapid,Summer 2015,sunday
+,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Spring 2012,sunday
+,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Summer 2012,sunday
+,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Fall 2012,sunday
+,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Spring 2013,sunday
+,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Summer 2013,sunday
+,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Fall 2013,sunday
+,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Spring 2014,sunday
+,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Summer 2014,sunday
+16.7,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Fall 2014,sunday
+10.4,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Spring 2015,sunday
+10.2,803,MetroRapid 803 S LAMAR BURNET,MetroRapid,Summer 2015,sunday
+,935,935-TECH RIDGE EXPRESS,Express,Spring 2012,sunday
+,935,935-TECH RIDGE EXPRESS,Express,Summer 2012,sunday
+,935,935-TECH RIDGE EXPRESS,Express,Fall 2012,sunday
+,935,935-TECH RIDGE EXPRESS,Express,Spring 2013,sunday
+,935,935-TECH RIDGE EXPRESS,Express,Summer 2013,sunday
+,935,935-TECH RIDGE EXPRESS,Express,Fall 2013,sunday
+,935,935-TECH RIDGE EXPRESS,Express,Spring 2014,sunday
+,935,935-TECH RIDGE EXPRESS,Express,Summer 2014,sunday
+,935,935-TECH RIDGE EXPRESS,Express,Fall 2014,sunday
+,935,935-TECH RIDGE EXPRESS,Express,Spring 2015,sunday
+,935,935-TECH RIDGE EXPRESS,Express,Summer 2015,sunday
+,970,970-AMD/LANTANA CAMPUS,Express,Spring 2012,sunday
+,970,970-AMD/LANTANA CAMPUS,Express,Summer 2012,sunday
+,970,970-AMD/LANTANA CAMPUS,Express,Fall 2012,sunday
+,970,970-AMD/LANTANA CAMPUS,Express,Spring 2013,sunday
+,970,970-AMD/LANTANA CAMPUS,Express,Summer 2013,sunday
+,970,970-AMD/LANTANA CAMPUS,Express,Fall 2013,sunday
+,970,970-AMD/LANTANA CAMPUS,Express,Spring 2014,sunday
+,970,970-AMD/LANTANA CAMPUS,Express,Summer 2014,sunday
+,970,970-AMD/LANTANA CAMPUS,Express,Fall 2014,sunday
+,970,970-AMD/LANTANA CAMPUS,Express,Spring 2015,sunday
+,970,970-AMD/LANTANA CAMPUS,Express,Summer 2015,sunday
+,982,982-PAVILLION EXPRESS,Express,Spring 2012,sunday
+,982,982-PAVILLION EXPRESS,Express,Summer 2012,sunday
+,982,982-PAVILLION EXPRESS,Express,Fall 2012,sunday
+,982,982-PAVILLION EXPRESS,Express,Spring 2013,sunday
+,982,982-PAVILLION EXPRESS,Express,Summer 2013,sunday
+,982,982-PAVILLION EXPRESS,Express,Fall 2013,sunday
+,982,982-PAVILLION EXPRESS,Express,Spring 2014,sunday
+,982,982-PAVILLION EXPRESS,Express,Summer 2014,sunday
+,982,982-PAVILLION EXPRESS,Express,Fall 2014,sunday
+,982,982-PAVILLION EXPRESS,Express,Spring 2015,sunday
+,982,982-PAVILLION EXPRESS,Express,Summer 2015,sunday
+,983,983-N US183 EXPRESS,Express,Spring 2012,sunday
+,983,983-N US183 EXPRESS,Express,Summer 2012,sunday
+,983,983-N US183 EXPRESS,Express,Fall 2012,sunday
+,983,983-N US183 EXPRESS,Express,Spring 2013,sunday
+,983,983-N US183 EXPRESS,Express,Summer 2013,sunday
+,983,983-N US183 EXPRESS,Express,Fall 2013,sunday
+,983,983-N US183 EXPRESS,Express,Spring 2014,sunday
+,983,983-N US183 EXPRESS,Express,Summer 2014,sunday
+,983,983-N US183 EXPRESS,Express,Fall 2014,sunday
+,983,983-N US183 EXPRESS,Express,Spring 2015,sunday
+,983,983-N US183 EXPRESS,Express,Summer 2015,sunday
+,985,985-LEANDER LAKELINE DIRECT,Express,Spring 2012,sunday
+,985,985-LEANDER LAKELINE DIRECT,Express,Summer 2012,sunday
+,985,985-LEANDER LAKELINE DIRECT,Express,Fall 2012,sunday
+,985,985-LEANDER LAKELINE DIRECT,Express,Spring 2013,sunday
+,985,985-LEANDER LAKELINE DIRECT,Express,Summer 2013,sunday
+,985,985-LEANDER LAKELINE DIRECT,Express,Fall 2013,sunday
+,985,985-LEANDER LAKELINE DIRECT,Express,Spring 2014,sunday
+,985,985-LEANDER LAKELINE DIRECT,Express,Summer 2014,sunday
+,985,985-LEANDER LAKELINE DIRECT,Express,Fall 2014,sunday
+,985,985-LEANDER LAKELINE DIRECT,Express,Spring 2015,sunday
+,985,985-LEANDER LAKELINE DIRECT,Express,Summer 2015,sunday
+,987,987-LEANDER/NW EXPRESS,Express,Spring 2012,sunday
+,987,987-LEANDER/NW EXPRESS,Express,Summer 2012,sunday
+,987,987-LEANDER/NW EXPRESS,Express,Fall 2012,sunday
+,987,987-LEANDER/NW EXPRESS,Express,Spring 2013,sunday
+,987,987-LEANDER/NW EXPRESS,Express,Summer 2013,sunday
+,987,987-LEANDER/NW EXPRESS,Express,Fall 2013,sunday
+,987,987-LEANDER/NW EXPRESS,Express,Spring 2014,sunday
+,987,987-LEANDER/NW EXPRESS,Express,Summer 2014,sunday
+,987,987-LEANDER/NW EXPRESS,Express,Fall 2014,sunday
+,987,987-LEANDER/NW EXPRESS,Express,Spring 2015,sunday
+,987,987-LEANDER/NW EXPRESS,Express,Summer 2015,sunday
+,990,990-MANOR/ELGIN EXPRESS,Express,Spring 2012,sunday
+,990,990-MANOR/ELGIN EXPRESS,Express,Summer 2012,sunday
+,990,990-MANOR/ELGIN EXPRESS,Express,Fall 2012,sunday
+,990,990-MANOR/ELGIN EXPRESS,Express,Spring 2013,sunday
+,990,990-MANOR/ELGIN EXPRESS,Express,Summer 2013,sunday
+,990,990-MANOR/ELGIN EXPRESS,Express,Fall 2013,sunday
+,990,990-MANOR/ELGIN EXPRESS,Express,Spring 2014,sunday
+,990,990-MANOR/ELGIN EXPRESS,Express,Summer 2014,sunday
+,990,990-MANOR/ELGIN EXPRESS,Express,Fall 2014,sunday
+,990,990-MANOR/ELGIN EXPRESS,Express,Spring 2015,sunday
+,990,990-MANOR/ELGIN EXPRESS,Express,Summer 2015,sunday
