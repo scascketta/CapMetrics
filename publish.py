@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+from __future__ import print_function
+from __future__ import unicode_literals
+
 import os
 import shutil
 import sqlite3
@@ -14,9 +17,6 @@ import pandas as pd
 
 import utils
 
-
-LOGGER = utils.LOGGER
-CONFIG = utils._load_config()
 
 POSITION_DTYPES = {
     'vehicle_id': np.str,
@@ -48,7 +48,7 @@ class Trip:
 
 
 def process_positions(positions):
-    LOGGER.info('Processing {} vehicle positions.'.format(len(positions)))
+    print('Processing {} vehicle positions.'.format(len(positions)))
     positions = positions[(positions.route_id != np.NaN) & (positions.trip_id != np.NaN)]
     # Cannot add a new column to a subset of rows
     # Have to add empty headsign to all rows which will be set correctly later
@@ -75,13 +75,13 @@ def get_positions(db_path, capmetricsd_path, date=None):
 
     date = arrow.now().replace(year=date.year, month=date.month, day=date.day, hour=0, minute=0, second=0, tzinfo='America/Chicago')
     day_before = date.replace(days=-1)
-    LOGGER.info('Fetching positions from {} to {}.'.format(day_before.isoformat(), date.isoformat()))
+    print('Fetching positions from {} to {}.'.format(day_before.isoformat(), date.isoformat()))
 
     tempdir = tempfile.mkdtemp()
     path = os.path.join(tempdir, 'output.csv')
 
     args = [capmetricsd_path, 'get', db_path, path, str(day_before.timestamp), str(date.timestamp)]
-    print args
+    print(args)
     code = subprocess.call(args)
     if int(code) != 0:
         raise Exception('Error getting data from capmetricsd: {}'.format(' '.join(args)))
@@ -105,9 +105,9 @@ def save_range_vehicle_positions(db_path, capmetricsd_path, output, start, end):
     num_days = (end - start).days + 1
     datelist = [end - datetime.timedelta(days=offset) for offset in range(num_days)]
 
-    LOGGER.info('Saving data from {} to {}.'.format(start.isoformat(), end.isoformat()))
+    print('Saving data from {} to {}.'.format(start.isoformat(), end.isoformat()))
     for date in reversed(datelist):
-        LOGGER.info('Saving data for {}'.format(date.isoformat()))
+        print('Saving data for {}'.format(date.isoformat()))
         save_vehicle_positions(db_path, capmetricsd_path, output, date)
 
 
@@ -118,5 +118,5 @@ if __name__ == '__main__':
     parser.add_argument('-O', '--output', type=str, default=OUTPUT_PATH, help='File to write data to.')
     args = parser.parse_args()
 
-    utils.load_gtfs_data(cache=True)
+    utils.load_gtfs_data()
     save_vehicle_positions(args.db, args.capmetricsd, args.output) 
