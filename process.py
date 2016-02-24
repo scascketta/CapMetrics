@@ -133,6 +133,49 @@ def get_sched_dev(pos):
     return sched_dev
 
 
+def select_pos_from_group(group):
+    '''
+    Let group be a group of positions where a vehicle has multiple positions
+    recorded for a single stop. This most likely means that the bus was
+    sitting there for a while, either ahead of schedule or behind schedule.
+
+    For the purposes of measuring reliability, we really just want to know:
+
+        A) Did it arrive ahead of schedule (causing people to miss the bus
+           even if they get to the stop on time)?
+
+        OR
+
+        B) Did the bus arrive behind schedule, and if so, how late?
+
+    In scenario A, all the positions have sched_dev < 0,
+    which means the bus arrived at the stop early. We want to know how early
+    the bus was when it left the stop, so we return the position with the
+    largest sched_dev.
+
+    In scenario B, at least one position has a sched_dev > 0, which means that
+    the bus arrived at the stop past late. We want to know how late the bus was
+    when it first arrived at the stop, so we return the position with the
+    smallest sched_dev.
+    '''
+
+    if len(group) == 1:
+        return group.iloc[0]
+
+    # if no positions exist within 250m, they're probably not useful
+    nearby = group.loc[group.distance_to_stop <= 0.25]
+    if nearby.empty:
+        return None
+
+    nonneg = nearby.loc[nearby.sched_dev >= 0]
+    if not nonneg.empty:
+        # at least 1 position with sched_dev >= 0, so bus is on/behind schedule
+        return nonneg.iloc[0]
+    else:
+        # no positions with sched_dev >= 0, so bus is ahead of schedule
+        return nearby.iloc[-1]
+
+
 def process_day(filepath, stops, schedule):
     print('Processing file:', filepath)
     positions = pd.read_csv(filepath)
@@ -143,7 +186,8 @@ def process_day(filepath, stops, schedule):
 
     positions.timestamp = positions.apply(lambda pos: arrow.get(pos.timestamp), axis=1)
 
-    nearest_stop_dicts = map(lambda row: get_nearest_stop(row[1], trip_stops[row[1].trip_id], stops), positions.iterrows())
+    nearest_stop = lambda pos: get_nearest_stop(pos[1], trip_stops[pos[1].trip_id], stops)
+    nearest_stop_dicts = map(nearest_stop, positions.iterrows())
     nearest_stops = pd.DataFrame(nearest_stop_dicts)
 
     positions['stop_lat'] = nearest_stops['stop_lat']
@@ -165,21 +209,26 @@ def process_day(filepath, stops, schedule):
     positions['dayofweek'] = positions.apply(lambda pos: pos.timestamp.isoweekday(), axis=1)
     positions['hourofday'] = positions.apply(lambda pos: pos.timestamp.datetime.hour, axis=1)
 
-    return positions
+    grouped = positions.groupby(['trip_id', 'stop_id'])
+    selected_positions = grouped.apply(select_pos_from_group)
+
+    return selected_positions
 
 
 def main(start, end, data_dir):
     dates = date_range(arrow.get(start), arrow.get(end))
     print('Processing dates from {} to {}'.format(start, end))
 
-    path = '{}/vehicle_positions/{}.csv'
-    paths = map(lambda day: (path.format(data_dir, day), arrow.get(day)), dates)
+    path = os.path.join(data_dir, 'vehicle_positions') + '/{}.csv'
+    paths = map(lambda day: (path.format(day), arrow.get(day)), dates)
 
     results = []
     for fpath, day in paths:
+        now = arrow.now()
         stops = get_metadata(day, 'stops', data_dir)
         schedule = get_metadata(day, 'schedule', data_dir)
         results.append(process_day(fpath, stops, schedule))
+        print('Process {} in {}s'.format(day, (arrow.now() - now).seconds))
 
     combined = pd.concat(results)
     combined.to_csv('{}_{}.csv'.format(start, end), index=False)
