@@ -137,16 +137,18 @@ def select_pos_from_group(group):
     '''
     Let group be a group of positions where a vehicle has multiple positions
     recorded for a single stop. This most likely means that the bus was
-    sitting there for a while, either ahead of schedule or behind schedule.
+    sitting there for a while. It may have first arrived on/behind or ahead of
+    schedule. (For our purposes, treat on or behind schedule as the same
+    scenario.)
 
     For the purposes of measuring reliability, we really just want to know:
 
-        A) Did it arrive ahead of schedule (causing people to miss the bus
-           even if they get to the stop on time)?
+        A) Did it first arrive ahead of schedule (causing people to miss the
+           bus even if they get to the stop on time)?
 
         OR
 
-        B) Did the bus arrive behind schedule, and if so, how late?
+        B) Did the bus first arrive on or behind schedule, and if so, how late?
 
     In scenario A, all the positions have sched_dev < 0,
     which means the bus arrived at the stop early. We want to know how early
