@@ -178,7 +178,7 @@ def select_pos_from_group(group):
         return nearby.iloc[-1]
 
 
-def process_day(filepath, stops, schedule):
+def _process_day(filepath, stops, schedule):
     print('Processing file:', filepath)
     positions = pd.read_csv(filepath)
 
@@ -217,6 +217,14 @@ def process_day(filepath, stops, schedule):
     return selected_positions
 
 
+def process_single_day(day, data_dir):
+    day_t = arrow.get(day)
+    fpath = os.path.join(data_dir, 'vehicle_positions', day + '.csv')
+    stops = get_metadata(day_t, 'stops', data_dir)
+    schedule = get_metadata(day_t, 'schedule', data_dir)
+    return _process_day(fpath, stops, schedule)
+
+
 def main(start, end, data_dir):
     dates = date_range(arrow.get(start), arrow.get(end))
     print('Processing dates from {} to {}'.format(start, end))
@@ -229,7 +237,7 @@ def main(start, end, data_dir):
         now = arrow.now()
         stops = get_metadata(day, 'stops', data_dir)
         schedule = get_metadata(day, 'schedule', data_dir)
-        results.append(process_day(fpath, stops, schedule))
+        results.append(_process_day(fpath, stops, schedule))
         print('Process {} in {}s'.format(day, (arrow.now() - now).seconds))
 
     combined = pd.concat(results)
