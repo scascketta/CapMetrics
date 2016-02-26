@@ -178,9 +178,7 @@ def select_pos_from_group(group):
         return nearby.iloc[-1]
 
 
-def _process_day(filepath, stops, schedule):
-    print('Processing file:', filepath)
-    positions = pd.read_csv(filepath)
+def process_day(positions, stops, schedule):
 
     trip_stops = {}
     for trip_id in positions.trip_id.unique():
@@ -222,10 +220,11 @@ def process_single_day(day, data_dir):
     fpath = os.path.join(data_dir, 'vehicle_positions', day + '.csv')
     stops = get_metadata(day_t, 'stops', data_dir)
     schedule = get_metadata(day_t, 'schedule', data_dir)
-    return _process_day(fpath, stops, schedule)
+    print('Processing file:', fpath)
+    return process_day(pd.read_csv(fpath), stops, schedule)
 
 
-def main(start, end, data_dir):
+def process_range(start, end, data_dir):
     dates = date_range(arrow.get(start), arrow.get(end))
     print('Processing dates from {} to {}'.format(start, end))
 
@@ -234,10 +233,12 @@ def main(start, end, data_dir):
 
     results = []
     for fpath, day in paths:
-        now = arrow.now()
         stops = get_metadata(day, 'stops', data_dir)
         schedule = get_metadata(day, 'schedule', data_dir)
-        results.append(_process_day(fpath, stops, schedule))
+        now = arrow.now()
+        print('Processing file:', fpath)
+        df = process_day(pd.read_csv(fpath), stops, schedule)
+        results.append(df)
         print('Process {} in {}s'.format(day, (arrow.now() - now).seconds))
 
     combined = pd.concat(results)
@@ -251,4 +252,4 @@ if __name__ == '__main__':
     parser.add_argument('-d', '--data-dir', required=True, type=str, help='Path to data directory')
     args = parser.parse_args()
 
-    main(args.start, args.end, args.data_dir)
+    process_range(args.start, args.end, args.data_dir)
