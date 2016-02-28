@@ -4,7 +4,6 @@ from __future__ import print_function
 from __future__ import unicode_literals
 
 import os
-from datetime import timedelta
 
 import gtfsdb
 import requests
@@ -13,15 +12,6 @@ from gtfsdb.api import database_load
 GTFS_DOWNLOAD_FILE = os.path.join('/tmp', 'capmetro_gtfs.zip')
 GTFS_DB = os.path.join('/tmp', 'capmetro_gtfs_data.db')
 FETCH_URL = 'https://data.texas.gov/download/r4v4-vz24/application/zip'
-
-
-def date_range(start, end):
-    delta = end - start
-    res = []
-    for i in range(delta.days + 1):
-        d = start + timedelta(days=i)
-        res.append(d.strftime('%Y-%m-%d'))
-    return res
 
 
 def _fetch_gtfs_data(gtfs_url):
