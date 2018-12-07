@@ -1,6 +1,8 @@
 # CapMetrics
 This repo contains vehicle location data provided by [Capital Metro](http://www.capmetro.org/). The data describing the routes, schedules etc is described by a standard format called [GTFS](https://developers.google.com/transit/gtfs/). You can find the GTFS data describing the routes and schedules for CapMetro on their [data portal](https://data.texas.gov/Capital-Metro/Capital-Metro-Google-Transit/r4v4-vz24).
 
+NOTE: This project is no longer maintained sadly, and vehicle location data collection is suspended indefinitely.
+
 ## Query this dataset on BigQuery!
 
 I've loaded some of the data here from March 2015 to December 2015 onto a [public dataset](https://bigquery.cloud.google.com/table/capmetrics:capmetrics.vehicle_position) on Google BigQuery. Go check it out!
